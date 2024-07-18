@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yasin on Yasin Alam</title>
+    <link>http://localhost:1313/authors/yasin/</link>
+    <description>Recent content in Yasin on Yasin Alam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Jul 2024 01:15:06 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/yasin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Thu, 18 Jul 2024 01:15:06 -0500</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&#xD;This is a test. Hello World.&#xD;Link to heading&#xD;</description>
+    </item>
+  </channel>
+</rss>
