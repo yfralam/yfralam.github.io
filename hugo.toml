@@ -7,7 +7,7 @@ defaultcontentlanguage = "en"
 paginate = 20
 
 [markup]
-	markup.tableOfContents]
+	[markup.tableOfContents]
 		startLevel = 2
 		endLevel = 5
 		ordered = true
