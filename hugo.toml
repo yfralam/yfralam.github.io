@@ -6,6 +6,12 @@ defaultcontentlanguage = "en"
 
 paginate = 20
 
+[markup]
+	markup.tableOfContents]
+		startLevel = 2
+		endLevel = 5
+		ordered = true
+
 #[services]
 #[services.disqus]
 #disqusShortname = "yourdiscussshortname"
