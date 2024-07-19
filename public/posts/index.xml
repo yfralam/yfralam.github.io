@@ -6,14 +6,21 @@
     <description>Recent content in Posts on Yasin Alam</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jul 2024 01:15:06 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 19:24:28 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Purpose</title>
+      <link>http://localhost:1313/posts/purpose/</link>
+      <pubDate>Thu, 18 Jul 2024 19:24:28 -0500</pubDate>
+      <guid>http://localhost:1313/posts/purpose/</guid>
+      <description>Introduction Purpose Life Physics Learning Random thoughts Projects TODO Introduction&#xD;Link to heading&#xD;Recently, I have been thinking to myself more and more that I should have a blog or a website to write down my thoughts. Inspired by several blogs, including Jacques Distler&amp;rsquo;s Blog and finally given the push by an old friend (who kindly walked me through the setup), I have decided to start this blog.&#xA;Something about having one&amp;rsquo;s own site appeals to me.</description>
+    </item>
     <item>
       <title>Hello World</title>
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Thu, 18 Jul 2024 01:15:06 -0500</pubDate>
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&#xD;This is a test. Hello World.&#xD;Link to heading&#xD;</description>
+      <description>This is a test. Hello World. Testing the TOC This is a test. Hello World.&#xD;Link to heading&#xD;This is a test with latex inline: $\int d^4x \sqrt{-g} \mathcal{L}$, to display let us try $$\int d^2 \sigma , \partial_\mu X \partial^\mu X , .$$&#xA;Testing the TOC&#xD;Link to heading&#xD;the quick brown fox did some lorem ipsum 分かるか？</description>
     </item>
   </channel>
 </rss>
