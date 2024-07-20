@@ -4,16 +4,19 @@
     <title>Test on Yasin Alam</title>
     <link>http://localhost:1313/tags/test/</link>
     <description>Recent content in Test on Yasin Alam</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jul 2024 01:15:06 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Yasin Alam</copyright>
+    <lastBuildDate>Thu, 18 Jul 2024 01:15:06 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Thu, 18 Jul 2024 01:15:06 -0500</pubDate>
+      
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>This is a test. Hello World. Testing the TOC This is a test. Hello World.&#xD;Link to heading&#xD;This is a test with latex inline: $\int d^4x \sqrt{-g} \mathcal{L}$, to display let us try $$\int d^2 \sigma , \partial_\mu X \partial^\mu X , .$$&#xA;Testing the TOC&#xD;Link to heading&#xD;the quick brown fox did some lorem ipsum 分かるか？</description>
+      <description>This is a test.</description>
+      
     </item>
+    
   </channel>
 </rss>

@@ -1,39 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
   <url>
-    <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2024-07-18T19:24:28-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/misc/</loc>
-    <lastmod>2024-07-18T19:24:28-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-07-18T19:24:28-05:00</lastmod>
-  </url><url>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/purpose/</loc>
     <lastmod>2024-07-18T19:24:28-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-07-18T19:24:28-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/yasin/</loc>
-    <lastmod>2024-07-18T19:24:28-05:00</lastmod>
-  </url><url>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-18T19:24:28-05:00</lastmod>
-  </url><url>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/hello-world/</loc>
     <lastmod>2024-07-18T01:15:06-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/test/</loc>
-    <lastmod>2024-07-18T01:15:06-05:00</lastmod>
-  </url><url>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-07-18T01:10:02-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

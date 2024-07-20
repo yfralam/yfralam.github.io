@@ -10,7 +10,7 @@ categories = []
 externalLink = ""
 series = []
 +++
-{{< toc >}}
+{{< katex >}}
 ## This is a test. Hello World.
 This is a test with latex inline: $\int d^4x \sqrt{-g} \mathcal{L}$, to display let us try $$\int d^2 \sigma \, \partial_\mu X \partial^\mu X \, .$$
 ## Testing the TOC

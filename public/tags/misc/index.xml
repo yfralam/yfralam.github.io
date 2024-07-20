@@ -4,16 +4,19 @@
     <title>Misc on Yasin Alam</title>
     <link>http://localhost:1313/tags/misc/</link>
     <description>Recent content in Misc on Yasin Alam</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jul 2024 19:24:28 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/misc/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Yasin Alam</copyright>
+    <lastBuildDate>Thu, 18 Jul 2024 19:24:28 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/misc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Purpose</title>
       <link>http://localhost:1313/posts/purpose/</link>
       <pubDate>Thu, 18 Jul 2024 19:24:28 -0500</pubDate>
+      
       <guid>http://localhost:1313/posts/purpose/</guid>
-      <description>Introduction Purpose Life Physics Learning Random thoughts Projects TODO Introduction&#xD;Link to heading&#xD;Recently, I have been thinking to myself more and more that I should have a blog or a website to write down my thoughts. Inspired by several blogs, including Jacques Distler&amp;rsquo;s Blog and finally given the push by an old friend (who kindly walked me through the setup), I have decided to start this blog.&#xA;Something about having one&amp;rsquo;s own site appeals to me.</description>
+      <description>Introduction #Recently, I have been thinking to myself more and more that I should have a blog or a website to write down my thoughts.</description>
+      
     </item>
+    
   </channel>
 </rss>
