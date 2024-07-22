@@ -19,7 +19,8 @@ image = "img/yare-yare.gif"
 headline = "研究が終わらない"
 io = "A little bit about you"
    links = [
-   {orcid = "https://inspirehep.net/authors/2698694?ui-citation-summary=true&ui-exclude-self-citations=true"}
+   {orcid = "https://inspirehep.net/authors/2698694?ui-citation-summary=true&ui-exclude-self-citations=true"},
+   {rss = "https://yfralam.github.io/index.xml"}
    ]
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
