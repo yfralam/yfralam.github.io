@@ -7,23 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Yasin Alam</copyright>
-    <lastBuildDate>Thu, 18 Jul 2024 19:24:28 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Jul 2024 22:24:28 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Holography for Laymen</title>
+      <link>http://localhost:1313/posts/holography/holography/</link>
+      <pubDate>Sat, 20 Jul 2024 22:24:28 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/holography/holography/</guid>
+      <description>Introduction #Imagine a 3d solid cylinder.</description>
+      
+    </item>
+    
     <item>
       <title>Purpose</title>
-      <link>http://localhost:1313/posts/purpose/</link>
+      <link>http://localhost:1313/posts/purpose/purpose/</link>
       <pubDate>Thu, 18 Jul 2024 19:24:28 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/purpose/</guid>
+      <guid>http://localhost:1313/posts/purpose/purpose/</guid>
       <description>Introduction #Recently, I have been thinking to myself more and more that I should have a blog or a website to write down my thoughts.</description>
       
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>http://localhost:1313/posts/hello-world/hello-world/</link>
       <pubDate>Thu, 18 Jul 2024 01:15:06 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>http://localhost:1313/posts/hello-world/hello-world/</guid>
       <description>This is a test.</description>
       
     </item>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physics on Yasin Alam</title>
+    <link>http://localhost:1313/tags/physics/</link>
+    <description>Recent content in Physics on Yasin Alam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Yasin Alam</copyright>
+    <lastBuildDate>Sat, 20 Jul 2024 22:24:28 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/physics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Holography for Laymen</title>
+      <link>http://localhost:1313/posts/holography/holography/</link>
+      <pubDate>Sat, 20 Jul 2024 22:24:28 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/holography/holography/</guid>
+      <description>Introduction #Imagine a 3d solid cylinder.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

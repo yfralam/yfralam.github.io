@@ -3,25 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-07-18T19:24:28-05:00</lastmod>
+    <loc>http://localhost:1313/posts/holography/holography/</loc>
+    <lastmod>2024-07-20T22:24:28-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/purpose/</loc>
-    <lastmod>2024-07-18T19:24:28-05:00</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-07-20T22:24:28-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-20T22:24:28-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/purpose/purpose/</loc>
     <lastmod>2024-07-18T19:24:28-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/hello-world/</loc>
+    <loc>http://localhost:1313/posts/hello-world/hello-world/</loc>
     <lastmod>2024-07-18T01:15:06-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
