@@ -64,10 +64,6 @@
                         </div>
                         {{ end }}
                     </div>
-					<div class="w-1/4 p-4">
-						<!-- Spotify box -->
-						<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6n9AvpTLSNunpIr2Gr2AXa?utm_source=generator" width="400" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-					</div>
                     <section class="prose prose-invert">{{ .Content }}</section>
                 </div>
             </div>
@@ -77,17 +73,3 @@
 <section>
     {{ partial "recent-articles/main.html" . }}
 </section>
-
-<!-- Add flex container and Spotify box -->
-<div class="flex">
-    <div class="flex-grow">
-        <!-- Main content -->
-        <div class="max-w-7xl">
-            <!-- Existing content here -->
-        </div>
-    </div>
-    <div class="w-1/4 p-4">
-        <!-- Spotify box
-        <iframe src="https://open.spotify.com/embed/playlist/your_playlist_id" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-    --></div>
-</div>
