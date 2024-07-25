@@ -103,7 +103,7 @@
     "keywords": ["physics"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "3195"
+    "wordCount": "3196"
   }]
   </script>
 
@@ -297,7 +297,11 @@
   </div>
   
   
-  <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
+  <div class="min-h-[148px]"></div>
+<div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
+  <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
+  <div class="relative max-w-[64rem] ml-auto mr-auto">
+    <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
     
     <div class="flex flex-1 items-center justify-between">
@@ -510,6 +514,16 @@
 
 
 
+  </div>
+</div>
+<script>
+  window.addEventListener('scroll', function (e) {
+    var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    var background_blur = document.getElementById('menu-blur');
+    background_blur.style.opacity = (scroll / 300);
+  });
+</script>
+
   
   <div class="relative flex flex-col grow">
     <main id="main-content" class="grow">
@@ -567,7 +581,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-07-20 22:24:28 -0500 CDT">20 July 2024</time><span class="px-2 text-primary-500">&middot;</span><span>3195 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">15 mins</span>
+  <time datetime="2024-07-20 22:24:28 -0500 CDT">20 July 2024</time><span class="px-2 text-primary-500">&middot;</span><span>3196 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">16 mins</span>
   
 
   
@@ -706,7 +720,7 @@
     
      <div
       class="order-first lg:ml-auto px-0 lg:order-last ltr:lg:pl-8 rtl:lg:pr-8">
-      <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-10">
+      <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-[140px]">
 
          <details open id="TOCView"
   class="toc-right mt-0 overflow-y-scroll overscroll-contain scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600 rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
@@ -1007,7 +1021,7 @@ If we want to count all the configurations my states can take, or multiplicity \
     </figure>
 </p>
 <p><strong>On first read through, it is sufficient to skip to &ldquo;All Together Now.</strong>&rdquo; The keypoints from the bottom section will be listed.</p>
-<p>Despite my best intentions, the best I can do is a pale mimicry of what AdS/CFT correspondence really is. Without discussing how the correspondence arises, stacking N D3-branes and looking at the perturbative expansion of large N theories and string theory, the understanding is only surface level. You <em>need</em> the math. For those that want this detail, I think Hong Liu&rsquo;s <a href="https://ocw.mit.edu/courses/8-821-string-theory-and-holographic-duality-fall-2014/" target="_blank">MIT OCW</a>on the topic is excellent and has plenty of exercises. Other than that, for now just trust me.</p>
+<p>Despite my best intentions, the best I can do is a pale mimicry of what AdS/CFT correspondence really is. Without discussing how the correspondence arises, stacking N D3-branes and looking at the perturbative expansion of large N theories and string theory, the understanding is only surface level. You <em>need</em> the math. For those that want this detail, I think Hong Liu&rsquo;s <a href="https://ocw.mit.edu/courses/8-821-string-theory-and-holographic-duality-fall-2014/" target="_blank">MIT OCW</a> on the topic is excellent and has plenty of exercises. Other than that, for now just trust me.</p>
 
 
 <h3 class="relative group">Geometry 

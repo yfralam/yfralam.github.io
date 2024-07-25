@@ -29,7 +29,7 @@ disableTextInHeader = false
 # smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -42,7 +42,7 @@ disableTextInHeader = false
   layout = "hero" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 2
+  showRecentItems = 3
   showMoreLink = false
   showMoreLinkDest = "/posts"
   cardView = true

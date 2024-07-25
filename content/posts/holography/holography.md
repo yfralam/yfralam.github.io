@@ -72,7 +72,7 @@ On the LHS, string theory is a theory of QG and Anti-de Sitter (AdS) is the spac
 
 **On first read through, it is sufficient to skip to "All Together Now.**" The keypoints from the bottom section will be listed.
 
-Despite my best intentions, the best I can do is a pale mimicry of what AdS/CFT correspondence really is. Without discussing how the correspondence arises, stacking N D3-branes and looking at the perturbative expansion of large N theories and string theory, the understanding is only surface level. You *need* the math. For those that want this detail, I think Hong Liu's [MIT OCW](https://ocw.mit.edu/courses/8-821-string-theory-and-holographic-duality-fall-2014/)on the topic is excellent and has plenty of exercises. Other than that, for now just trust me.
+Despite my best intentions, the best I can do is a pale mimicry of what AdS/CFT correspondence really is. Without discussing how the correspondence arises, stacking N D3-branes and looking at the perturbative expansion of large N theories and string theory, the understanding is only surface level. You *need* the math. For those that want this detail, I think Hong Liu's [MIT OCW](https://ocw.mit.edu/courses/8-821-string-theory-and-holographic-duality-fall-2014/) on the topic is excellent and has plenty of exercises. Other than that, for now just trust me.
 
 ### Geometry
 
