@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mi on Yasin Alam</title>
+    <link>http://localhost:1313/tags/mi/</link>
+    <description>Recent content in Mi on Yasin Alam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Yasin Alam</copyright>
+    <lastBuildDate>Thu, 18 Jul 2024 19:24:28 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/mi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Purpose</title>
+      <link>http://localhost:1313/posts/purpose/purpose/</link>
+      <pubDate>Thu, 18 Jul 2024 19:24:28 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/purpose/purpose/</guid>
+      <description>Introduction #Recently, I have been thinking to myself more and more that I should have a blog or a website to write down my thoughts.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
