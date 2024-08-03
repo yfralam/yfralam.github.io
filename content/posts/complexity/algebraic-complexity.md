@@ -13,14 +13,14 @@ enableComments = true
 +++
 {{< katex >}}
 
-# Operators and Black Hole Info
+## Operators and Black Hole Info
 Today, the arxivs have graced us with a paper on [An Operator Algebraic Approach To Black Hole Information](https://arxiv.org/abs/2408.00071) by van der Heijden and Verlinde. In it, they describe using the operator algebra picture to describe some concepts in the information paradox and particularly focus on times much later than the page time. Specifically, they look at the limits with \\(G \rightarrow 0\\) and fixed inverse temperature \\( \beta\\), and are able to say some very interesting things regarding how Bob can reconstruct the dictionary Alice has (rudely) thrown in.
 
 They mainly focus on type I algebras and show in the limit of above, they are able to get II without the crossed product. This is extremely interesting as there may be a hope to unite the type I description (and all the unitary-ness) with the type III geometric picture. Really, it doesn't seem like anything would stop one from adopting [Hong and Sam's approach](https://arxiv.org/abs/2112.12156) to push to a type III.
 
 This also seems like a natural language to talk about QES and Islands as well. 
 
-# Complexity
+## Complexity
 
 Complexity, in QIS, has a well known interpretation. It is (roughly) the number of unitaries I need to apply to a reference state to get to a chosen state. Despite this, the notion of complexity in QFTs, with its infinite degrees of freedom, is hard to understand. As far as I am aware, there isn't any concrete proposal that is widely accepted at this point.
 
@@ -30,7 +30,7 @@ It seems like a good notion of complexity may exist in the framework of Algebrai
 
 It seems like a nice interpretation may be channel complexity is how hard it is to perform a measurement.
 
-# Complexity for Black Holes?
+## Complexity for Black Holes?
 It is yet to be seen whether the definition of complexity above is relevant everywhere. A place where complexity pops up over and over is holography, where there seems to be some interpretation in the bulk (yet not on the QFT). This provides a decent playground for initial tests.
 
 A very quick check one may do is as follows: 
