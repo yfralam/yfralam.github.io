@@ -7,13 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Yasin Alam</copyright>
-    <lastBuildDate>Sun, 28 Jul 2024 16:13:43 -0500</lastBuildDate><atom:link href="http://localhost:1313/authors/yasin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Aug 2024 20:47:12 -0500</lastBuildDate><atom:link href="http://localhost:1313/authors/yasin/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coffee</title>
-      <link>http://localhost:1313/posts/coffee/coffee/</link>
+      <title>On Complexity in QFT and Algebras</title>
+      <link>http://localhost:1313/posts/complexity/algebraic-complexity/</link>
+      <pubDate>Fri, 02 Aug 2024 20:47:12 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/complexity/algebraic-complexity/</guid>
+      <description>Operators and Black Hole Info #Today, the arxivs graced us by a paper on An Operator Algebraic Approach To Black Hole Information by van der Heijden and Verlinde.</description>
+      
+    </item>
+    
+    <item>
+      <title>Coffee in Austin</title>
+      <link>http://localhost:1313/posts/coffee/coffee-in-austin/</link>
       <pubDate>Sun, 28 Jul 2024 16:13:43 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/coffee/coffee/</guid>
+      <guid>http://localhost:1313/posts/coffee/coffee-in-austin/</guid>
       <description>It seems I will be here for a while, so I might as well make a list of all the coffee shops I&amp;rsquo;ve been to.</description>
       
     </item>

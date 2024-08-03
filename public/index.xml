@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Yasin Alam</copyright>
-    <lastBuildDate>Sun, 28 Jul 2024 16:13:43 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Aug 2024 20:47:12 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Complexity in QFT and Algebras</title>
+      <link>http://localhost:1313/posts/complexity/algebraic-complexity/</link>
+      <pubDate>Fri, 02 Aug 2024 20:47:12 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/complexity/algebraic-complexity/</guid>
+      <description>Operators and Black Hole Info #Today, the arxivs have graced us with a paper on An Operator Algebraic Approach To Black Hole Information by van der Heijden and Verlinde.</description>
+      
+    </item>
+    
     <item>
       <title>Coffee in Austin</title>
       <link>http://localhost:1313/posts/coffee/coffee-in-austin/</link>
