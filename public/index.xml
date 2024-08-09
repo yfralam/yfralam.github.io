@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Yasin Alam</copyright>
-    <lastBuildDate>Fri, 02 Aug 2024 20:47:12 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Aug 2024 18:46:24 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dead Ends, Flat Holography, and 7d SCFTs</title>
+      <link>http://localhost:1313/posts/scft/dead-ends/</link>
+      <pubDate>Thu, 08 Aug 2024 18:46:24 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/scft/dead-ends/</guid>
+      <description>Every now and then, one pursues and idea thinking it could lead to something interesting, but then soon finds a dead end.</description>
+      
+    </item>
+    
     <item>
       <title>On Complexity in QFT and Algebras</title>
       <link>http://localhost:1313/posts/complexity/algebraic-complexity/</link>
