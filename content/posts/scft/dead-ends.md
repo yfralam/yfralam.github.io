@@ -13,7 +13,7 @@ enableComments = true
 +++
 {{< katex >}}
 
-Every now and then, one pursues and idea thinking it could lead to something interesting, but then soon finds a dead end. Despite this, there may be one or two concepts that are interesting to talk about, yet not worthy of publication. While searching for Carroll SCFT, symmetries and unitarity bounds seem to suggest 7d SCFTs exist if they are Carroll.
+Every now and then, one pursues an idea thinking it could lead to something interesting, but then soon finds a dead end. Despite this, there may be one or two concepts that are interesting to talk about, yet not worthy of publication. While searching for Carroll SCFT, symmetries and unitarity bounds seem to suggest 7d SCFTs exist if they are Carroll.
 ## Naïve Unraveling of \\(AdS_5 \times S^5 \\)
 One goal of the flat holography program is to obtain an S-matrix for flat space holographically. As [Polchinski](https://arxiv.org/abs/hep-th/9901076) has shown, a way that one could do this is to take the limit $$R \rightarrow \infty$$ where \\(R\\) is the radius of AdS. There are some stringent consistency conditions that make this much harder than expected. [Recently](https://arxiv.org/abs/2406.19343) it has been shown by taking Carroll limits of Witten diagrams, one is able to obtain amplitudes that make sense.  Nevertheless, these programs (celestial holography included) really only talk about the boundary theory and bulk kinematically. What one really wants is a "dictionary" analogous to AdS/CFT.
 
