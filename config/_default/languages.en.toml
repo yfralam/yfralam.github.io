@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Yasin Alam"
+title = "Yasin"
 
 [params]
   displayName = "EN"
@@ -14,7 +14,7 @@ title = "Yasin Alam"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
-name = "Yasin Alam"
+name = "Yasin"
 image = "img/yare-yare.gif"
 headline = "研究が終わらない"
 io = "A little bit about you"
