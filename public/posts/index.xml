@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Yasin Alam</title>
+    <title>Posts on Yasin</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Yasin Alam</description>
+    <description>Recent content in Posts on Yasin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Yasin Alam</copyright>
-    <lastBuildDate>Thu, 08 Aug 2024 18:46:24 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Yasin</copyright>
+    <lastBuildDate>Sun, 25 Aug 2024 02:24:05 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>古典と現代小説を読むことの感想</title>
+      <link>http://localhost:1313/posts/nihongo/hontachi/</link>
+      <pubDate>Sun, 25 Aug 2024 02:24:05 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/nihongo/hontachi/</guid>
+      <description>これまで私にとっては、よく難解ことであるが、色々な古典小説を読もうとしている。最近、参考までに、住野よるの「また、同じ夢を見ていた」を読んでいた。主人公が小学生ので、「このキャラの言葉や考え方は分かることがかんたんはずでしょう」と思えた。たしかに、間違ていなかったけど、「かんたん」というより、「モダン」というもっと正解です。この時、やっと気づきました。夏目漱石や太宰治の本の文体は素敵ことはすてきが、日常会話のために（とくにカジュアル会話）あまり普通じゃない。</description>
+      
+    </item>
+    
     <item>
       <title>Dead Ends, Flat Holography, and 7d SCFTs</title>
       <link>http://localhost:1313/posts/scft/dead-ends/</link>

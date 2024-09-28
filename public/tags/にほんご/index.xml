@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>にほんご on Yasin</title>
+    <link>http://localhost:1313/tags/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94/</link>
+    <description>Recent content in にほんご on Yasin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Yasin</copyright>
+    <lastBuildDate>Sun, 25 Aug 2024 02:24:05 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/%E3%81%AB%E3%81%BB%E3%82%93%E3%81%94/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>古典と現代小説を読むことの感想</title>
+      <link>http://localhost:1313/posts/nihongo/hontachi/</link>
+      <pubDate>Sun, 25 Aug 2024 02:24:05 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/nihongo/hontachi/</guid>
+      <description>これまで色々な古典小説を中心に読んできたが、難解ではあるのに、頑張りました。最近、参考までに、住野よるの「また、同じ夢を見ていた」を読んでいた。この時、やっと気づきました。夏目漱石や太宰治の本の文体は素敵に対して、日常会話のために（とくにカジュアル会話）あまり普通じゃない。</description>
+      
+    </item>
+    
+  </channel>
+</rss>
