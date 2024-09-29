@@ -69,7 +69,7 @@ So the entropy of a black hole scales with the area, so what? While there were h
 
 On the LHS, string theory is a theory of QG and Anti-de Sitter (AdS) is the spacetime that the string theory "lives on". On the RHS, \\(\mathcal N = 4\\) denotes the amount of supersymmetry, a symmetry between forces and matter, and an SU(N) Super Yang Mills is a CFT (A QFT with conformal invariace, which we will discuss later) analogous to the strong force.  It will be helpful to include the math, but I will try to demarcate what the necessary information is so you don't need to go into it if you don't want to. This is a concrete realization of the aforementioned holographic principle.
 
-![AdS3](/posts/holography/img/AdS3.png)
+![AdS3](/posts/holography/img/adsthree.png)
 
 **On first read through, it is sufficient to skip to "All Together Now.**" The keypoints from the bottom section will be listed.
 

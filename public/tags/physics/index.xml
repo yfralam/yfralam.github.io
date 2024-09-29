@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Yasin</copyright>
-    <lastBuildDate>Thu, 08 Aug 2024 18:46:24 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/physics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Sep 2024 00:57:34 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/physics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI, Research, and Why I Left Computer Science(ish) Pt. 1</title>
+      <link>http://localhost:1313/posts/compsci/ai-pt1/</link>
+      <pubDate>Sun, 29 Sep 2024 00:57:34 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/compsci/ai-pt1/</guid>
+      <description>Abstract #As some may know, I completed an undergraduate degree in computer science, primarily focusing on AI and reinforcement learning.</description>
+      
+    </item>
+    
     <item>
       <title>Dead Ends, Flat Holography, and 7d SCFTs</title>
       <link>http://localhost:1313/posts/scft/dead-ends/</link>
@@ -34,7 +44,7 @@
       <pubDate>Sat, 20 Jul 2024 22:24:28 -0500</pubDate>
       
       <guid>http://localhost:1313/posts/holography/holography/</guid>
-      <description>Introduction #Imagine a 3d solid cylinder.</description>
+      <description>Edit 29 Sep 2024: At some point I&amp;rsquo;d like to revisit this.</description>
       
     </item>
     

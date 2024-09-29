@@ -16,9 +16,9 @@ enableComments = true
 
 ## Abstract
 
-As some may know, I completed an undergraduate degree in computer science, primarily focusing on AI and reinforcement learning. Before what I know becomes too outdated, I'd like to detail my experience doing research on AI, some general thoughts on where AI is now, and why I decided to (for the most part) leave the field.
+As some may know, I completed an undergraduate degree in computer science, primarily focusing on AI and reinforcement learning. Before what I know becomes too outdated, I'd like to detail my experience doing research on AI, some general thoughts and criticisms on where AI research is now, and why I decided to (for the most part) leave the field.
 
-Of course, one should take this entire manuscript with a heavy pinch of salt. One should always take care to not place much weight on people that speak outside of their fields. Much of what will be said here is opinion, and the scientific remarks may or may not be right (or simply just outdated). I am more than happy to be corrected in discussions.
+Of course, one should take this entire manuscript with a heavy pinch of salt. Competent individuals should almost always take care to not place much weight on people that speak outside of their fields. Much of what will be said here is opinion, and the scientific remarks may or may not be right (or simply just outdated). I am more than happy to be corrected in discussions.
 
 As the manuscript was getting a bit long, I've decided to split this into two parts, with the first being more my personal experience, and the second being some criticisms and opinions.
 
@@ -50,7 +50,7 @@ the setup for RL has an agent living in an environment. The agent can act on the
 ### Quick Intro to RL
 
 I worked in the subfield of AI called RL. Really I should talk about Markov Decision Processes, but that is too much depth. All you need to know is that the setup consists of an environment \\(\mathcal E\\), an agent that can do some action \\(\mathcal A\\), and a reward \\(\mathcal R\\) that the environment gives the agent depending on whether the agent did something desirable. 
-![Rl algorithm](/posts/compsci/img/RL.png)
+![Rl algorithm](/posts/compsci/img/reinforcement.png)
 The canonical example is cartpole (which my friend did an intro to [here](https://vajralakushal.github.io/posts/basic-rl/cart-pole/)). Essentially, the setup is a cart that is trying to balance a pole. When the cart moves to the left or right (does \\(\mathcal A\\) ), \\(\mathcal E\\) sees whether the pole is still balanced or not and gives the agent \\(\mathcal R\\) accordingly. 
 ![Cartpole robot](/posts/compsci/img/cart_pole.gif)
 

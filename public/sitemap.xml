@@ -3,14 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/posts/compsci/ai-pt1/</loc>
+    <lastmod>2024-09-29T00:57:34-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-09-29T19:57:34-05:00</lastmod>
+    <lastmod>2024-09-29T00:57:34-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-29T19:57:34-05:00</lastmod>
+    <lastmod>2024-09-29T00:57:34-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
