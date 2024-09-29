@@ -1,6 +1,6 @@
 +++
 title = '古典と現代小説を読むことの感想'
-date = 2024-08-25T02:24:05-05:00
+date = 2024-09-27T02:24:05-05:00
 draft = false
 description = "Thoughts on Modern vs Classic literature"
 slug = ""

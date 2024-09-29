@@ -7,11 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Yasin</copyright>
-    <lastBuildDate>Sun, 25 Aug 2024 02:24:05 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Sep 2024 00:57:34 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI, Research, and Why I Left Computer Science(ish) Pt. 1</title>
+      <link>http://localhost:1313/posts/compsci/ai-pt1/</link>
+      <pubDate>Sun, 29 Sep 2024 00:57:34 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/compsci/ai-pt1/</guid>
+      <description>Abstract #As some may know, I completed an undergraduate degree in computer science, primarily focusing on AI and reinforcement learning.</description>
+      
+    </item>
+    
     <item>
       <title>古典と現代小説を読むことの感想</title>
       <link>http://localhost:1313/posts/nihongo/hontachi/</link>
-      <pubDate>Sun, 25 Aug 2024 02:24:05 -0500</pubDate>
+      <pubDate>Fri, 27 Sep 2024 02:24:05 -0500</pubDate>
       
       <guid>http://localhost:1313/posts/nihongo/hontachi/</guid>
       <description>これまで私にとっては、よく難解ことであるが、色々な古典小説を読もうとしている。最近、参考までに、住野よるの「また、同じ夢を見ていた」を読んでいた。主人公が小学生ので、「このキャラの言葉や考え方は分かることがかんたんはずでしょう」と思えた。たしかに、間違ていなかったけど、「かんたん」というより、「モダン」というもっと正解です。この時、やっと気づきました。夏目漱石や太宰治の本の文体は素敵ことはすてきが、日常会話のために（とくにカジュアル会話）あまり普通じゃない。</description>
@@ -54,7 +64,7 @@
       <pubDate>Sat, 20 Jul 2024 22:24:28 -0500</pubDate>
       
       <guid>http://localhost:1313/posts/holography/holography/</guid>
-      <description>Introduction #Imagine a 3d solid cylinder.</description>
+      <description>Edit 29 Sep 2024: At some point I&amp;rsquo;d like to revisit this.</description>
       
     </item>
     

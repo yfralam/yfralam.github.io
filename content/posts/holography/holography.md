@@ -13,6 +13,7 @@ enableComments = true
 +++
 {{< katex >}}
 
+Edit 29 Sep 2024: At some point I'd like to revisit this. I don't think I did a very good job describing this for a "Layman".
 ## Introduction
 
 Imagine a 3d solid cylinder. The 2d "boundary" is what wraps the cylinder (the thing with area \\( A=2\pi R h\\) ) while the 3d "bulk" is the inside of the cylinder. As another example, if you take a soda can, the "bulk" is the soda and the "boundary is the aluminum." Now if you walk around the boundary of the cylinder, hit it with a hammer, or otherwise do any action on the surface, there is an *entirely equivalent* process happening inside the bulk. In other words, just by studying the boundary of this cylinder, I can understand what is happening inside. This is the essence of *holography*. ![A cylinder being unwrapped](/posts/holography/img/cylinder.png) 
