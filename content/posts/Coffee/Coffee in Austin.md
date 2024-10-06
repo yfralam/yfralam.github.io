@@ -2,7 +2,7 @@
 title = 'Coffee in Austin'
 date = 2024-07-28T16:13:43-05:00
 draft = false
-description = "Coffee in Austin"
+description = "Coffee in Austin, Last updated 6 Oct 2024"
 slug = ""
 authors = ['yasin']
 tags = ['life']
@@ -34,6 +34,20 @@ Score are subject to change if I go back.
 
 ## SHOPS ##
 
+### [First Light Book Shop](https://g.co/kgs/Kw52nXh) (4.25/5)
+
+> 4 for Coffee
+- 4.5 for Aesthetic
+- Nice book selection
+
+**Orders**
+Generally, places with a very nice aesthetic don't have amazing coffee in my experience. Thus, I was pleasantly surprised when I got an excellent cortado rather late at night. I need to go back and try more things, but my one experience so far has been nothing but good.
+
+**Vibe**
+As the name suggests, this place is a coffee shop. They have a good amount of indoor seating among the book shelves and a lot of outdoor seating. The area is in Hyde park, so a bit of a quieter part of North Austin. The detailing and ambiance of the store is great and has a nice laid back vibe. I see some people there studying, some there just to read books. I know they have events some times but I have yet to go to one. It is also nice that they are open until 9 PM.
+
+In all, nothing beats drinking coffee while reading in a corner, or browsing books.
+
 ### [Terrible Love](https://maps.app.goo.gl/JfT7g5obpJTZdWHS9)(4/5)
 
 \+ Excellent coffee
@@ -41,7 +55,7 @@ Score are subject to change if I go back.
 \- Outside seating
 \- No baked goods
 
-- 5 for Coffee
+> 5 for Coffee
 - 3 for Aesthetic
 
 **Orders**
@@ -54,7 +68,7 @@ It's a coffee cart next to a building and there is no indoor seating. Yet, it st
 \+ Above average coffee
 \+ Good roasters with great rotating selection
 
-- 4 for Coffee
+> 4 for Coffee
 - 3 for Aesthetic
 
 **Orders** 
@@ -68,7 +82,7 @@ Also a dark wooden Aesthetic, lots of seating and a good mix of people working a
 \+ Excellent Aesthetic
 \- Okay coffee, mainly drowned out by the milk
 
-- 2 for Coffee
+> 2 for Coffee
 - 3.5 for Aesthetic
 
 **Orders**
@@ -83,7 +97,7 @@ I really like the Aesthetic of Civil goat. It has a nice soft modern finish with
 \+ Good coffee with decent selection
 \- A bit of a commercial/industrial feel
 
-- 4 for Coffee
+> 4 for Coffee
 - 1.5 for Aesthetic
 
 **Orders**
@@ -98,7 +112,7 @@ The location a bit more south of Austin. The vibes were not bad, they did employ
 \+ Decent selection of coffee beans
 \- Felt extremely commercial with too much merch being sold
 
-- 2.5 for Coffee
+> 2.5 for Coffee
 - 2 for Aesthetic
 
 **Orders** 
@@ -108,13 +122,25 @@ I initially asked for an ice pour over to which the response was, "the pour over
 **Vibe** 
 At initial glance, the vibe is nice. Plus points for wooden aesthetic with a large 1st and 2nd floor. The upstairs is a nice place to work, though clearly the furniture is a bit old and rickety. The wifi was quite slow, though I will not penalize them for this. The barista clearly knew what he was talking about and pointed out several coffee beans when I asked about them that were interesting to me. There is merch on the first floor which seems very out of place.
 
+### [Bennu (Highland)](https://maps.app.goo.gl/Qc1rg1Grkhe9Rk5HA)(2.25/5)
+
+> 1 for Coffee
+- 3.5 for Aesthetic
+- Open 24/7
+
+**Orders**
+I got a cortado and was immediately revolted by what touched my tongue. It was extremely dark and on top of that, tasted sour, so it seems like the shot was not even pulled correctly. I wanted to get a pastry but there were none available. It *was* midnight so I won't hold it against them.
+ 
+**Vibe** 
+The location is right in front of Austin Community College so it is usually filled with students. I went around midnight and brought a ([this](https://yfralam.github.io/posts/nihongo/hontachi/)) book to read and saw several people studying or having group discussions. The décor is nice (and consistent). I might go back if I need some late night caffeine outside of the house, or to grade homeworks/exams next time. 
+
 ### [Lucky Lab Coffee Co.](https://maps.app.goo.gl/GZz9Ny9NNYeVeTSNA) (2/5) 
 \+ Inside aesthetic is nice
 \+ Has pretty good baked goods
 \- Dark roast coffee primarily
 \- Little inside seating and feels congested
 
-- 2 for Coffee
+> 2 for Coffee
 - 2 for Aesthetic
 - Good bakery
 
@@ -127,7 +153,7 @@ The location is not bad and is very close to the UT campus. It seems the base is
 
 ### [Spokesman](https://maps.app.goo.gl/E5iTDi6N3ZUVYCYn9) (1.5/5)
 
-- 2 for Coffee
+> 2 for Coffee
 - 1 for Aesthetic
 
 **Orders** 
@@ -135,3 +161,25 @@ The cortado here was not bad, but nothing to write home about. A bit too dark fo
 
 **Vibe**
 It is right outside a climbing gym so the location is nice to go to before or after. I'm not too much of a fan of their décor and the look is very industrial to me.
+
+
+
+### [Epoch Coffee](https://maps.app.goo.gl/hz8ePCziPwzudP757) (?)
+
+> 1.5 for Coffee
+- ? for Aesthetic
+- Open 24/7
+- They have coffee
+- Must go late night
+
+**Orders**
+I got what was technically a cortado.
+ 
+**Vibe** 
+During the day, Epoch is a normal coffee shop, during the night, well... 
+
+I went in knowing that the coffee wouldn't be the best. I also went in knowing late at night, there are some... *interesting* events that happen at night. I was told by a friend that last time she went, late at night, she saw a someone randomly reading Jackson electrodynamics, not because he did physics or something, but just that he enjoyed it. 
+
+When I went, I sat outside with my coffee and watched the crowd. At some point (this was around 1 AM) sat at a table outside, pulled a whole computer setup out, and started playing video games. + points for the cat that came up to me and let me pet it for a while.
+
+Will definitely go back.
