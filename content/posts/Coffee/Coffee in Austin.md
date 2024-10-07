@@ -166,7 +166,7 @@ It is right outside a climbing gym so the location is nice to go to before or af
 
 ### [Epoch Coffee](https://maps.app.goo.gl/hz8ePCziPwzudP757) (?)
 
-> 1.5 for Coffee
+> 0.5 for Coffee
 - ? for Aesthetic
 - Open 24/7
 - They have coffee
