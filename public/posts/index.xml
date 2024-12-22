@@ -9,11 +9,11 @@
     <copyright>© 2024 Yasin</copyright>
     <lastBuildDate>Sat, 21 Dec 2024 15:24:48 -0600</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Doing actual string theory in AdS and RR backgrounds</title>
-      <link>http://localhost:1313/posts/holography/ads5rr/</link>
+      <title>Doing actual string theory in AdS/CFT</title>
+      <link>http://localhost:1313/posts/string-theory/ads5rr/</link>
       <pubDate>Sat, 21 Dec 2024 15:24:48 -0600</pubDate>
       
-      <guid>http://localhost:1313/posts/holography/ads5rr/</guid>
+      <guid>http://localhost:1313/posts/string-theory/ads5rr/</guid>
       <description>Not a lot of string theory in AdS/CFT #In the most well understood version of AdS/CFT, we stack N D3-branes and then see that the near horizon geometry is \(AdS_5 \times S^5\).</description>
       
     </item>
