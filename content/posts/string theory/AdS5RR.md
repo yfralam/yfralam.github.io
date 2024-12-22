@@ -18,9 +18,9 @@ enableComments = true
 
 In the most well understood version of AdS/CFT, we stack N D3-branes and then see that the near horizon geometry is \\(AdS_5 \times S^5\\). Usually though, we don't do string theory on this geometry because to support the spacetime, we need the RR fields (\\(p\\)-branes naturally couple to \\(p+1\\) forms). Instead, we go to the SUGRA picture where we can just deal with the fields, and in some cases, can just do the classical gravity calculation. 
 
-But this isn't technically string theory. Actual string theory on curved backgrounds is still woefully understood (barring one set of systems). It was bothersome to be that I didn't know exactly how the RR fields make computations difficult (most papers just say they are), so I took it upon myself to go through the literature and find what exactly makes it so difficult.
+But this isn't technically string theory. Actual string theory on curved backgrounds is still woefully understood (barring one set of systems). It was bothersome to me that I didn't know exactly how the RR fields make computations difficult (most papers just say they are), so I took it upon myself to go through the literature and find out
 
-After some review of strings on curved spacetimes, we primarily follow [Berenstein and Leigh](https://arxiv.org/abs/hep-th/9904104) and [Polyakov](https://arxiv.org/abs/hep-th/9812044) . By no means is this meant to be exhaustive, but it should at least tell you what to look for.
+After some review of strings on curved spacetimes, we primarily follow [Berenstein and Leigh](https://arxiv.org/abs/hep-th/9904104) and [Polyakov](https://arxiv.org/abs/hep-th/9812044). By no means is this meant to be exhaustive, but it should at least tell you what to look for.
 
 ## Strings on a curved background
 Before continuing, it is worth reviewing how strings look on curved backgrounds. We'll just follow Polchinski. The natural thing to do on the worldsheet, is just promote the flat metric to a curved metric \\(\eta \to G\\), such that the worldsheet action is 
@@ -41,7 +41,7 @@ Remember that the Ramond VOs generally look like $$\mathscr{V} = e^{-\phi/2} \Th
 Our earlier prescription would have us stick these spin fields into the worldsheet lagrangian which leads to unclear formulas at the very least. Worse, it destroys the superconformal invariance that is the main motive behind the NSR formalism. Instead, we can try to include them into the amplitudes as VOs.
 
 Also note we will be needing *picture changing operators* (PCOs) to insert into the amplitudes as to prevent anomalies, the amplitude vanishing, or diverging. In general, the total number of PCOs should be, on a surface of genus \\(g\\), $$n_X=2g-2 + n_B + n_F/2,$$
-where \\(n_B,n_F\\) are the number of bosonic and fermionic operators respectively. Remember that on the curved background, we need to exponentiate these VOs, which means we need to include a different number of PCOs at all levels. In addition, now we have to integrate the VOs and the PCOs over super Riemann surfaces, which is not an easy task. There are some tricks on can play and a good resource is Witten's [perturbative superstring theory revisited](https://arxiv.org/abs/1209.5461).
+where \\(n_B,n_F\\) are the number of bosonic and fermionic operators respectively. Remember that on the curved background, we need to exponentiate these VOs, which means we need to include a different number of PCOs at all levels. In addition, to compute amplitudes to arbitrarily high genus, we have to integrate the VOs and the PCOs over Super Riemann surfaces, which is not an easy task (remember the RR VOs get branch cuts when they hit another operator). There are some tricks one can play and a good resource is Witten's [perturbative superstring theory revisited](https://arxiv.org/abs/1209.5461).
 
 ## The need for the RR fields
 
@@ -56,7 +56,7 @@ $$\mathscr{V}_{RR} = e^{-\phi/2} e^{-\tilde{\phi}/2} \Sigma^\alpha \bar{\Sigma}^
 
 $$\Gamma^{\mu_1\dots \mu_5}\_{\alpha\beta} F\_{\mu_1\dots \mu_5} = \Gamma_{||}\Gamma^\alpha \partial_\alpha G(X).$$
 
-Because the RR fields are directly supporting the \\(AdS_5 \times S^5\\) geometry, we have no choice but to include them. To see this, it is easier to just write down the stress energy solution in the GS formalism, then translate over to NSR. It is given by 
+Because the RR fields are directly supporting the \\(AdS_5 \times S^5\\) geometry, we have no choice but to include them. Another way to see this is to just write down the stress energy solution in the GS formalism, then translate over to NSR. It is given by 
 
 $$T_{zzNSR} = \frac12 \partial X^m \partial X_m + \frac12 : (\Gamma + \Gamma\Gamma) \psi^m \partial \psi_m: + \epsilon^{p_1\dots p_4} [e^\phi \psi_{p_1}\psi_{p_2}\psi_{p_3}\psi_{p_4}\psi_{p_t}\partial y^t + \partial(e^\phi \psi_{p_1}\psi_{p_2}\psi_{p_3}) \partial\tilde{x}_{p_4}] + ghosts]$$
 where \\(\Gamma\\) is the PCO, t runs from 4 to 9, p from 0 to 3, and m from 0 to 9. Actually, up to the PCOs, the stress energy tensor is exactly the same as that of flat space with no branes. Therefore, the PCO term is directly due to the RR fluxes. The way to see this is nontrivial. If a RR vertex is placed on a vertex and a boundary is present, the holomorphic and anti-holomorphics ghost and spin operators are no longer independent, but related to each other. This also occurs with the GS string for the fermionic variable \\(\theta\\) and \\(\bar \theta \\) when we included the D3-branes. Thus, without the D3-branes, there would be no relation between the holomorphic and antiholomorphic parts, and the 5 form and 3 form terms in the stress energy tensor would vanish.
