@@ -40,7 +40,7 @@ Remember that the Ramond VOs generally look like $$\mathscr{V} = e^{-\phi/2} \Th
 
 Our earlier prescription would have us stick these spin fields into the worldsheet lagrangian which leads to unclear formulas at the very least. Worse, it destroys the superconformal invariance that is the main motive behind the NSR formalism. Instead, we can try to include them into the amplitudes as VOs.
 
-Also note we will be needing PCOs to insert into the amplitudes as to prevent anomalies, the amplitude vanishing, or diverging. In general, the total number of PCOs should be, on a surface of genus \\(g\\), $$n_X=2g-2 + n_B + n_F/2,$$
+Also note we will be needing *picture changing operators* (PCOs) to insert into the amplitudes as to prevent anomalies, the amplitude vanishing, or diverging. In general, the total number of PCOs should be, on a surface of genus \\(g\\), $$n_X=2g-2 + n_B + n_F/2,$$
 where \\(n_B,n_F\\) are the number of bosonic and fermionic operators respectively. Remember that on the curved background, we need to exponentiate these VOs, which means we need to include a different number of PCOs at all levels. In addition, now we have to integrate the VOs and the PCOs over super Riemann surfaces, which is not an easy task. There are some tricks on can play and a good resource is Witten's [perturbative superstring theory revisited](https://arxiv.org/abs/1209.5461).
 
 ## The need for the RR fields
