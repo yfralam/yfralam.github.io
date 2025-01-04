@@ -1,11 +1,11 @@
 +++
-title = 'AI, Research, and Why I Left Computer Science(ish) Pt. 1'
+title = 'AI, research, computer science pt. 1'
 date = 2024-09-29T00:57:34-05:00
 draft = false
 description = "My experience doing research on AI, some general thoughts on where AI is now, and why I decided to leave the field."
 slug = ""
 authors = ['yasin']
-tags = ['artificial-intelligence','physics']
+tags = ['artificial-intelligence','physics-nt']
 categories = []
 externalLink = ""
 series = []
