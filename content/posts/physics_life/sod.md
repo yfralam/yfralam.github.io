@@ -59,7 +59,7 @@ Of course, politics is another issue. Without going into the details, I do not t
 
 These are just some quick thoughts on the review, many of which I've expressed in person, but it is nice to have them all in one place. I've missed many other things, but this is good enough for now.
 
-TLDR:
+## TLDR:
 
 >- Students are payed ~$5k less than similar universities.
 >- The building lacks common spaces, is unattractive, and is not conducive to spontaneous discussions. Converting the 4th floor library is a bad idea for a myriad of reasons.
