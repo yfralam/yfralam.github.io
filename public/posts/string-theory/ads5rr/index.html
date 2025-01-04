@@ -12,7 +12,7 @@
   <meta name="title" content="Doing actual string theory in AdS/CFT &middot; Yasin" />
   
   <meta name="description" content="A rundown on how the RR fluxes in AdS5 make doing actual string theory difficult." />
-  <meta name="keywords" content="physics, " />
+  <meta name="keywords" content="physics-t, " />
   
   
   <link rel="canonical" href="http://localhost:1313/posts/string-theory/ads5rr/" />
@@ -71,7 +71,7 @@
     <meta property="article:section" content="posts">
     <meta property="article:published_time" content="2024-12-21T15:24:48-06:00">
     <meta property="article:modified_time" content="2024-12-21T15:24:48-06:00">
-    <meta property="article:tag" content="Physics">
+    <meta property="article:tag" content="Physics-T">
 
   
   <meta name="twitter:card" content="summary">
@@ -100,10 +100,10 @@
     
     "dateModified": "2024-12-21T15:24:48-06:00",
     
-    "keywords": ["physics"],
+    "keywords": ["physics-t"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "1489"
+    "wordCount": "1507"
   }]
   </script>
 
@@ -581,7 +581,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-12-21 15:24:48 -0600 CST">21 December 2024</time><span class="px-2 text-primary-500">&middot;</span><span>1489 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">7 mins</span>
+  <time datetime="2024-12-21 15:24:48 -0600 CST">21 December 2024</time><span class="px-2 text-primary-500">&middot;</span><span>1507 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">8 mins</span>
   
 
   
@@ -605,10 +605,10 @@
   
   
   
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/physics/&#34;,'_self');">
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/physics-t/&#34;,'_self');">
     <span class="flex" style="cursor: pointer;">
   <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Physics
+    Physics-T
   </span>
 </span>
   </span>
@@ -851,8 +851,8 @@
     
 </h2>
 <p>In the most well understood version of AdS/CFT, we stack N D3-branes and then see that the near horizon geometry is \(AdS_5 \times S^5\). Usually though, we don&rsquo;t do string theory on this geometry because to support the spacetime, we need the RR fields (\(p\)-branes naturally couple to \(p+1\) forms). Instead, we go to the SUGRA picture where we can just deal with the fields, and in some cases, can just do the classical gravity calculation.</p>
-<p>But this isn&rsquo;t technically string theory. Actual string theory on curved backgrounds is still woefully understood (barring one set of systems). It was bothersome to be that I didn&rsquo;t know exactly how the RR fields make computations difficult (most papers just say they are), so I took it upon myself to go through the literature and find what exactly makes it so difficult.</p>
-<p>After some review of strings on curved spacetimes, we primarily follow <a href="https://arxiv.org/abs/hep-th/9904104" target="_blank">Berenstein and Leigh</a> and <a href="https://arxiv.org/abs/hep-th/9812044" target="_blank">Polyakov</a> . By no means is this meant to be exhaustive, but it should at least tell you what to look for.</p>
+<p>But this isn&rsquo;t technically string theory. Actual string theory on curved backgrounds is still woefully understood (barring one set of systems). It was bothersome to me that I didn&rsquo;t know exactly how the RR fields make computations difficult (most papers just say they are), so I took it upon myself to go through the literature and find out.</p>
+<p>After some review of strings on curved spacetimes, we primarily follow <a href="https://arxiv.org/abs/hep-th/9904104" target="_blank">Berenstein and Leigh</a> and <a href="https://arxiv.org/abs/hep-th/9812044" target="_blank">Polyakov</a>. By no means is this meant to be exhaustive, but it should at least tell you what to look for.</p>
 
 
 <h2 class="relative group">Strings on a curved background 
@@ -883,10 +883,10 @@ where due to the metric dependence on \(X\), the action this that if a non-linea
     </span>        
     
 </h2>
-<p>Remember that the Ramond VOs generally look like $$\mathscr{V} = e^{-\phi/2} \Theta(z)$$ where \(\phi(z)\) are free fields that appear in the bosonization of NSR superconformal \(\beta,\gamma\) ghosts and \(\Theta\) is a spin field. Note that a difficulty with spin fields is they have branch cuts at operators. VOs are generally labeled by their \(\phi\) (and \(\tilde{\phi}\) ) charges. The R VO above has charge \((-1/2,0)\), or is in the \((-1/2,0)\) picture. In general, we say an operator is in the \((q,\tilde{q})\) <em>picture</em>.</p>
-<p>Our earlier prescription would have us stick these spin fields into the worldsheet lagrangian which leads to unclear formulas at the very least. Worse, it destroys the superconformal invariance that is the main motive behind the NSR formalism. Instead, we can try to include them into the amplitudes as VOs.</p>
-<p>Also note we will be needing PCOs to insert into the amplitudes as to prevent anomalies, the amplitude vanishing, or diverging. In general, the total number of PCOs should be, on a surface of genus \(g\), $$n_X=2g-2 + n_B + n_F/2,$$
-where \(n_B,n_F\) are the number of bosonic and fermionic operators respectively. Remember that on the curved background, we need to exponentiate these VOs, which means we need to include a different number of PCOs at all levels. In addition, now we have to integrate the VOs and the PCOs over super Riemann surfaces, which is not an easy task. There are some tricks on can play and a good resource is Witten&rsquo;s <a href="https://arxiv.org/abs/1209.5461" target="_blank">perturbative superstring theory revisited</a>.</p>
+<p>Remember (from Polchinski v2) that the Ramond VOs generally look like $$\mathscr{V} = e^{-\phi/2} \Theta(z)$$ where \(\phi(z)\) are free fields that appear in the bosonization of NSR superconformal \(\beta,\gamma\) ghosts and \(\Theta\) is a spin field. Note that a difficulty with spin fields is they have branch cuts at operators. VOs are generally labeled by their \(\phi\) (and \(\tilde{\phi}\) ) charges. The R VO above has charge \((-1/2,0)\), or is in the \((-1/2,0)\) picture. In general, we say an operator is in the \((q,\tilde{q})\) <em>picture</em>.</p>
+<p>Our earlier prescription would have us stick these spin fields into the worldsheet lagrangian which leads to unclear formulas at the very least. Worse, it <strong>destroys the superconformal invariance of the worldsheet</strong> that is the main motive behind the NSR formalism. Instead, we can try to include them into the amplitudes as VOs.</p>
+<p>Also note we will be needing <em>picture changing operators</em> (PCOs) to insert into the amplitudes as to prevent anomalies, the amplitude vanishing, or diverging. In general, the total number of PCOs should be, on a surface of genus \(g\), $$n_X=2g-2 + n_B + n_F/2,$$
+where \(n_B,n_F\) are the number of bosonic and fermionic operators respectively. Remember that on the curved background, we need to exponentiate these VOs, which means we need to include a different number of PCOs at <em>all levels</em>. In addition, to compute amplitudes to arbitrarily high genus, we have to integrate the VOs and the PCOs over Super Riemann surfaces, which is not an easy task (remember the <strong>RR VOs get branch cuts when they hit another operator</strong>). There are some tricks one can play and a good resource is Witten&rsquo;s <a href="https://arxiv.org/abs/1209.5461" target="_blank">perturbative superstring theory revisited</a>.</p>
 
 
 <h2 class="relative group">The need for the RR fields 
@@ -905,10 +905,10 @@ where \(\tilde{G}(X) = \frac{R^4}{2r^4}\), and \(R\) is the AdS radius. Note the
 <p>In the (-1/2,-1/2) picture, the RR vertex operator (for the 5 form) takes the form</p>
 <p>$$\mathscr{V}_{RR} = e^{-\phi/2} e^{-\tilde{\phi}/2} \Sigma^\alpha \bar{\Sigma}^\beta  \Gamma^{\mu_1\dots \mu_5}_{\alpha\beta} F_{\mu_1\dots \mu_5}$$ where the \(\Sigma\)&rsquo;s are spin fields. Note that</p>
 <p>$$\Gamma^{\mu_1\dots \mu_5}_{\alpha\beta} F_{\mu_1\dots \mu_5} = \Gamma_{||}\Gamma^\alpha \partial_\alpha G(X).$$</p>
-<p>Because the RR fields are directly supporting the \(AdS_5 \times S^5\) geometry, we have no choice but to include them. To see this, it is easier to just write down the stress energy solution in the GS formalism, then translate over to NSR. It is given by</p>
+<p>Because the RR fields are directly supporting the \(AdS_5 \times S^5\) geometry, we have no choice but to include them. Another way to see this is to just write down the stress energy solution in the GS formalism, then translate over to NSR. It is given by</p>
 <p>$$T_{zzNSR} = \frac12 \partial X^m \partial X_m + \frac12 : (\Gamma + \Gamma\Gamma) \psi^m \partial \psi_m: + \epsilon^{p_1\dots p_4} [e^\phi \psi_{p_1}\psi_{p_2}\psi_{p_3}\psi_{p_4}\psi_{p_t}\partial y^t + \partial(e^\phi \psi_{p_1}\psi_{p_2}\psi_{p_3}) \partial\tilde{x}_{p_4}] + ghosts]$$
 where \(\Gamma\) is the PCO, t runs from 4 to 9, p from 0 to 3, and m from 0 to 9. Actually, up to the PCOs, the stress energy tensor is exactly the same as that of flat space with no branes. Therefore, the PCO term is directly due to the RR fluxes. The way to see this is nontrivial. If a RR vertex is placed on a vertex and a boundary is present, the holomorphic and anti-holomorphics ghost and spin operators are no longer independent, but related to each other. This also occurs with the GS string for the fermionic variable \(\theta\) and \(\bar \theta \) when we included the D3-branes. Thus, without the D3-branes, there would be no relation between the holomorphic and antiholomorphic parts, and the 5 form and 3 form terms in the stress energy tensor would vanish.</p>
-<p>Alternatively, it is much much easier to see this from IIB SUGRA. Including the D3-branes automatically means some contribution from the 5 form which sources the stress energy tensor giving the AdS geometry.</p>
+<p>Alternatively, it is much much easier to see this from IIB SUGRA. Including the D3-branes and solving Einstein&rsquo;s equations give us the 5-form on the RHS sourcing the AdS geometry.</p>
 <p>In anycase, we now need to include these VOs into the action or exponentiate and throw in a correlator. This is hard in itself, but one could theoretically go order by order. It is not fun. You can see the last part of Polyakov&rsquo;s paper above to get a taste of it. At the end, GS formalism will start to look appetizing.</p>
 
 
@@ -923,7 +923,7 @@ where \(\Gamma\) is the PCO, t runs from 4 to 9, p from 0 to 3, and m from 0 to 
     
 </h2>
 <p>This unfortunately puts a damper on doing string theory on \(AdS_5 \times S^5\), so what should we do now?</p>
-<p>Well, if we still <em>really</em> want to work with the D3 branes, we can work in the GS formalism (or the Hybrid formalism). The calculations (outside of a few nice gauges) are rather difficult, but we don&rsquo;t run into this issue with the RR fields. Alternatively, we could just try to deal with it and go order by order to learn something, or maybe try and figure out a nice way to deal with the PCOs or the super riemann surfaces.</p>
+<p>Well, if we still <em>really</em> want to work with the D3 branes, we can work in the GS formalism (or the Hybrid formalism). The calculations (outside of a few nice gauges) are rather difficult, but we don&rsquo;t run into this issue with the RR fields. Alternatively, we could just try to deal with it and go order by order to learn something, or maybe try and figure out a nice way to deal with the PCOs or the super Riemann surfaces.</p>
 <p>There <em>is</em> a place where we get around this issue with the RR fluxes though, and can do actual string theory. These are <a href="https://arxiv.org/abs/hep-th/9902098" target="_blank">\(AdS_3 \times \mathcal{M}\) </a>solutions. There&rsquo;s a lot of power here with sigma models being controllable due to having a nice target space, U-duality, or setups that don&rsquo;t need RR fluxes. For instance, for \(\mathcal M = S^3 \times \mathcal X_4\), the geometry can be supported by NSNS 2 forms (the setup being F1 and NS5 branes).</p>
 <p>I&rsquo;ve recently been quite interested in the <a href="https://arxiv.org/abs/2406.14605" target="_blank">\(AdS_3 \times S^3 \times T^4\) </a>setup as it seems like there are still several open questions. Namely, the relation between IIB string theories and an apparent relation to a grand canonical ensemble of free symmetric orbifold CFTs. The relation between this and ensemble averaging is also interesting. Generally, a set of central charge \(c\) CFTs are averaged in these lower dimensions to give a gravitational theory (really just an effective one). Additionally, we already know that incorporating the other compact dimensions leads to <a href="https://arxiv.org/abs/2412.01885" target="_blank">novel solutions,</a> but it would be exciting to see the stringy side of these things. Additionally, it would be interesting to see how the SCFT&rsquo;s decoupled 4-torus sector shows up in the string theory.</p>
 
@@ -991,6 +991,28 @@ where \(\Gamma\) is the PCO, t runs from 4 to 9, p from 0 to 3, and m from 0 to 
         </span>
         <span>
           
+            <a class="flex text-right group ml-3" href="/posts/physics_life/sod/">
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >A sort of state of the department at UT</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="2025-01-03 17:21:54 -0600 CST">3 January 2025</time>
+                  
+                </span>
+              </span>
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+            </a>
+          
         </span>
       </div>
     </div>
@@ -1052,7 +1074,7 @@ where \(\Gamma\) is the PCO, t runs from 4 to 9, p from 0 to 3, and m from 0 to 
     
     <p class="text-sm text-neutral-500 dark:text-neutral-400">
       &copy;
-      2024
+      2025
       Yasin
     </p>
     

@@ -6,8 +6,18 @@
     <description>Recent content in Posts on Yasin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Yasin</copyright>
-    <lastBuildDate>Sat, 21 Dec 2024 15:24:48 -0600</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Yasin</copyright>
+    <lastBuildDate>Fri, 03 Jan 2025 17:21:54 -0600</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A sort of state of the department at UT</title>
+      <link>http://localhost:1313/posts/physics_life/sod/</link>
+      <pubDate>Fri, 03 Jan 2025 17:21:54 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/physics_life/sod/</guid>
+      <description>Recently an external review committee (ERC) has commented on the state of the department and proposed possible solutions, or at least places where the department should look into.</description>
+      
+    </item>
+    
     <item>
       <title>Doing actual string theory in AdS/CFT</title>
       <link>http://localhost:1313/posts/string-theory/ads5rr/</link>

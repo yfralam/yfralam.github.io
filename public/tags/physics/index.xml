@@ -6,18 +6,8 @@
     <description>Recent content in Physics on Yasin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Yasin</copyright>
-    <lastBuildDate>Sat, 21 Dec 2024 15:24:48 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/physics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Doing actual string theory in AdS/CFT</title>
-      <link>http://localhost:1313/posts/string-theory/ads5rr/</link>
-      <pubDate>Sat, 21 Dec 2024 15:24:48 -0600</pubDate>
-      
-      <guid>http://localhost:1313/posts/string-theory/ads5rr/</guid>
-      <description>Not a lot of string theory in AdS/CFT #In the most well understood version of AdS/CFT, we stack N D3-branes and then see that the near horizon geometry is \(AdS_5 \times S^5\).</description>
-      
-    </item>
-    
+    <copyright>© 2025 Yasin</copyright>
+    <lastBuildDate>Sun, 29 Sep 2024 00:57:34 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/physics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI, Research, and Why I Left Computer Science(ish) Pt. 1</title>
       <link>http://localhost:1313/posts/compsci/ai-pt1/</link>
@@ -25,36 +15,6 @@
       
       <guid>http://localhost:1313/posts/compsci/ai-pt1/</guid>
       <description>Abstract #As some may know, I completed an undergraduate degree in computer science, primarily focusing on AI and reinforcement learning.</description>
-      
-    </item>
-    
-    <item>
-      <title>Dead Ends, Flat Holography, and 7d SCFTs</title>
-      <link>http://localhost:1313/posts/scft/dead-ends/</link>
-      <pubDate>Thu, 08 Aug 2024 18:46:24 -0500</pubDate>
-      
-      <guid>http://localhost:1313/posts/scft/dead-ends/</guid>
-      <description>Every now and then, one pursues an idea thinking it could lead to something interesting, but then soon finds a dead end.</description>
-      
-    </item>
-    
-    <item>
-      <title>On Complexity in QFT and Algebras</title>
-      <link>http://localhost:1313/posts/complexity/algebraic-complexity/</link>
-      <pubDate>Fri, 02 Aug 2024 20:47:12 -0500</pubDate>
-      
-      <guid>http://localhost:1313/posts/complexity/algebraic-complexity/</guid>
-      <description>Operators and Black Hole Info #Today, the arxivs have graced us with a paper on An Operator Algebraic Approach To Black Hole Information by van der Heijden and Verlinde.</description>
-      
-    </item>
-    
-    <item>
-      <title>On Holography for Laymen</title>
-      <link>http://localhost:1313/posts/holography/holography/</link>
-      <pubDate>Sat, 20 Jul 2024 22:24:28 -0500</pubDate>
-      
-      <guid>http://localhost:1313/posts/holography/holography/</guid>
-      <description>Edit 29 Sep 2024: At some point I&amp;rsquo;d like to revisit this.</description>
       
     </item>
     

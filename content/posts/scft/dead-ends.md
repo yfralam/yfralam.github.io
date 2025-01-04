@@ -5,7 +5,7 @@ draft = false
 description = "d=7 works"
 slug = ""
 authors = ['yasin']
-tags = ['physics']
+tags = ['physics-t']
 categories = []
 externalLink = ""
 series = []

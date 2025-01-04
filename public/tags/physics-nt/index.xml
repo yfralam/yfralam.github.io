@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physics-Nt on Yasin</title>
+    <link>http://localhost:1313/tags/physics-nt/</link>
+    <description>Recent content in Physics-Nt on Yasin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Yasin</copyright>
+    <lastBuildDate>Fri, 03 Jan 2025 17:21:54 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/physics-nt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A sort of state of the department at UT</title>
+      <link>http://localhost:1313/posts/physics_life/sod/</link>
+      <pubDate>Fri, 03 Jan 2025 17:21:54 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/physics_life/sod/</guid>
+      <description>Recently an external review committee (ERC) has commented on the state of the department and proposed possible solutions, or at least places where the department should look into.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
