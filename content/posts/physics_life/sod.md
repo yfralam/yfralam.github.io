@@ -16,7 +16,7 @@ Recently an external review committee (ERC) has commented on the state of the de
 
 ## Pay
 
-To get the obvious out of the way, the ERC found the students should be payed more. Compared to other similar institutions, we are underpaid by roughly $5000. This is terrible, even before considering the other institutions we were compared to are located in lower cost of living areas than Austin. 
+To get the obvious out of the way, the ERC found the students should be paid more. Compared to other similar institutions, we are underpaid by roughly $5000. This is terrible, even before considering the other institutions we were compared to are located in lower cost of living areas than Austin. 
 
 More fellowships would be more appreciated, but a blanket raise seems to be much more useful. The ERC floated the idea of "starting a revenue-generating professional Master program" to provide more funds. This seems, to my inexperienced eyes, a distasteful thing to do.  I am not sure how much value one gets from a "professional Masters" in physics, nor do I know how much this would contribute positively to our department beyond bringing in funds.
 
