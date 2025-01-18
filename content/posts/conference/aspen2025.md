@@ -38,6 +38,8 @@ Another proposal, (that I am a bit more skeptical of) says that they will create
 Only when I talked to Temple He at dinner did he tell me they were regulating wrt the size of the causal diamond itself. This makes a bit more sense, but I still think in order to measure any variation of the causal diamond size, it would be much larger than what one could construct on earth.
 
 I also had the chance to talk to Markus Aspelmeye who told me about his experiment to probe gravity at the 10 micron scale. For him, it was just something he wanted to do for the sake of doing it, but when Vafa realized this would be within reach of the Dark dimension/swampland predictions for extra dimensions, he got extremely involved (to the point where he is apparently making suggestions to the experiment).
+
+As a side note, during Dan Carney's public talk, someone asked, "I think physics made a wrong turn when it decided to discard aether, what do you have to say about that?" I've never seen someone try and swallow a frog, but I'm pretty sure that's the expression he made.
 ## TLDR
 
 The theorist mainly discussed von Neumann algebras (emergent spacetime and/or dressed observables), while the experimentalists focused trying to show gravity is quantum in the first place and many-body/quantum computing realizations of theories with a gravity dual.
