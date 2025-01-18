@@ -45,6 +45,7 @@ The theorist mainly discussed von Neumann algebras (emergent spacetime and/or dr
 All in all, I met some great people there, learned a lot, got some ideas for new projects, and confirmation that some of my other ideas weren't completely idiotic. 
 
 
+![The aspen center for physics](/posts/conference/aspenjpg.jpg)
 
 
 
