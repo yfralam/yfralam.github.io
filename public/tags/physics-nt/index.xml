@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Physics-Nt on Yasin</title>
+    <title>Physics-Nt on Lightly Caffeinated</title>
     <link>http://localhost:1313/tags/physics-nt/</link>
-    <description>Recent content in Physics-Nt on Yasin</description>
+    <description>Recent content in Physics-Nt on Lightly Caffeinated</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Yasin</copyright>
-    <lastBuildDate>Fri, 03 Jan 2025 17:21:54 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/physics-nt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jan 2025 15:14:54 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/physics-nt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aspen 2025: Observables in QG</title>
+      <link>http://localhost:1313/posts/conference/aspen2025/</link>
+      <pubDate>Fri, 17 Jan 2025 15:14:54 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/conference/aspen2025/</guid>
+      <description>I&amp;rsquo;ve just gotten back from Aspen&amp;rsquo;s workshop on observables in quantum gravity where the main goal was to have experimentalists and theorist come together to talk about what could be observed in quantum gravity and how the experimentalists could actually go into the lab and observe it.</description>
+      
+    </item>
+    
     <item>
       <title>A sort of state of the department at UT</title>
       <link>http://localhost:1313/posts/physics_life/sod/</link>
@@ -15,6 +25,16 @@
       
       <guid>http://localhost:1313/posts/physics_life/sod/</guid>
       <description>Recently an external review committee (ERC) has commented on the state of the department and proposed possible solutions, or at least places where the department should look into.</description>
+      
+    </item>
+    
+    <item>
+      <title>AI, research, computer science pt. 1</title>
+      <link>http://localhost:1313/posts/compsci/ai-pt1/</link>
+      <pubDate>Sun, 29 Sep 2024 00:57:34 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/compsci/ai-pt1/</guid>
+      <description>Abstract #As some may know, I completed an undergraduate degree in computer science, primarily focusing on AI and reinforcement learning.</description>
       
     </item>
     

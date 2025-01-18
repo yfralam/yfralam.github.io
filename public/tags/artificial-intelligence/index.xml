@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Artificial-Intelligence on Yasin</title>
+    <title>Artificial-Intelligence on Lightly Caffeinated</title>
     <link>http://localhost:1313/tags/artificial-intelligence/</link>
-    <description>Recent content in Artificial-Intelligence on Yasin</description>
+    <description>Recent content in Artificial-Intelligence on Lightly Caffeinated</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Yasin</copyright>
     <lastBuildDate>Sun, 29 Sep 2024 00:57:34 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AI, Research, and Why I Left Computer Science(ish) Pt. 1</title>
+      <title>AI, research, computer science pt. 1</title>
       <link>http://localhost:1313/posts/compsci/ai-pt1/</link>
       <pubDate>Sun, 29 Sep 2024 00:57:34 -0500</pubDate>
       
