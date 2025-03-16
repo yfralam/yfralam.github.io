@@ -89,6 +89,7 @@ Of course, there are indeed math and physics proposals in this database, 152 tot
 **None**
 - Theoretical particle physics and cosmology at UC Irving
 - Emergent quantum phenomena in epitaxial thin films of topological Dirac semimetal and its heterostructures
+
 Indeed, it is clear that items like "homotopy" or "homology" are clearly just woke DEI initiatives.
 
 In fact several of these proposals just have "DEI" keywords included in their proposals. Including the prior, we have "inclusion maps, representations, inequalities,"  and a host more. Of the 152, there were 49 (~30%) that had "DEI" keywords like the one above within the first few words.
