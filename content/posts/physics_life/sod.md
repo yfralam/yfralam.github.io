@@ -12,6 +12,7 @@ series = []
 enableComments = true
 +++
 
+
 Recently an external review committee (ERC) has commented on the state of the department and proposed possible solutions, or at least places where the department should look into. They discussed with current graduate students as well as faculty to come to some conclusions. Some of these points I agree with, some I am vehemently against.
 
 ## Pay
