@@ -29,7 +29,7 @@ I don't say anything new here. Most of what I cover can be found in more depth i
 
 ### QED
 
-While I don't mean to derive the anomalies, it is worth saying some things of where they come from. Inevitably, the best place to start is QED (where we will unfortunately use Dirac spinors)
+While I don't mean to derive the anomalies, it is worth saying some things about where they come from. Inevitably, the best place to start is QED (where we will unfortunately use Dirac spinors)
 
 $$ Z[A_\mu] = \int \mathcal D \Psi \mathcal D \bar \Psi e^{-S_{QED}[\Psi,\bar \Psi, A]} ~. $$
 There is a famous axial anomaly corresponding to 
@@ -42,13 +42,13 @@ $$ q_\mu \text{Tr}( \gamma^\mu \gamma^5 S(p)) $$ where \\(S(p)\\) is the propaga
 ![Feynman diagram corresponding to axial anomaly.](/posts/anomalies/img/dJ.PNG)
 
 
-where the diagram with 0 external photons cancels by conservation of momentum \\(q=0\\), the ones with 1 or 3 photons cancel due to charge conjugation symmetry, and the diagrams with \\(n_\gamma >3\\) we can cancel as their superficial degree of divergence shows they are no worse that log divergent. We can shift momenta such that digrams will end up cancelling.
+where the diagram with 0 external photons cancels by conservation of momentum \\(q=0\\), the ones with 1 or 3 photons cancel due to charge conjugation symmetry, and the diagrams with \\(n_\gamma >3\\) we can cancel as their superficial degree of divergence shows they are no worse that log divergent. We can shift momenta such that diagrams will end up cancelling.
 
 Adding covariant higher derivative terms for the photon ( \\(\mathcal L \supset F (\partial^2/\Lambda^2)^n ) F\\) ), one can show (as ABJ did) that higher loop effects will cancel.
 
 ![The only type of diagram that contributes](/posts/anomalies/img/triangle.PNG)
 
-Thus, we are left with the conclusion that the axial anomaly is *one loop exact*. The only contribution come from the triangle diagrams we know and love. This is a big deal. Almost always the anomaly is one loop exact. In simple terms, the deep reason behind this is that the anomaly is a topological term (as we will see), which takes integer values, and thus, **cannot vary continuously**. 
+Thus, we are left with the conclusion that the axial anomaly is *one loop exact*. The only contributions come from the triangle diagrams we know and love. This is a big deal. Almost always the anomaly is one loop exact. In simple terms, the deep reason behind this is that the anomaly is a topological term (as we will see), which takes integer values, and thus, **cannot vary continuously**. 
 
 There is a deeper reason coming from supersymmetry and localization, but we can go down that avenue in the future.
 
@@ -77,10 +77,10 @@ $$\partial \cdot j^5[T_A] = \frac{-g^2}{16\pi^2}\text{Tr~}( T_A \epsilon^{abcd}F
 where the trace is over other quantum numbers.
 
 
-The posterchild of anomalies having observable consequences is \\(\pi^0 \to \gamma\gamma\\). In massless QCD for the quark doublet charged under electroweak, \\(Q\\) with \\(u,d\\) there is a \\(SU(2)\_L \times SU(2)\_R \times U(1)\_V \times U(1)\_A \\). Ignoring the \\(U(1)\\)'s, we essentially have \\(SU(2)\_V \otimes SU(2)\_A) with 
+The poster child of anomalies having observable consequences is \\(\pi^0 \to \gamma\gamma\\). In massless QCD for the quark doublet charged under electroweak, \\(Q\\) with \\(u,d\\) there is a \\(SU(2)\_L \times SU(2)\_R \times U(1)\_V \times U(1)\_A \\). Ignoring the \\(U(1)\\)'s, we essentially have \\(SU(2)\_V \otimes SU(2)\_A) with 
 
 $$j^{\mu5}[T^i] = \bar Q \gamma^\mu \gamma^5 T^i Q~,$$
-where the \\(\tau\\) are generators of \\(SU(2)\\). There is a possible contribution to the anomaly from the gluons which we don't need to worry about as \\(\text{Tr}~T^i \lambda^a \lambda^b =0\\) where \\(\lambda\\) are \\(SU(3)\\) generators.
+where the \\(T^i\\) are generators of \\(SU(2)\\). There is a possible contribution to the anomaly from the gluons which we don't need to worry about as \\(\text{Tr}~T^i \lambda^a \lambda^b =0\\) where \\(\lambda\\) are \\(SU(3)\\) generators.
 
 There is however, a contribution from QED. The relevant diagram is
 
@@ -139,7 +139,7 @@ $$ \partial \cdot J^a = \text{Tr}\_{LH doublets}(T_L) \frac{g_W^2}{64\pi^2} \eps
 
 $$ \text{Tr}\_{LHWF}(L) =3 \times 1 + 9 \times 0 = 3$$
 
-and therefore, lepton number *is in fact anomolous.* 
+and therefore, lepton number *is in fact anomalous.* 
 
 One can play the same game for Baryon number. Quarks have 1/3 and leptons have 0.
 
@@ -163,14 +163,14 @@ $$\Delta = \int d^4x \partial \cdot J[B,L] = 3 \times I \in 3 \mathbb Z$$
 
 ## Gauge Anomalies
 
-The gauge anomalies actually take the same form as the Chiral anomalies. We would just take \\(T\\) to be a generator of the gauge group. There is one *massive* difference though: gauge symmetries aren't really "symmetries", they are redundancies of our description. It does not make sense for them to be anomolous. Theu usually lead to a breakdown in unitary. 
+The gauge anomalies actually take the same form as the Chiral anomalies. We would just take \\(T\\) to be a generator of the gauge group. There is one *massive* difference though: gauge symmetries aren't really "symmetries", they are redundancies of our description. It does not make sense for them to be anomalous. They usually lead to a breakdown in unitary. 
 
 
 If you find a gauge symmetry is anomalous, something has gone horribly, *horribly*, wrong. You are completely dead in the water (or SOL) and need to go back to the drawing board.  
 
 ### The beauty of the standard model
 
-Let's say I have been handed the entire standard model in all it's chiral glory. I've been told that it has $$ SU(3)_C \times SU(2)_W \times U(1)_Y $$and that the matter content has all kinds of charges. Some of the quarks and leptons are charged under electroweak, some aren't. The hypercharge's look weird and there's a Higgs floating around somewhere...
+Let's say I have been handed the entire standard model in all its chiral glory. I've been told that it has $$ SU(3)_C \times SU(2)_W \times U(1)_Y $$and that the matter content has all kinds of charges. Some of the quarks and leptons are charged under electroweak, some aren't. The hypercharge's look weird, and there's a Higgs floating around somewhere...
 
 Naively it seems hopeless that this specific set matter transforms correctly enough in order to cancel all the gauge anomalies but if god is in his heaven the anomalies **must** cancel.
 
@@ -182,7 +182,7 @@ Even when I couple gravity and look at triangle diagrams with two gravitons, the
 
 ![Feynman diagram corresponding to chiral anomaly with gravitons.](/posts/anomalies/img/grav.PNG)
 
-The standard model is absolutely beautiful. For matching with experiment and seeing all the specifies of matter and forces that we do, the is **nothing else I could have written down.**
+The standard model is absolutely beautiful. For matching with experiment and seeing all the specifies of matter and forces that we do, there is **nothing else I could have written down.**
 
 ### Green and Schwarz
 
@@ -196,11 +196,11 @@ But I have no idea what the full spectrum of the theory is, I don't know all the
 
 The situation is essentially hopeless. I have no idea where to even start.
 
-This is what makes the Green-Schwarz anomaly cancellation in string theory such a big deal. It is a *built in* mechanism for for canceling anomalies. By including the Kalb-Ramond field in string theory, one can exactly cancel the all of the anomalies that would have been present. 
+This is what makes the Green-Schwarz anomaly cancellation in string theory such a big deal. It is a *built in* mechanism  for canceling anomalies. By including the Kalb-Ramond field in string theory, one can exactly cancel the all of the anomalies that would have been present. 
 
 Instead of trying to guess what the matter content is first and then praying for anomaly cancellation, I am handed a UV complete, anomaly free theory from the start with matter specified. *Then* I can try and drive down to the low energy limit and try to get the standard model and it is guaranteed to be consistent.
 
 This is the calculation that launched the first superstring revolution.
 
 
-Next time we'll discuss anomaly polynomials, relations to topology, and anomaly descent.
+In a follow up we'll discuss anomaly polynomials, relations to topology, and anomaly descent.
