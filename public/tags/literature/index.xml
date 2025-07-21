@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Literature on Lightly Caffeinated</title>
-    <link>http://localhost:1313/tags/literature/</link>
+    <link>https://example.org/tags/literature/</link>
     <description>Recent content in Literature on Lightly Caffeinated</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Yasin</copyright>
-    <lastBuildDate>Fri, 27 Sep 2024 02:24:05 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/literature/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Sep 2024 02:24:05 -0500</lastBuildDate><atom:link href="https://example.org/tags/literature/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>古典と現代小説を読むことの感想</title>
-      <link>http://localhost:1313/posts/nihongo/hontachi/</link>
+      <link>https://example.org/posts/nihongo/hontachi/</link>
       <pubDate>Fri, 27 Sep 2024 02:24:05 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/nihongo/hontachi/</guid>
+      <guid>https://example.org/posts/nihongo/hontachi/</guid>
       <description>これまで私にとっては、よく難解ことであるが、色々な古典小説を読もうとしている。最近、参考までに、住野よるの「また、同じ夢を見ていた」を読んでいた。主人公が小学生ので、「このキャラの言葉や考え方は分かることがかんたんはずでしょう」と思えた。たしかに、間違ていなかったけど、「かんたん」というより、「モダン」というもっと正解です。この時、やっと気づきました。夏目漱石や太宰治の本の文体は素敵ですけど、日常会話のために（とくにカジュアル会話）あまり便利じゃない。</description>
       
     </item>

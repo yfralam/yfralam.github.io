@@ -3,97 +3,103 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/posts/physics_life/dei/</loc>
+    <loc>https://example.org/</loc>
+    <lastmod>2025-07-20T13:26:38-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://example.org/posts/</loc>
+    <lastmod>2025-07-20T13:26:38-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://example.org/posts/anomalies/pheno/</loc>
+    <lastmod>2025-07-20T13:26:38-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://example.org/posts/physics_life/dei/</loc>
     <lastmod>2025-03-16T14:23:14-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-16T14:23:14-05:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-03-16T14:23:14-05:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/conference/aspen2025/</loc>
+    <loc>https://example.org/posts/conference/aspen2025/</loc>
     <lastmod>2025-01-17T15:14:54-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/physics_life/sod/</loc>
+    <loc>https://example.org/posts/physics_life/sod/</loc>
     <lastmod>2025-01-03T17:21:54-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/string-theory/ads5rr/</loc>
+    <loc>https://example.org/posts/string-theory/ads5rr/</loc>
     <lastmod>2024-12-21T15:24:48-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/coffee/makingcoffee/</loc>
+    <loc>https://example.org/posts/coffee/makingcoffee/</loc>
     <lastmod>2024-10-06T18:49:33-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/compsci/ai-pt1/</loc>
+    <loc>https://example.org/posts/compsci/ai-pt1/</loc>
     <lastmod>2024-09-29T00:57:34-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/nihongo/hontachi/</loc>
+    <loc>https://example.org/posts/nihongo/hontachi/</loc>
     <lastmod>2024-09-27T02:24:05-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/scft/dead-ends/</loc>
+    <loc>https://example.org/posts/scft/dead-ends/</loc>
     <lastmod>2024-08-08T18:46:24-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/complexity/algebraic-complexity/</loc>
+    <loc>https://example.org/posts/complexity/algebraic-complexity/</loc>
     <lastmod>2024-08-02T20:47:12-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/coffee/coffee-in-austin/</loc>
+    <loc>https://example.org/posts/coffee/coffee-in-austin/</loc>
     <lastmod>2024-07-28T16:13:43-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/holography/holography/</loc>
+    <loc>https://example.org/posts/holography/holography/</loc>
     <lastmod>2024-07-20T22:24:28-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/purpose/purpose/</loc>
+    <loc>https://example.org/posts/purpose/purpose/</loc>
     <lastmod>2024-07-18T19:24:28-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/hello-world/hello-world/</loc>
+    <loc>https://example.org/posts/hello-world/hello-world/</loc>
     <lastmod>2024-07-18T01:15:06-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://example.org/about/</loc>
     <lastmod>2024-07-18T01:10:02-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

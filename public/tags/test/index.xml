@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test on Lightly Caffeinated</title>
-    <link>http://localhost:1313/tags/test/</link>
+    <link>https://example.org/tags/test/</link>
     <description>Recent content in Test on Lightly Caffeinated</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Yasin</copyright>
-    <lastBuildDate>Thu, 18 Jul 2024 01:15:06 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jul 2024 01:15:06 -0500</lastBuildDate><atom:link href="https://example.org/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/hello-world/</link>
+      <link>https://example.org/posts/hello-world/hello-world/</link>
       <pubDate>Thu, 18 Jul 2024 01:15:06 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/hello-world/hello-world/</guid>
+      <guid>https://example.org/posts/hello-world/hello-world/</guid>
       <description>This is a test.</description>
       
     </item>
