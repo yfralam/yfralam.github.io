@@ -34,9 +34,9 @@ While I don't mean to derive the anomalies, it is worth saying some things about
 $$ Z[A_\mu] = \int \mathcal D \Psi \mathcal D \bar \Psi e^{-S_{QED}[\Psi,\bar \Psi, A]} ~. $$
 There is a famous axial anomaly corresponding to 
 
-$$ \Psi \to e^{i \theta \gamma^5}\Psi~, \Psi^\dagger \to \Psi^\dagger e^{-i \theta \gamma^5} $$ such that the current \\(J^5\\) is not conserved at the classical level: 
+$$ \Psi \to e^{i \theta \gamma^5}\Psi~, \Psi^\dagger \to \Psi^\dagger e^{-i \theta \gamma^5} $$ such that the current \\(J^5\\) is not conserved past the classical level: 
 
-$$\langle \partial_\mu J^{\mu5} \rangle = \langle\partial_\mu (\bar \Psi \gamma^\mu \gamma^5 \Psi) \rangle ~.$$ In momentum space, this is just 
+$$\langle \partial_\mu J^{\mu5} \rangle = \langle\partial_\mu (\bar \Psi \gamma^\mu \gamma^5 \Psi) \rangle \neq 0 ~.$$ In momentum space, this is just 
 
 $$ q_\mu \text{Tr}( \gamma^\mu \gamma^5 S(p)) $$ where \\(S(p)\\) is the propagator for the spinor in the EM background. In terms of Feynman diagrams, this is: 
 ![Feynman diagram corresponding to axial anomaly.](/posts/anomalies/img/dJ.PNG)
