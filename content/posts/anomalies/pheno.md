@@ -39,14 +39,14 @@ $$ \Psi \to e^{i \theta \gamma^5}\Psi~, \Psi^\dagger \to \Psi^\dagger e^{-i \the
 $$\langle \partial_\mu J^{\mu5} \rangle = \langle\partial_\mu (\bar \Psi \gamma^\mu \gamma^5 \Psi) \rangle ~.$$ In momentum space, this is just 
 
 $$ q_\mu \text{Tr}( \gamma^\mu \gamma^5 S(p)) $$ where \\(S(p)\\) is the propagator for the spinor in the EM background. In terms of Feynman diagrams, this is: 
-![Feynman diagram corresponding to axial anomaly.](/posts/anomalies/img/dJ.png)
+![Feynman diagram corresponding to axial anomaly.](/posts/anomalies/img/dJ.PNG)
 
 
 where the diagram with 0 external photons cancels by conservation of momentum \\(q=0\\), the ones with 1 or 3 photons cancel due to charge conjugation symmetry, and the diagrams with \\(n_\gamma >3\\) we can cancel as their superficial degree of divergence shows they are no worse that log divergent. We can shift momenta such that digrams will end up cancelling.
 
 Adding covariant higher derivative terms for the photon ( \\(\mathcal L \supset F (\partial^2/\Lambda^2)^n ) F\\) ), one can show (as ABJ did) that higher loop effects will cancel.
 
-![The only type of diagram that contributes](/posts/anomalies/img/triangle.png)
+![The only type of diagram that contributes](/posts/anomalies/img/triangle.PNG)
 
 Thus, we are left with the conclusion that the axial anomaly is *one loop exact*. The only contribution come from the triangle diagrams we know and love. This is a big deal. Almost always the anomaly is one loop exact. In simple terms, the deep reason behind this is that the anomaly is a topological term (as we will see), which takes integer values, and thus, **cannot vary continuously**. 
 
@@ -180,7 +180,7 @@ It is not just so simple as to the traces individually giving 0 (although this h
 
 Even when I couple gravity and look at triangle diagrams with two gravitons, there is *still* no anomaly.
 
-![Feynman diagram corresponding to chiral anomaly with gravitons.](/posts/anomalies/img/grav.png)
+![Feynman diagram corresponding to chiral anomaly with gravitons.](/posts/anomalies/img/grav.PNG)
 
 The standard model is absolutely beautiful. For matching with experiment and seeing all the specifies of matter and forces that we do, the is **nothing else I could have written down.**
 
