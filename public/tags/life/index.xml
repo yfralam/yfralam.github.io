@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life on Lightly Caffeinated</title>
-    <link>https://example.org/tags/life/</link>
+    <link>http://localhost:1313/tags/life/</link>
     <description>Recent content in Life on Lightly Caffeinated</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Yasin</copyright>
-    <lastBuildDate>Sun, 16 Mar 2025 14:23:14 -0500</lastBuildDate><atom:link href="https://example.org/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Mar 2025 14:23:14 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Homology is DEI?</title>
-      <link>https://example.org/posts/physics_life/dei/</link>
+      <link>http://localhost:1313/posts/physics_life/dei/</link>
       <pubDate>Sun, 16 Mar 2025 14:23:14 -0500</pubDate>
       
-      <guid>https://example.org/posts/physics_life/dei/</guid>
+      <guid>http://localhost:1313/posts/physics_life/dei/</guid>
       <description>Funding Uncertainty #Over the past few months, the current government has taken a hammer to scientific funding in the form of several proposals to cut federal grants.</description>
       
     </item>
     
     <item>
       <title>A sort of state of the department at UT</title>
-      <link>https://example.org/posts/physics_life/sod/</link>
+      <link>http://localhost:1313/posts/physics_life/sod/</link>
       <pubDate>Fri, 03 Jan 2025 17:21:54 -0600</pubDate>
       
-      <guid>https://example.org/posts/physics_life/sod/</guid>
+      <guid>http://localhost:1313/posts/physics_life/sod/</guid>
       <description>Recently an external review committee (ERC) has commented on the state of the department and proposed possible solutions, or at least places where the department should look into.</description>
       
     </item>
     
     <item>
       <title>Making Coffee</title>
-      <link>https://example.org/posts/coffee/makingcoffee/</link>
+      <link>http://localhost:1313/posts/coffee/makingcoffee/</link>
       <pubDate>Sun, 06 Oct 2024 18:49:33 -0500</pubDate>
       
-      <guid>https://example.org/posts/coffee/makingcoffee/</guid>
+      <guid>http://localhost:1313/posts/coffee/makingcoffee/</guid>
       <description>Unnecessary Intro #Almost everyday, usually in the afternoon, either back at home or in the office, I make an iced pour over.</description>
       
     </item>
     
     <item>
       <title>Coffee in Austin</title>
-      <link>https://example.org/posts/coffee/coffee-in-austin/</link>
+      <link>http://localhost:1313/posts/coffee/coffee-in-austin/</link>
       <pubDate>Sun, 28 Jul 2024 16:13:43 -0500</pubDate>
       
-      <guid>https://example.org/posts/coffee/coffee-in-austin/</guid>
+      <guid>http://localhost:1313/posts/coffee/coffee-in-austin/</guid>
       <description>It seems I will be here for a while, so I might as well make a list of all the coffee shops I&amp;rsquo;ve been to.</description>
       
     </item>

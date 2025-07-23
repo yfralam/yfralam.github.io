@@ -2,158 +2,158 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lightly Caffeinated</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Lightly Caffeinated</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Yasin</copyright>
-    <lastBuildDate>Sun, 20 Jul 2025 13:26:38 -0500</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jul 2025 13:26:38 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Some phenomenology of anomalies</title>
-      <link>https://example.org/posts/anomalies/pheno/</link>
+      <link>http://localhost:1313/posts/anomalies/pheno/</link>
       <pubDate>Sun, 20 Jul 2025 13:26:38 -0500</pubDate>
       
-      <guid>https://example.org/posts/anomalies/pheno/</guid>
+      <guid>http://localhost:1313/posts/anomalies/pheno/</guid>
       <description>I&amp;rsquo;ve recently gotten interested in anomalies for a variety of reasons and more specifically anomaly inflow, mostly due to an offshoot of a current project.</description>
       
     </item>
     
     <item>
       <title>Homology is DEI?</title>
-      <link>https://example.org/posts/physics_life/dei/</link>
+      <link>http://localhost:1313/posts/physics_life/dei/</link>
       <pubDate>Sun, 16 Mar 2025 14:23:14 -0500</pubDate>
       
-      <guid>https://example.org/posts/physics_life/dei/</guid>
+      <guid>http://localhost:1313/posts/physics_life/dei/</guid>
       <description>Funding Uncertainty #Over the past few months, the current government has taken a hammer to scientific funding in the form of several proposals to cut federal grants.</description>
       
     </item>
     
     <item>
       <title>Aspen 2025: Observables in QG</title>
-      <link>https://example.org/posts/conference/aspen2025/</link>
+      <link>http://localhost:1313/posts/conference/aspen2025/</link>
       <pubDate>Fri, 17 Jan 2025 15:14:54 -0700</pubDate>
       
-      <guid>https://example.org/posts/conference/aspen2025/</guid>
+      <guid>http://localhost:1313/posts/conference/aspen2025/</guid>
       <description>I&amp;rsquo;ve just gotten back from Aspen&amp;rsquo;s workshop on observables in quantum gravity where the main goal was to have experimentalists and theorist come together to talk about what could be observed in quantum gravity and how the experimentalists could actually go into the lab and observe it.</description>
       
     </item>
     
     <item>
       <title>A sort of state of the department at UT</title>
-      <link>https://example.org/posts/physics_life/sod/</link>
+      <link>http://localhost:1313/posts/physics_life/sod/</link>
       <pubDate>Fri, 03 Jan 2025 17:21:54 -0600</pubDate>
       
-      <guid>https://example.org/posts/physics_life/sod/</guid>
+      <guid>http://localhost:1313/posts/physics_life/sod/</guid>
       <description>Recently an external review committee (ERC) has commented on the state of the department and proposed possible solutions, or at least places where the department should look into.</description>
       
     </item>
     
     <item>
       <title>Doing actual string theory in AdS/CFT</title>
-      <link>https://example.org/posts/string-theory/ads5rr/</link>
+      <link>http://localhost:1313/posts/string-theory/ads5rr/</link>
       <pubDate>Sat, 21 Dec 2024 15:24:48 -0600</pubDate>
       
-      <guid>https://example.org/posts/string-theory/ads5rr/</guid>
+      <guid>http://localhost:1313/posts/string-theory/ads5rr/</guid>
       <description>Not a lot of string theory in AdS/CFT #In the most well understood version of AdS/CFT, we stack N D3-branes and then see that the near horizon geometry is \(AdS_5 \times S^5\).</description>
       
     </item>
     
     <item>
       <title>Making Coffee</title>
-      <link>https://example.org/posts/coffee/makingcoffee/</link>
+      <link>http://localhost:1313/posts/coffee/makingcoffee/</link>
       <pubDate>Sun, 06 Oct 2024 18:49:33 -0500</pubDate>
       
-      <guid>https://example.org/posts/coffee/makingcoffee/</guid>
+      <guid>http://localhost:1313/posts/coffee/makingcoffee/</guid>
       <description>Unnecessary Intro #Almost everyday, usually in the afternoon, either back at home or in the office, I make an iced pour over.</description>
       
     </item>
     
     <item>
       <title>AI, research, computer science pt. 1</title>
-      <link>https://example.org/posts/compsci/ai-pt1/</link>
+      <link>http://localhost:1313/posts/compsci/ai-pt1/</link>
       <pubDate>Sun, 29 Sep 2024 00:57:34 -0500</pubDate>
       
-      <guid>https://example.org/posts/compsci/ai-pt1/</guid>
+      <guid>http://localhost:1313/posts/compsci/ai-pt1/</guid>
       <description>Abstract #As some may know, I completed an undergraduate degree in computer science, primarily focusing on AI and reinforcement learning.</description>
       
     </item>
     
     <item>
       <title>古典と現代小説を読むことの感想</title>
-      <link>https://example.org/posts/nihongo/hontachi/</link>
+      <link>http://localhost:1313/posts/nihongo/hontachi/</link>
       <pubDate>Fri, 27 Sep 2024 02:24:05 -0500</pubDate>
       
-      <guid>https://example.org/posts/nihongo/hontachi/</guid>
+      <guid>http://localhost:1313/posts/nihongo/hontachi/</guid>
       <description>これまで私にとっては、よく難解ことであるが、色々な古典小説を読もうとしている。最近、参考までに、住野よるの「また、同じ夢を見ていた」を読んでいた。主人公が小学生ので、「このキャラの言葉や考え方は分かることがかんたんはずでしょう」と思えた。たしかに、間違ていなかったけど、「かんたん」というより、「モダン」というもっと正解です。この時、やっと気づきました。夏目漱石や太宰治の本の文体は素敵ですけど、日常会話のために（とくにカジュアル会話）あまり便利じゃない。</description>
       
     </item>
     
     <item>
       <title>Dead Ends, Flat Holography, and 7d SCFTs</title>
-      <link>https://example.org/posts/scft/dead-ends/</link>
+      <link>http://localhost:1313/posts/scft/dead-ends/</link>
       <pubDate>Thu, 08 Aug 2024 18:46:24 -0500</pubDate>
       
-      <guid>https://example.org/posts/scft/dead-ends/</guid>
+      <guid>http://localhost:1313/posts/scft/dead-ends/</guid>
       <description>Every now and then, one pursues an idea thinking it could lead to something interesting, but then soon finds a dead end.</description>
       
     </item>
     
     <item>
       <title>On Complexity in QFT and Algebras</title>
-      <link>https://example.org/posts/complexity/algebraic-complexity/</link>
+      <link>http://localhost:1313/posts/complexity/algebraic-complexity/</link>
       <pubDate>Fri, 02 Aug 2024 20:47:12 -0500</pubDate>
       
-      <guid>https://example.org/posts/complexity/algebraic-complexity/</guid>
+      <guid>http://localhost:1313/posts/complexity/algebraic-complexity/</guid>
       <description>Operators and Black Hole Info #Today, the arxivs have graced us with a paper on An Operator Algebraic Approach To Black Hole Information by van der Heijden and Verlinde.</description>
       
     </item>
     
     <item>
       <title>Coffee in Austin</title>
-      <link>https://example.org/posts/coffee/coffee-in-austin/</link>
+      <link>http://localhost:1313/posts/coffee/coffee-in-austin/</link>
       <pubDate>Sun, 28 Jul 2024 16:13:43 -0500</pubDate>
       
-      <guid>https://example.org/posts/coffee/coffee-in-austin/</guid>
+      <guid>http://localhost:1313/posts/coffee/coffee-in-austin/</guid>
       <description>It seems I will be here for a while, so I might as well make a list of all the coffee shops I&amp;rsquo;ve been to.</description>
       
     </item>
     
     <item>
       <title>On Holography for Laymen</title>
-      <link>https://example.org/posts/holography/holography/</link>
+      <link>http://localhost:1313/posts/holography/holography/</link>
       <pubDate>Sat, 20 Jul 2024 22:24:28 -0500</pubDate>
       
-      <guid>https://example.org/posts/holography/holography/</guid>
+      <guid>http://localhost:1313/posts/holography/holography/</guid>
       <description>Edit 29 Sep 2024: At some point I&amp;rsquo;d like to revisit this.</description>
       
     </item>
     
     <item>
       <title>Purpose</title>
-      <link>https://example.org/posts/purpose/purpose/</link>
+      <link>http://localhost:1313/posts/purpose/purpose/</link>
       <pubDate>Thu, 18 Jul 2024 19:24:28 -0500</pubDate>
       
-      <guid>https://example.org/posts/purpose/purpose/</guid>
+      <guid>http://localhost:1313/posts/purpose/purpose/</guid>
       <description>Introduction #Recently, I have been thinking to myself more and more that I should have a blog or a website to write down my thoughts.</description>
       
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>https://example.org/posts/hello-world/hello-world/</link>
+      <link>http://localhost:1313/posts/hello-world/hello-world/</link>
       <pubDate>Thu, 18 Jul 2024 01:15:06 -0500</pubDate>
       
-      <guid>https://example.org/posts/hello-world/hello-world/</guid>
+      <guid>http://localhost:1313/posts/hello-world/hello-world/</guid>
       <description>This is a test.</description>
       
     </item>
     
     <item>
       <title>About</title>
-      <link>https://example.org/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 18 Jul 2024 01:10:02 -0500</pubDate>
       
-      <guid>https://example.org/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>About #Hi, I&amp;rsquo;m Yasin, a PhD student at UT Austin.</description>
       
     </item>
