@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Yasin</copyright>
-    <lastBuildDate>Sun, 20 Jul 2025 13:26:38 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Jul 2025 18:04:24 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A useful thing from 6d</title>
+      <link>http://localhost:1313/posts/anomalies/descent/</link>
+      <pubDate>Sun, 27 Jul 2025 18:04:24 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/anomalies/descent/</guid>
+      <description>This is a continuation of a some phenomenology of anomalies.</description>
+      
+    </item>
+    
     <item>
       <title>Some phenomenology of anomalies</title>
       <link>http://localhost:1313/posts/anomalies/pheno/</link>

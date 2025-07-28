@@ -8,14 +8,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   
-  <title>Some phenomenology of anomalies &middot; Lightly Caffeinated</title>
-  <meta name="title" content="Some phenomenology of anomalies &middot; Lightly Caffeinated" />
+  <title>A useful thing from 6d &middot; Lightly Caffeinated</title>
+  <meta name="title" content="A useful thing from 6d &middot; Lightly Caffeinated" />
   
-  <meta name="description" content="A few comments on visible aspects of anomalies." />
+  <meta name="description" content="A short note on anomaly descent." />
   <meta name="keywords" content="physics-t, " />
   
   
-  <link rel="canonical" href="http://localhost:1313/posts/anomalies/pheno/" />
+  <link rel="canonical" href="http://localhost:1313/posts/anomalies/descent/" />
   
   
   
@@ -62,21 +62,21 @@
   
   
   
-  <meta property="og:url" content="http://localhost:1313/posts/anomalies/pheno/">
+  <meta property="og:url" content="http://localhost:1313/posts/anomalies/descent/">
   <meta property="og:site_name" content="Lightly Caffeinated">
-  <meta property="og:title" content="Some phenomenology of anomalies">
-  <meta property="og:description" content="A few comments on visible aspects of anomalies.">
+  <meta property="og:title" content="A useful thing from 6d">
+  <meta property="og:description" content="A short note on anomaly descent.">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2025-07-20T13:26:38-05:00">
-    <meta property="article:modified_time" content="2025-07-20T13:26:38-05:00">
+    <meta property="article:published_time" content="2025-07-27T18:04:24-05:00">
+    <meta property="article:modified_time" content="2025-07-27T18:04:24-05:00">
     <meta property="article:tag" content="Physics-T">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Some phenomenology of anomalies">
-  <meta name="twitter:description" content="A few comments on visible aspects of anomalies.">
+  <meta name="twitter:title" content="A useful thing from 6d">
+  <meta name="twitter:description" content="A short note on anomaly descent.">
 
   
   <script type="application/ld+json">
@@ -84,26 +84,26 @@
     "@context": "https://schema.org",
     "@type": "Article",
     "articleSection": "Posts",
-    "name": "Some phenomenology of anomalies",
-    "headline": "Some phenomenology of anomalies",
-    "description": "A few comments on visible aspects of anomalies.",
-    "abstract": "I\u0026rsquo;ve recently gotten interested in anomalies for a variety of reasons and more specifically anomaly inflow, mostly due to an offshoot of a current project.",
+    "name": "A useful thing from 6d",
+    "headline": "A useful thing from 6d",
+    "description": "A short note on anomaly descent.",
+    "abstract": "This is a continuation of Some phenomenology of anomalies.",
     "inLanguage": "en",
-    "url" : "http:\/\/localhost:1313\/posts\/anomalies\/pheno\/",
+    "url" : "http:\/\/localhost:1313\/posts\/anomalies\/descent\/",
     "author" : {
       "@type": "Person",
       "name": "Yasin"
     },
     "copyrightYear": "2025",
-    "dateCreated": "2025-07-20T13:26:38-05:00",
-    "datePublished": "2025-07-20T13:26:38-05:00",
+    "dateCreated": "2025-07-27T18:04:24-05:00",
+    "datePublished": "2025-07-27T18:04:24-05:00",
     
-    "dateModified": "2025-07-20T13:26:38-05:00",
+    "dateModified": "2025-07-27T18:04:24-05:00",
     
     "keywords": ["physics-t"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "2636"
+    "wordCount": "1465"
   }]
   </script>
 
@@ -536,7 +536,7 @@
   <header id="single_header" class="mt-5 max-w-prose">
     
     <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-      Some phenomenology of anomalies
+      A useful thing from 6d
     </h1>
     <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
       
@@ -581,7 +581,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2025-07-20 13:26:38 -0500 CDT">20 July 2025</time><span class="px-2 text-primary-500">&middot;</span><span>2636 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">13 mins</span>
+  <time datetime="2025-07-27 18:04:24 -0500 CDT">27 July 2025</time><span class="px-2 text-primary-500">&middot;</span><span>1465 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">7 mins</span>
   
 
   
@@ -732,23 +732,13 @@
     class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#global-anomalies">Global Anomalies</a>
+    <li><a href="#restatement-of-the-anomaly">Restatement of the anomaly</a></li>
+    <li><a href="#the-form-of-the-argument">The form of the argument</a></li>
+    <li><a href="#some-details-on-the-trace">Some details on the trace</a></li>
+    <li><a href="#math-and-subtleties">Math and Subtleties</a>
       <ul>
-        <li><a href="#qed">QED</a></li>
-        <li><a href="#negative-magnetoresistance">Negative Magnetoresistance</a></li>
-        <li><a href="#pi0-to-gammagamma">(\(\pi^0 \to \gamma\gamma\))</a></li>
-      </ul>
-    </li>
-    <li><a href="#chiral-anomalies-baryon-and-lepton">Chiral Anomalies (Baryon and Lepton)</a>
-      <ul>
-        <li><a href="#lepton-and-baryon-number-anomaly">Lepton and Baryon number anomaly</a></li>
-        <li><a href="#physical-consequences">Physical Consequences</a></li>
-      </ul>
-    </li>
-    <li><a href="#gauge-anomalies">Gauge Anomalies</a>
-      <ul>
-        <li><a href="#the-beauty-of-the-standard-model">The beauty of the standard model</a></li>
-        <li><a href="#green-and-schwarz">Green and Schwarz</a></li>
+        <li><a href="#why-omega_2n-1">Why \(\Omega_{2n-1}\)?</a></li>
+        <li><a href="#why-h_2n-2">Why \(H_{2n-2}\)?</a></li>
       </ul>
     </li>
   </ul>
@@ -764,23 +754,13 @@
     class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#global-anomalies">Global Anomalies</a>
+    <li><a href="#restatement-of-the-anomaly">Restatement of the anomaly</a></li>
+    <li><a href="#the-form-of-the-argument">The form of the argument</a></li>
+    <li><a href="#some-details-on-the-trace">Some details on the trace</a></li>
+    <li><a href="#math-and-subtleties">Math and Subtleties</a>
       <ul>
-        <li><a href="#qed">QED</a></li>
-        <li><a href="#negative-magnetoresistance">Negative Magnetoresistance</a></li>
-        <li><a href="#pi0-to-gammagamma">(\(\pi^0 \to \gamma\gamma\))</a></li>
-      </ul>
-    </li>
-    <li><a href="#chiral-anomalies-baryon-and-lepton">Chiral Anomalies (Baryon and Lepton)</a>
-      <ul>
-        <li><a href="#lepton-and-baryon-number-anomaly">Lepton and Baryon number anomaly</a></li>
-        <li><a href="#physical-consequences">Physical Consequences</a></li>
-      </ul>
-    </li>
-    <li><a href="#gauge-anomalies">Gauge Anomalies</a>
-      <ul>
-        <li><a href="#the-beauty-of-the-standard-model">The beauty of the standard model</a></li>
-        <li><a href="#green-and-schwarz">Green and Schwarz</a></li>
+        <li><a href="#why-omega_2n-1">Why \(\Omega_{2n-1}\)?</a></li>
+        <li><a href="#why-h_2n-2">Why \(H_{2n-2}\)?</a></li>
       </ul>
     </li>
   </ul>
@@ -866,270 +846,138 @@
         <div class="article-content max-w-prose mb-20">
           
 
-<p>I&rsquo;ve recently gotten interested in anomalies for a variety of reasons and more specifically <a href="https://arxiv.org/abs/2003.11550" target="_blank">anomaly inflow</a>, mostly due to an offshoot of a current project. But before diving into things from higher dimensions, SPT phases, and cancellations in depth, I wanted to ground myself in some observable effects.</p>
-<p>I don&rsquo;t say anything new here. Most of what I cover can be found in more depth in <a href="https://web2.ph.utexas.edu/~vadim/Classes/2024f-qft/anomaly.pdf" target="_blank">Vadim&rsquo;s notes</a> and <a href="https://arxiv.org/abs/2409.09211" target="_blank">Quevado and Schachner&rsquo;s notes</a> the purpose of this is to rephrase things for my own understanding. Some Feynman diagrams are from there as well.</p>
-<p><strong>Guide</strong></p>
-<blockquote>
-<p>The most technical part is QED.</p>
-<p>On first pass it is good enough to read the physical consequences, baryon and lepton, and standard model sections.</p>
-<p>The section for GS does not go into the mechanism, just discusses why it was a big deal.</p>
-</blockquote>
-
-
-<h2 class="relative group">Global Anomalies 
-    <div id="global-anomalies" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#global-anomalies" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-
-
-<h3 class="relative group">QED 
-    <div id="qed" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#qed" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<p>While I don&rsquo;t mean to derive the anomalies, it is worth saying some things about where they come from. Inevitably, the best place to start is QED (where we will unfortunately use Dirac spinors)</p>
-<p>$$ Z[A_\mu] = \int \mathcal D \Psi \mathcal D \bar \Psi e^{-S_{QED}[\Psi,\bar \Psi, A]} ~. $$
-There is a famous axial anomaly corresponding to</p>
-<p>$$ \Psi \to e^{i \theta \gamma^5}\Psi~, \Psi^\dagger \to \Psi^\dagger e^{-i \theta \gamma^5} $$ such that the current \(J^5\) is not conserved past the classical level:</p>
-<p>$$\langle \partial_\mu J^{\mu5} \rangle = \langle\partial_\mu (\bar \Psi \gamma^\mu \gamma^5 \Psi) \rangle \neq 0 ~.$$ In momentum space, this is just</p>
-<p>$$ q_\mu \text{Tr}( \gamma^\mu \gamma^5 S(p)) $$ where \(S(p)\) is the propagator for the spinor in the EM background. In terms of Feynman diagrams, this is:
-
-    <figure>
-      <img class="my-0 rounded-md" loading="lazy" src="/posts/anomalies/img/dJ.PNG" alt="Feynman diagram corresponding to axial anomaly." />
-      
-    </figure>
-</p>
-<p>where the diagram with 0 external photons cancels by conservation of momentum \(q=0\), the ones with 1 or 3 photons cancel due to charge conjugation symmetry, and the diagrams with \(n_\gamma &gt;3\) we can cancel as their superficial degree of divergence shows they are no worse that log divergent. We can shift momenta such that diagrams will end up cancelling.</p>
-<p>Adding covariant higher derivative terms for the photon ( \(\mathcal L \supset F (\partial^2/\Lambda^2)^n ) F\) ), one can show (as ABJ did) that higher loop effects will cancel.</p>
-<p>
-    <figure>
-      <img class="my-0 rounded-md" loading="lazy" src="/posts/anomalies/img/triangle.PNG" alt="The only type of diagram that contributes" />
-      
-    </figure>
-</p>
-<p>Thus, we are left with the conclusion that the axial anomaly is <em>one loop exact</em>. The only contributions come from the triangle diagrams we know and love. This is a big deal. Almost always the anomaly is one loop exact. In simple terms, the deep reason behind this is that the anomaly is a topological term (as we will see), which takes integer values, and thus, <strong>cannot vary continuously</strong>.</p>
-<p>There is a deeper reason coming from supersymmetry and localization, but we can go down that avenue in the future.</p>
-<p>Once we have the diagrams, it is a simple (tedious) exercise to calculate. One finds the total anomaly to be</p>
-<p>$$\mathcal M^{\mu \nu} = \frac{e^2}{2\pi^2} \epsilon^{\alpha\nu\beta\mu}k_{2\alpha}k_{1\beta}~. $$</p>
-<p>Reattaching the photons,</p>
-<p>$$\langle \partial_\mu J^{\mu5} \rangle = \mathcal M^{\mu\nu} \cdot \frac12 A_\mu(k_1) A_\nu(k_2) = \frac{-e^2}{16\pi^2} \epsilon^{\mu \nu \rho \sigma}F_{\mu\nu}F_{\rho\sigma} ~,$$ where in the last step, we went back to position space. It is now clear this is a topological term.</p>
-<p>To preview what we will cover at a later date, one can follow Fujikawa&rsquo;s method to derive the anomalies. Such method clearly shows that the anomaly (in the PI formalism) comes from the non-invariance of the PI measure under the symmetry and presents a clear connection with the geometric nature of the anomalies.</p>
-<p>The integral over the anomaly gives the difference in the zero modes of different chiralities. Via Atiyah Singer, one can show this represents an integral of the relevant Chern character</p>
-<p>$$ \nu_+ - \nu_- = \int_M dx \partial_\mu J^{\mu5} = \int_M \text{ch}_2(F)~. $$
-Further details can of course be found in Nakahara.</p>
-
-
-<h3 class="relative group">Negative Magnetoresistance 
-    <div id="negative-magnetoresistance" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#negative-magnetoresistance" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<p>We have essentially found that</p>
-<p>$$ \partial_\mu J^{\mu5} = \frac{-e^2}{16\pi^2} F_{\mu\nu}\tilde F^{\mu\nu} ~.$$
-If we rewrite this in terms of familiar 3-vector E&amp;M, this is</p>
-<p>$$ \partial_\mu J^{\mu5} = \frac{-e^2}{2\pi^2 \hbar^2 } \vec E \cdot \vec B ~,$$
-which tells us the divergence of the axial current (difference in the number of left and right handed particles) is not conserved.</p>
-<p>In principle, this is observable, I can construct a parallel plate capacitor with a solenoid inside of it so the e field and b field go the same way.</p>
-<p>
-    <figure>
-      <img class="my-0 rounded-md" loading="lazy" src="/posts/anomalies/img/capacitor.PNG" alt="Parallel plate capacitor with a solenoid inside of it such that both the B field and E field go in the same direction." />
-      
-    </figure>
-</p>
-<p>If \(\nabla \cdot \vec{J}^5 = 0\), we literally get</p>
-<p>$$\dot{Q}^5 = \frac{-e^2}{2\pi^2\hbar^2}\int d^3 x EB~.$$</p>
-<p>Indeed, related to the chiral anomaly, one can directly observe negative longitudinal magnetoresistance in Weyl semimetals. Generically (in simple systems), the conductivity is inversely related to the magnetic field (See Ashcroft and Mermin), but In the presence of parallel electric and magnetic fields though, there is a current of charge carriers which reduce the resistance.
-
-    <figure>
-      <img class="my-0 rounded-md" loading="lazy" src="/posts/anomalies/img/weyl.PNG" alt="Experimental data where conductivity spikes when the E field and B field align." />
-      
-    </figure>
-</p>
-<p>Incredibly, this effect was observed experimentally only around the mid 2010&rsquo;s!  The plot above is from <a href="https://www.nature.com/articles/ncomms10735" target="_blank">this 2016 paper </a> which worked with TaAs. You can see that the conductivity spikes when the fields are parallel.</p>
-<p>Again, just to drive home how incredible this is, this comes from a <strong>one loop anomaly</strong>, a purely quantum effect that we can observe in a modest lab; without smashing two rocks into each other at high speeds).</p>
-<p>I should introduce a word of caution. I say &ldquo;related to the chiral anomaly&rdquo; because the condensed matter system is more complicated than the anomaly we just described. The crystal structure changes the space and one must be careful with the gauge fields and topology. Nonetheless, the phenomenon exhibits some characteristics we would expect from the anomaly.</p>
-
-
-<h3 class="relative group">(\(\pi^0 \to \gamma\gamma\)) 
-    <div id="pi0-to-gammagamma" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#pi0-to-gammagamma" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<p>We &ldquo;derived&rdquo; the anomaly above for QED but generically, for some non-abelian symmetry generated by \(T_A\) and having \(N\) fermions</p>
-<p>$$J^{\mu5}[T_A] = \bar \Psi \gamma^\mu \gamma^5 T_A \Psi~,$$which should be taken as a matrix equation, we get</p>
-<p>$$\partial \cdot j^5[T_A] = \frac{-g^2}{16\pi^2}\text{Tr~}( T_A \epsilon^{abcd}F_{ab}F_{cd})~,$$
-where the trace is over other quantum numbers.</p>
-<p>The poster child of anomalies having observable consequences is \(\pi^0 \to \gamma\gamma\). In massless QCD for the quark doublet charged under electroweak, \(Q\) with \(u,d\) there is a \(SU(2)_L \times SU(2)_R \times U(1)_V \times U(1)_A \). Ignoring the \(U(1)\)&rsquo;s, we essentially have \(SU(2)_V \otimes SU(2)_A) with</p>
-<p>$$j^{\mu5}[T^i] = \bar Q \gamma^\mu \gamma^5 T^i Q~,$$
-where the \(T^i\) are generators of \(SU(2)\). There is a possible contribution to the anomaly from the gluons which we don&rsquo;t need to worry about as \(\text{Tr}~T^i \lambda^a \lambda^b =0\) where \(\lambda\) are \(SU(3)\) generators.</p>
-<p>There is however, a contribution from QED. The relevant diagram is</p>
-<p>The electric charge operator acts as \(Q_e = T^3 + Y\) where \(Y\) is the hypercharge. On the quarks, this gives (times e) \(Q_e Q = \text{diag}(\frac 23,-\frac 13)\). The full anomaly is then</p>
-<p>$$\partial_\mu J^{\mu5}[T^3] = \frac{-1}{16\pi^2}\times 3\times \text{Tr~}(T^3 Q_e^2 \epsilon^{abcd}F_{ab}F_{cd}) = \frac{-1}{16\pi^2}\times 3 \times \frac{e^2}{6}(\epsilon^{abcd}F_{ab}F_{cd})_{EM}~.$$
-So how does this lead to the decay?</p>
-<p>Let us first note some things about the symmetry. The axial symmetry, if unbroken, would map a hadron to another hadron of the opposite chirality. No such thing exists in nature, so we have experimentally verified that this must be spontaneously broken. Indeed,</p>
-<p>$$SU(2)_V \otimes SU(2)_A \to SU(2)_V $$
-as the quarks condense \( \langle \bar Q Q \rangle \neq 0\). The (psuedo-) goldstones that we get from this are the pions. If one writes down the most general EFT respecting this symmetry, it turns out to be the Effective Chiral lagrangian.</p>
-<p>To get the connection to the pions with the current, we must invoke the PCAC hypothesis. Covering it would take (several) more posts so I will just say for more details, there is a wonderful chapter in Sydney Coleman&rsquo;s notes section 41 or Peskin and Schroeder chapter 19.</p>
-<p>Essentially, the pions form an isospin triplet and have odd parities. Thus they can be created by the axial current. Then</p>
-<p>$$ \langle 0| J^{\mu 5a}(x) | \pi^b(p) \rangle = -i p^\mu f_\pi \delta^{ab}e^{-ipx}~. $$ a,b are isospin indices and \(f_\pi=93 MeV\) is the pion decay constant. Of course, one can then see that the divergence of the LHS will give a \(p^2\) on the RHS.</p>
-<p>We can write</p>
-<p>$$J^{\mu 5}[T^3] = -f_\pi \partial^\mu \pi^0 + \text{multi-pions}~.$$
-Taking the divergence (and putting mass back in)</p>
-<p>$$\partial_\mu J^{\mu 5}[T^3] = -f_\pi (\partial^2 +m_\pi^2) \pi^0 + \text{multi-pions}=\frac{e^2}{32\pi^2}(\epsilon^{abcd}F_{ab}F_{cd})_{EM}.$$This is just the EOM for \(\pi^0\). To get this, the effective lagrangian would need a term of the form</p>
-<p>$$ \mathcal L \supset \sim \frac{ e^2}{f_\pi}\pi^0 F \wedge F. $$
-Thus we see that there is a decay channel for the process in question. A direct computation of the scattering amplitude yields</p>
-<p>$$\mathcal M(\pi^0 \to \gamma \gamma) = -8 \frac{e^2}{32\pi^2 f_\pi}(\epsilon^{abcd}(k_a e_b^*)_1(k_c e^*_d)_2~.$$</p>
-<p>One can open up the PDG and find that this process occurs with branching 99%. The other 1% is largely \(\pi^0 \to e^+ e^- \gamma\).</p>
-
-
-<h2 class="relative group">Chiral Anomalies (Baryon and Lepton) 
-    <div id="chiral-anomalies-baryon-and-lepton" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#chiral-anomalies-baryon-and-lepton" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-<p>The standard model is a chiral theory. The left handed quarks and leptons are in the <strong>2</strong> of \(SU(2)\) while the right handed are singlets. For chiral theories,</p>
-<p>$$\delta \psi_L = i \epsilon T_L \psi_L~,\quad \delta \psi_L = i \epsilon T_R \psi_R$$</p>
-<p>In the same way as before (triangle diagrams), one finds generically for a non-abelian theory</p>
-<p>$$ \partial \cdot J^a = \left(\sum_{l} A(R_l) - \sum_r A(R_r)\right) \frac{g^2}{128\pi^2} d^{abc} \epsilon^{\mu\nu\alpha\beta} F_{\mu\nu}^b F_{\alpha\beta}^c$$</p>
-<p>where the sum is over the left(right) handed Weyl fermions and \(A(R_l)\) is the anomaly coefficient under representation \(R_l\) (\(A(R_r)\) with \(R_r\)) and \(d^{abc} = 2 \text{Tr} T^a{T^b,T^c}\).</p>
-<p>In more concrete terms, with non-abelian generators \(t^a = \frac12 \lambda^a\), the anomaly is</p>
-<p>$$ \partial \cdot J = \left(\text{Tr}_{LHWF}(T_L t^a t^b) - \text{Tr}_{RHWF}(T_R t^a t^b)\right) \frac{g^2}{32\pi^2} \epsilon^{\mu\nu\alpha\beta} F_{\mu\nu}^a F_{\alpha\beta}^b ~.$$</p>
-<p>If there is an imbalance between the left and right charges, the current may be anomalous. This leads to interesting consequences.</p>
-
-
-<h3 class="relative group">Lepton and Baryon number anomaly 
-    <div id="lepton-and-baryon-number-anomaly" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#lepton-and-baryon-number-anomaly" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<p>If we look at \(SU(2)\) weak, we know the right handed quarks and leptons do not transform. Then the RHWF trace from above just gives 0. For any chiral symmetry,</p>
-<p>$$ \partial \cdot J^a = \text{Tr}_{LH doublets}(T_L) \frac{g_W^2}{64\pi^2} \epsilon^{\mu\nu\alpha\beta} F_{\mu\nu}^a F_{\alpha\beta}^b ~.$$The standard model has a \(U(1)\) lepton symmetry where leptons have charge +1 and quarks are uncharged. There are three doublets, \((\nu_e,e^-), (\nu_\mu, \mu^-), (\nu_\tau,\tau^-) \) with +1 and 9 quark doublets with 0. Then</p>
-<p>$$ \text{Tr}_{LHWF}(L) =3 \times 1 + 9 \times 0 = 3$$</p>
-<p>and therefore, lepton number <em>is in fact anomalous.</em></p>
-<p>One can play the same game for Baryon number. Quarks have 1/3 and leptons have 0.</p>
-<p>$$ \text{Tr}_{LHWF}(B) =3 \times 0 + 3 \times 3 \times \frac13 = 3~.$$</p>
-<p>One can calculate the net change in baryon or lepton number</p>
-<p>$$\Delta = \int d^4x \partial \cdot J[B,L] = 3 \times I \in 3 \mathbb Z$$
-\(I\) is the topological term from before that takes integer values. Here it has interpretation as an instanton which signals tunneling between different vacua. This essentially maps between different superselection sectors, adding or subtracting 3 baryons or leptons.</p>
-
-
-<h3 class="relative group">Physical Consequences 
-    <div id="physical-consequences" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#physical-consequences" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
+<p>This is a continuation of  <a href="https://yfralam.github.io/posts/anomalies/pheno/" target="_blank">Some phenomenology of anomalies</a>.  In this note, we discuss how anomalies in \(d\) dimensions really live in \(d+2\) dimensions.</p>
+<p>Again, this is largely based off of <a href="https://web2.ph.utexas.edu/~vadim/Classes/2024f-qft/adf.pdf" target="_blank">Vadim&rsquo;s notes</a> and Nakahara. The section on math can be entirely skipped.</p>
+<p>In the previous post we found anomalies typically took the form $$ \partial \cdot J \sim -\frac{1}{16\pi^2} \text{Tr}~ (\epsilon^{\mu\nu\rho\sigma} F_{\mu\nu}F_{\rho\sigma})~ ,$$ where the \(\sim\) denotes up to some number, say the number of massless fermions. These types of anomalies exist in all even dimensions \(d=2n\) and in general, we can write, with <a href="https://en.wikipedia.org/wiki/Differential_form" target="_blank">differential forms</a>, $$ d* J = -\frac{(-1)^n 2 N_f}{(2\pi)^n n!} Q_{(2n)}~ . $$
+Here, \(Q_{(2n)}\) is a \(2n\) form consisting of \(n\) 2 forms \(\mathcal F\) $$Q_{(2n)} := \text{Tr}~ (\mathcal F \wedge \mathcal F \wedge \mathcal F \cdots \wedge \mathcal F)~.$$ A few mathematical facts:</p>
 <ul>
-<li>
-<p>Experimentally, the \(\pm 3\) B number would allow processes like $$\text{deuteron} \to \text{antiproton + 3 positrons}$$b ut would be exponentially suppressed \(\sim 10^{-81}\) so we will probably never see it in places like the LHC.</p>
-</li>
-<li>
-<p>In general, writing terms that violate lepton or baryon number is useful. One can try $$ \mathcal L_{SM} \supset \frac{1}{\Lambda} \ell \ell H^\dagger H^\dagger $$ which would give neutrinos mass. Terms like \( qqq\ell, q \bar{u^c} \bar{d^c},q \bar{u^c} \bar{d^c}\ell, u^c u^c d^c e^c \) would allow for proton decay.</p>
-</li>
-<li>
-<p>Note that while B and L are anomalous, \(B-L\) is perfectly fine. It is very hard to write down terms that violate B or L separately while obeying B-L and they are usually very high dimension.</p>
-<ul>
-<li>In principle B-L should also be broken somewhere along the way at high enough energies. There should be no global symmetries in quantum gravity.</li>
-</ul>
-</li>
-<li>
-<p>The situation above can be related to sphalerons in minkowski space. They could have been made in the early universe and allow for Leptogenesis to explain the baryon-antibaryon asymmetry we see IRL.</p>
-</li>
+<li>\(Q_{(2n)}\) is closed. \( dQ_{(2n)} = 0\).</li>
+<li>Acting on \(Q_{(2n)}\) with \(d\) acts with the covariant derivative \(D\) inside the trace.</li>
+<li>Poincare Lemma: On topologically trivial manifolds, closed forms are exact. i.e. $$ d A_p =0 \implies A_p = d B_{p-1} ~.$$
+Note that while the equation relating the divergence of the anomalous current to \(Q_{2n}\) is only true in \(d\) dimensions, you can&rsquo;t stop me from using \(Q_{2n}\) in whatever dimension I want. They are perfectly well defined.</li>
 </ul>
 
 
-<h2 class="relative group">Gauge Anomalies 
-    <div id="gauge-anomalies" class="anchor"></div>
+<h2 class="relative group">Restatement of the anomaly 
+    <div id="restatement-of-the-anomaly" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#gauge-anomalies" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#restatement-of-the-anomaly" aria-label="Anchor">#</a>
     </span>        
     
 </h2>
-<p>The gauge anomalies actually take the same form as the Chiral anomalies. We would just take \(T\) to be a generator of the gauge group. There is one <em>massive</em> difference though: gauge symmetries aren&rsquo;t really &ldquo;symmetries&rdquo;, they are redundancies of our description. It does not make sense for them to be anomalous. They usually lead to a breakdown in unitary.</p>
-<p>If you find a gauge symmetry is anomalous, something has gone horribly, <em>horribly</em>, wrong. You are completely dead in the water (or SOL) and need to go back to the drawing board.</p>
+<p>In the previous post, we found the non-abelian anomaly with chiral fermions to be</p>
+<p>$$ D \cdot J^a = \frac{-g^2\mathcal Z^{abc}}{16\pi^2} \epsilon^{\mu\nu\alpha\beta} \partial_\mu \left(A_\nu^b\partial_\alpha A_\beta^c - \frac{g}{4}f^{cde}A_\nu^bA_\alpha^d A_\beta^e\right)$$ which we got by expanding \(\epsilon FF\) and \(\mathcal Z^{abc}\) contains the chiral traces. In differential form notation, this is</p>
+<p>$$ D * J^a = \frac{-\mathcal Z^{abc}}{32\pi^2} d \left(\mathcal A^b \wedge (d\mathcal A + \frac{i}{2} \mathcal A \wedge \mathcal A)^c\right) ~.$$</p>
+<p>One should remember what we are doing when computing the current and making sure it&rsquo;s divergence is 0. Under some symmetry transformation, say</p>
+<p>$$U(x) = 1 + i \Lambda(x)~,$$</p>
+<p>where the gauge fields change as $$\delta \mathcal A = -D \Lambda~,\quad \delta\mathcal F = -i \mathcal F \Lambda + i \Lambda \mathcal F~,$$ The actions varies \(S \mapsto S + \delta S(\Lambda)\) where for us,</p>
+<p>$$\delta S(\Lambda) =  \frac{-\mathcal 1}{32\pi^2} \int_{M_4} \text{Tr}_\chi  \Lambda~ d \left(\mathcal A\wedge (d\mathcal A + \frac{i}{2} \mathcal A \wedge \mathcal A)^c\right) ~. $$
+Note that we have swept up the chiral traces \(\mathcal Z^{abc} \) into the trace of the gauge fields.</p>
+<p>Now we have everything we need to continue.</p>
 
 
-<h3 class="relative group">The beauty of the standard model 
-    <div id="the-beauty-of-the-standard-model" class="anchor"></div>
+<h2 class="relative group">The form of the argument 
+    <div id="the-form-of-the-argument" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#the-beauty-of-the-standard-model" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#the-form-of-the-argument" aria-label="Anchor">#</a>
     </span>        
     
-</h3>
-<p>Let&rsquo;s say I have been handed the entire standard model in all its chiral glory. I&rsquo;ve been told that it has $$ SU(3)_C \times SU(2)_W \times U(1)_Y $$and that the matter content has all kinds of charges. Some of the quarks and leptons are charged under electroweak, some aren&rsquo;t. The hypercharge&rsquo;s look weird, and there&rsquo;s a Higgs floating around somewhere&hellip;</p>
-<p>Naively it seems hopeless that this specific set matter transforms correctly enough in order to cancel all the gauge anomalies but if god is in his heaven the anomalies <strong>must</strong> cancel.</p>
-<p>And miraculously, it does! The standard model is <em>completely</em> free of anomalies! All of the gauge symmetries (all the triangle diagrams I can write down) are non-anomalous.</p>
-<p>It is not just so simple as to the traces individually giving 0 (although this happens sometimes), the charges are set up in such a way that everything cancels non-trivially! The \(u_R\) quark doesn&rsquo;t have hypercharge +4/3 because I want it to, it is because it <em>has</em> to be +4/3. And I can verify this <strong>experimentally</strong>.</p>
-<p>Even when I couple gravity and look at triangle diagrams with two gravitons, there is <em>still</em> no anomaly.</p>
-<p>
-    <figure>
-      <img class="my-0 rounded-md" loading="lazy" src="/posts/anomalies/img/grav.PNG" alt="Feynman diagram corresponding to chiral anomaly with gravitons." />
-      
-    </figure>
-</p>
-<p>The standard model is absolutely beautiful. For matching with experiment and seeing all the specifies of matter and forces that we do, there is <strong>nothing else I could have written down.</strong></p>
+</h2>
+<p>Minkowski/Euclidean space are topologically trivial. <strong>Anomaly descent is essentially an abuse of Poincare lemma.</strong> Even on nontrivial topologies, the lemma is still valid <em>locally</em>, though some more care is needed in the following arguments.</p>
+<ul>
+<li>\( Q_{(2n)}\) is closed $$dQ_{(2n)} = 0~,$$ so let us define $$ Q_{(2n)} = d \Omega_{(2n-1)}~. $$ \(\Omega_{2n-1}\) are the <em>Chern-Simons forms</em>. They are traces over polynomials of \(\mathcal F\) and \(\mathcal A\).</li>
+<li>\(Q_{(2n)}\) are gauge invariant \( \mathcal F \mapsto U \mathcal F U^{-1}\), as one can easily see from using cyclicity of the trace.</li>
+<li>\(\Omega_{2n-1}\ are not gauge invariant, but \(d\Omega_{2n-1}\) <em>must</em> be by definition. So if I gauge transform the Chern-Simons form, the difference with the non-gauge transformed form better be 0. $$ d(\Omega_{(2n-1)}&rsquo; - \Omega_{(2n-1)} ) =0$$</li>
+<li>Again, we use Poincare lemma. The difference of the Chern-Simons forms is closed so $$\Omega_{(2n-1)}&rsquo; - \Omega_{(2n-1)} = -d H_{(2n-2)}~.$$</li>
+<li>\(H_{(2n-2)}\) should depend on \(\Lambda\) and be a \(2n-2\) form. In general, they take the form of $$H_{(2n-2)} = \text{Tr}(\Lambda~ dK_{2n-3})~.$$</li>
+</ul>
+<p>It actually does not take too much work to show this. Consider \(Q_{(2)}\). \(\Omega_{(1)} = \text{Tr}~ \mathcal A\). Then  $$\Omega_{(1)}&rsquo; - \Omega_{(1)} = \text{Tr}~ \mathcal A&rsquo; - \text{Tr}~ \mathcal A = \text{Tr}~ (- D \Lambda) = -d\text{Tr}~ (\Lambda)~ = -d H_{0}~.$$
+One can continue playing the same game. For \(n=2\),</p>
+<p>$$\Omega_{(3)} = \text{Tr } (\mathcal A \wedge \mathcal F - \frac{i}{3} \mathcal A \wedge \mathcal A \wedge \mathcal A), \quad \text{and} \quad H_{(2)} = \text{Tr }(\Lambda ~ d \mathcal A)$$ and for  \(n=3\) (this time dropping the wedges)</p>
+<p>$$\Omega_{(5)} = \text{Tr } (\mathcal A \mathcal F^2 - \frac{i}{2} \mathcal A^3 \mathcal F - \frac{1}{10} \mathcal A^5), \quad \text{and} \quad H_{(4)} = \text{Tr }(\Lambda ~ d( \mathcal A d\mathcal A + \frac{i}{2} \mathcal A^3))~.$$</p>
+<p>\(H_{4}\) should look very familiar. It is in fact (almost) the same shift of the Euclidean action $$\delta S(\Lambda) = (number) \times \int_{M_4} H_{(4)}~.$$ This is true for any (even) dimension. Start from a \(Q_{(2n=d+2)}\) form, then find the \(\Omega_{2n-1}\) Chern-Simons form, then construct the \(H_{(2n-2=d)}\) which is the anomaly in \(d\) dimension! We see that it is almost entirely specified by the anomaly polynomial in 2 higher dimensions.</p>
 
 
-<h3 class="relative group">Green and Schwarz 
-    <div id="green-and-schwarz" class="anchor"></div>
+<h2 class="relative group">Some details on the trace 
+    <div id="some-details-on-the-trace" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#green-and-schwarz" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#some-details-on-the-trace" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>The trace in our original anomaly (going over the chiral fermions) and the trace in \(H_{(2n-2)}\) aren&rsquo;t exactly the same. Nonetheless, we could have defined a new \(2n\) form with chiral traces (the so called <em>anomaly polynomial</em>)</p>
+<p>$$\hat Q_{(2n)} := \text{Tr}_\chi (\mathcal F \wedge \cdots \wedge \mathcal F) = \mathcal F^{a_1} \wedge \mathcal F^{a_2}  \cdots \wedge \mathcal F^{a_n} \times (\text{Tr}_L(t^{a_1} \cdots t^{a_n}) - \text{Tr}_R(t^{a_1} \cdots t^{a_n}))$$</p>
+<p>and the argument would not have changed from before.</p>
+<p>The coefficients \(\mathcal Z^{a_1 a_2 a_3 \cdots a_4}\) from before which are built out of symmetrization of the chiral traces are essentially related to the Casimirs of degree \(n = d/2+1\), \(R_n(m)\).</p>
+<p>In \(d=4\), we need the cubic Casimirs, which some groups do not have. In \(d=2\), we need quadratic casimirs which all groups do have, so getting automatic anomaly cancellation is not in the cards. In \(d=6\), there are 2 independent quartic invariants so anomaly cancellation is much harder. The situation in \(d=10\) is even worse.</p>
+<p>The current plan is to present the index point of view. Then Green-Schwarz and anomaly inflow next before diving into the modern description of anomalies: Dai-Freed.</p>
+
+
+<h2 class="relative group">Math and Subtleties 
+    <div id="math-and-subtleties" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#math-and-subtleties" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>In addition to Nakahara, we also have <a href="https://arxiv.org/abs/0802.0634" target="_blank">Bilal&rsquo;s notes</a>.</p>
+
+
+<h3 class="relative group">Why \(\Omega_{2n-1}\)? 
+    <div id="why-omega_2n-1" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#why-omega_2n-1" aria-label="Anchor">#</a>
     </span>        
     
 </h3>
-<p>While the standard model is lovely, it is not UV complete (\(U(1)_Y\) has a Landau pole which kills the theory just below the Planck scale). It cannot answer questions about the early universe or black holes or deep quantum gravity questions. Not to mention, the Einstein Hilbert action is non-renormalizable.</p>
-<p>This gives some inkling on the difficulty of building a consistent theory of quantum gravity which is good up to arbitrarily high energies.  For the standard model, we put the matter and gauge fields in, then had to go <em>back</em> to make sure it wasn&rsquo;t anomalous.</p>
-<p>For a theory of quantum gravity, I have to worry about the gauge anomalies, <em>and</em> the anomalies that might come from diffeomorphism invariance. Gravity is after all, a type of gauge theory. The underlying physics should not depend on the coordinates I choose.</p>
-<p>But I have no idea what the full spectrum of the theory is, I don&rsquo;t know all the gauge group representations, and I don&rsquo;t know how they transform under gravity at all energy scales because I have no idea what quantum gravity looks like at high energies.</p>
-<p>The situation is essentially hopeless. I have no idea where to even start.</p>
-<p>This is what makes the Green-Schwarz anomaly cancellation in string theory such a big deal. It is a <em>built in</em> mechanism  for canceling anomalies. By including the Kalb-Ramond field in string theory, one can exactly cancel the all of the anomalies that would have been present.</p>
-<p>Instead of trying to guess what the matter content is first and then praying for anomaly cancellation, I am handed a UV complete, anomaly free theory from the start with matter specified. <em>Then</em> I can try and drive down to the low energy limit and try to get the standard model and it is guaranteed to be consistent.</p>
-<p>This is the calculation that launched the first superstring revolution.</p>
-<p>In a follow up we&rsquo;ll discuss anomaly polynomials, relations to topology, and anomaly descent.</p>
+<p>\(Q_{(2n)}\) is <strong>a</strong> <em>characteristic class</em>: a local form of the closed manifold constructed from the curvature or field strength such that the integral over the manifold \(\int_M Q\) contains on topological data. In technical terms, characteristic classes measure the non-triviality of a bundle. It is in particular, an invariant polynomial (invariant under gauge transformations).</p>
+<p>By the Chern-Weil theorem, \(Q\) is closed, but need not be globally exact. Though the difference between two invariant polynomials as exact \(Q&rsquo; - Q = d R\). It can easily be seen that the integrals over two different invariant polynomials contain the same data $$\int_M Q&rsquo; - \int_M Q = \int_M dR = \int_{\partial M} R = 0~,$$ via Stokes.</p>
+<p>We demand the integral of \(Q\) is invariant under deformations of \(\mathcal A\). If one defines an interpolating gauge field $$\mathcal A_t = \mathcal A_0 + t(\mathcal A_1- \mathcal A_0) \quad , \quad \mathcal F_t = d \mathcal A_t + \mathcal A_t^2~,$$ between two different connections, it can be shown (from taking the \(\partial_t\) derivative and Bianchi) that</p>
+<p>$$R_{(2n-1)} = n \int_0^1 dt \text{Tr}~ (\mathcal A_1- \mathcal A_0) \mathcal F_t^{n-1} $$ where \(R\) is the so called transgression. Then</p>
+<p>$$Q_{(2n)}(\mathcal F_1) = Q_{(2n)}(\mathcal F_0) + d \left(n \int_0^1 dt \text{Tr } (\mathcal A_1- \mathcal A_0) \mathcal F_t^{n-1} \right)~.$$</p>
+<p><em>Locally</em>, \(Q = d \Omega\) and we can take \(\mathcal A_0=0\)</p>
+<p>$$Q_{(2n)}(\mathcal F_1) = d \left(n \int_0^1 dt \text{Tr}~ \mathcal A_1 \mathcal F_1^{n-1} \right)$$
+and so we have found that the transgression is nothing but the Chern-Simons form</p>
+<p>$$ \Omega_{(2n-1)} = n \int_0^1 dt \text{Tr}~ \mathcal A \mathcal F^{n-1} = n \int_0^1 dt \text{Tr}~ \mathcal A_1 (t d \mathcal A + t^2 \mathcal A^2)^{n-1}~. $$</p>
+<p>Note the definition gives us the Chern-Simons form up to adding an exact form.
+As an example, let us compute \(\Omega_{(3)}\).
+$$ \Omega_{(3)} = 2 \int_0^1 dt \text{Tr}~ \mathcal A (t d \mathcal A + t^2 \mathcal A^2) = \text{Tr}~ \mathcal A (d \mathcal A + \frac{2}{3} \mathcal A^2) = \text{Tr}~ \mathcal A d \mathcal F + \frac{i}{3} \mathcal A^3.$$</p>
+
+
+<h3 class="relative group">Why \(H_{2n-2}\)? 
+    <div id="why-h_2n-2" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#why-h_2n-2" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Locally we saw the infinitesimal gauge variation of the Chern-Simons form gave</p>
+<p>$$\delta \Omega_{(2n-1)} = -dH_{(2n-2)}~.$$
+For a finite gauge transformation, it can be shown</p>
+<p>$$ \Omega_{(2n-1)} (\mathcal A&rsquo;,\mathcal F&rsquo;) - \Omega_{(2n-1)} (\mathcal A,\mathcal F) = \Omega_{(2n-1)} ((dU)U^{-1},0) + d(\cdots)~.$$ Physically</p>
+<p>$$\int_{S^{2n-1}} \Omega_{(2n-1)} ((dU)U^{-1},0) = \int_{S^{2n-1}} \text{Tr } ((dU)U^{-1})^{2n-1} $$computes the number of times \(U: S^{2n-1} \to G\)  maps the sphere to the topological sphere in G, i.e. computes the homotopy class \(\pi_{2n-1}(G)\). For good Lie groups, the 3rd homotopy class is \(\mathbb Z\), though for infinitesimal gauge transformations, it is always trivial.</p>
+<p>In general, it can be shown that</p>
+<p>$$H_{(2n-2)}(\Lambda, \mathcal A, \mathcal F) = n(n-1) \int_0^1 dt (1-t) \text{Tr } \Lambda d(\mathcal A \mathcal F_t^{n-2})~,$$
+though algebraically, for any gauge transformation (not just infinitesimal)</p>
+<p>$$\Omega_{(2n-1)} (\mathcal A + \Lambda,\mathcal F&rsquo;) - \Omega_{(2n-1)} (\mathcal A,\mathcal F) = H_{(2n-2)}(\Lambda, \mathcal A, \mathcal F)~.$$</p>
 
         </div>
         
@@ -1149,8 +997,8 @@ Thus we see that there is a decay channel for the process in question. A direct 
           
         
       <script>
-        var oid = "views_posts\\anomalies\\pheno.md"
-        var oid_likes = "likes_posts\\anomalies\\pheno.md"
+        var oid = "views_posts\\anomalies\\descent.md"
+        var oid_likes = "likes_posts\\anomalies\\descent.md"
       </script>
       
       
@@ -1170,7 +1018,7 @@ Thus we see that there is a decay channel for the process in question. A direct 
       <div class="flex justify-between pt-3">
         <span>
           
-            <a class="flex group mr-3" href="/posts/physics_life/dei/">
+            <a class="flex group mr-3" href="/posts/anomalies/pheno/">
               <span
                 class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
                 >&larr;</span
@@ -1182,11 +1030,11 @@ Thus we see that there is a decay channel for the process in question. A direct 
               <span class="flex flex-col">
                 <span
                   class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Homology is DEI?</span
+                  >Some phenomenology of anomalies</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
-                    <time datetime="2025-03-16 14:23:14 -0500 CDT">16 March 2025</time>
+                    <time datetime="2025-07-20 13:26:38 -0500 CDT">20 July 2025</time>
                   
                 </span>
               </span>
@@ -1194,28 +1042,6 @@ Thus we see that there is a decay channel for the process in question. A direct 
           
         </span>
         <span>
-          
-            <a class="flex text-right group ml-3" href="/posts/anomalies/descent/">
-              <span class="flex flex-col">
-                <span
-                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >A useful thing from 6d</span
-                >
-                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
-                  
-                    <time datetime="2025-07-27 18:04:24 -0500 CDT">27 July 2025</time>
-                  
-                </span>
-              </span>
-              <span
-                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
-                >&rarr;</span
-              >
-              <span
-                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
-                >&larr;</span
-              >
-            </a>
           
         </span>
       </div>
