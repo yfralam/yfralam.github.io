@@ -7,14 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Yasin</copyright>
-    <lastBuildDate>Sun, 27 Jul 2025 18:04:24 -0500</lastBuildDate><atom:link href="http://localhost:1313/authors/yasin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Aug 2025 18:37:00 -0500</lastBuildDate><atom:link href="http://localhost:1313/authors/yasin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The canonical way of teaching quantum mechanics</title>
+      <link>http://localhost:1313/posts/teaching/canonical-teaching/</link>
+      <pubDate>Fri, 01 Aug 2025 18:37:00 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/teaching/canonical-teaching/</guid>
+      <description>Recently, during another procrastination episode, me and some colleagues got into a discussion on the correct way to teach undergraduate quantum mechanics.</description>
+      
+    </item>
+    
     <item>
       <title>A useful thing from 6d</title>
       <link>http://localhost:1313/posts/anomalies/descent/</link>
       <pubDate>Sun, 27 Jul 2025 18:04:24 -0500</pubDate>
       
       <guid>http://localhost:1313/posts/anomalies/descent/</guid>
-      <description>This is a continuation of a some phenomenology of anomalies.</description>
+      <description>This is a continuation of Some phenomenology of anomalies.</description>
       
     </item>
     
