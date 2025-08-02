@@ -1,5 +1,5 @@
 +++
-title = 'The canonical to teach quantum mechanics'
+title = 'The canonical way to teach quantum mechanics'
 date = 2025-08-01T18:37:00-05:00
 draft = false
 description = "Some discussion on teaching undergraduate quantum mechanics and other core classes. Also \\psi \\in \\mathcal H is not a state."
