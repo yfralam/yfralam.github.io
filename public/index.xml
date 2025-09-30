@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Yasin</copyright>
-    <lastBuildDate>Fri, 01 Aug 2025 18:37:00 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Sep 2025 17:41:39 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The canonical way of teaching quantum mechanics</title>
+      <title>A fancy way of deriving triviality</title>
+      <link>http://localhost:1313/posts/anomalies/csplusaps/</link>
+      <pubDate>Tue, 30 Sep 2025 17:41:39 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/anomalies/csplusaps/</guid>
+      <description>Some naïve motivation #Recently I have been studying the \(SL(2,\mathbb Z)\)-gravitational mixed anomaly of 4d free Maxwell theory.</description>
+      
+    </item>
+    
+    <item>
+      <title>The canonical way to teach quantum mechanics</title>
       <link>http://localhost:1313/posts/teaching/canonical-teaching/</link>
       <pubDate>Fri, 01 Aug 2025 18:37:00 -0500</pubDate>
       

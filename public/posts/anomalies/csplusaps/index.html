@@ -8,14 +8,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   
-  <title>The canonical way to teach quantum mechanics &middot; Lightly Caffeinated</title>
-  <meta name="title" content="The canonical way to teach quantum mechanics &middot; Lightly Caffeinated" />
+  <title>A fancy way of deriving triviality &middot; Lightly Caffeinated</title>
+  <meta name="title" content="A fancy way of deriving triviality &middot; Lightly Caffeinated" />
   
-  <meta name="description" content="Some discussion on teaching undergraduate quantum mechanics and other core classes. Also \psi \in \mathcal H is not a state." />
-  <meta name="keywords" content="physics-nt, teaching, " />
+  <meta name="description" content="An accidental derivation that the 3d Chern-Simons theory needs to carry a gravitational Chern-Simons term through the APS theorem." />
+  <meta name="keywords" content="physics-t, " />
   
   
-  <link rel="canonical" href="http://localhost:1313/posts/teaching/canonical-teaching/" />
+  <link rel="canonical" href="http://localhost:1313/posts/anomalies/csplusaps/" />
   
   
   
@@ -62,22 +62,21 @@
   
   
   
-  <meta property="og:url" content="http://localhost:1313/posts/teaching/canonical-teaching/">
+  <meta property="og:url" content="http://localhost:1313/posts/anomalies/csplusaps/">
   <meta property="og:site_name" content="Lightly Caffeinated">
-  <meta property="og:title" content="The canonical way to teach quantum mechanics">
-  <meta property="og:description" content="Some discussion on teaching undergraduate quantum mechanics and other core classes. Also \psi \in \mathcal H is not a state.">
+  <meta property="og:title" content="A fancy way of deriving triviality">
+  <meta property="og:description" content="An accidental derivation that the 3d Chern-Simons theory needs to carry a gravitational Chern-Simons term through the APS theorem.">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2025-08-01T18:37:00-05:00">
-    <meta property="article:modified_time" content="2025-08-01T18:37:00-05:00">
-    <meta property="article:tag" content="Physics-Nt">
-    <meta property="article:tag" content="Teaching">
+    <meta property="article:published_time" content="2025-09-30T17:41:39-05:00">
+    <meta property="article:modified_time" content="2025-09-30T17:41:39-05:00">
+    <meta property="article:tag" content="Physics-T">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="The canonical way to teach quantum mechanics">
-  <meta name="twitter:description" content="Some discussion on teaching undergraduate quantum mechanics and other core classes. Also \psi \in \mathcal H is not a state.">
+  <meta name="twitter:title" content="A fancy way of deriving triviality">
+  <meta name="twitter:description" content="An accidental derivation that the 3d Chern-Simons theory needs to carry a gravitational Chern-Simons term through the APS theorem.">
 
   
   <script type="application/ld+json">
@@ -85,26 +84,26 @@
     "@context": "https://schema.org",
     "@type": "Article",
     "articleSection": "Posts",
-    "name": "The canonical way to teach quantum mechanics",
-    "headline": "The canonical way to teach quantum mechanics",
-    "description": "Some discussion on teaching undergraduate quantum mechanics and other core classes. Also \\psi \\in \\mathcal H is not a state.",
-    "abstract": "Recently, during another procrastination episode, me and some colleagues got into a discussion on the correct way to teach undergraduate quantum mechanics.",
+    "name": "A fancy way of deriving triviality",
+    "headline": "A fancy way of deriving triviality",
+    "description": "An accidental derivation that the 3d Chern-Simons theory needs to carry a gravitational Chern-Simons term through the APS theorem.",
+    "abstract": "Some naïve motivation #\rRecently I have been studying the \\(SL(2,\\mathbb Z)\\)-gravitational mixed anomaly of 4d free Maxwell theory.",
     "inLanguage": "en",
-    "url" : "http:\/\/localhost:1313\/posts\/teaching\/canonical-teaching\/",
+    "url" : "http:\/\/localhost:1313\/posts\/anomalies\/csplusaps\/",
     "author" : {
       "@type": "Person",
       "name": "Yasin"
     },
     "copyrightYear": "2025",
-    "dateCreated": "2025-08-01T18:37:00-05:00",
-    "datePublished": "2025-08-01T18:37:00-05:00",
+    "dateCreated": "2025-09-30T17:41:39-05:00",
+    "datePublished": "2025-09-30T17:41:39-05:00",
     
-    "dateModified": "2025-08-01T18:37:00-05:00",
+    "dateModified": "2025-09-30T17:41:39-05:00",
     
-    "keywords": ["physics-nt","teaching"],
+    "keywords": ["physics-t"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "1239"
+    "wordCount": "770"
   }]
   </script>
 
@@ -537,7 +536,7 @@
   <header id="single_header" class="mt-5 max-w-prose">
     
     <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-      The canonical way to teach quantum mechanics
+      A fancy way of deriving triviality
     </h1>
     <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
       
@@ -582,7 +581,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2025-08-01 18:37:00 -0500 CDT">1 August 2025</time><span class="px-2 text-primary-500">&middot;</span><span>1239 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">6 mins</span>
+  <time datetime="2025-09-30 17:41:39 -0500 CDT">30 September 2025</time><span class="px-2 text-primary-500">&middot;</span><span>770 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">4 mins</span>
   
 
   
@@ -606,18 +605,10 @@
   
   
   
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/physics-nt/&#34;,'_self');">
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/physics-t/&#34;,'_self');">
     <span class="flex" style="cursor: pointer;">
   <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Physics-Nt
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/teaching/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Teaching
+    Physics-T
   </span>
 </span>
   </span>
@@ -741,9 +732,10 @@
     class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#canonical-approaches-to-quantum-mechanics">&ldquo;Canonical&rdquo; approaches to quantum mechanics</a></li>
-    <li><a href="#my-opinions">My opinions</a></li>
-    <li><a href="#statistical-mechanics-and-thermodynamics">Statistical mechanics and thermodynamics</a></li>
+    <li><a href="#some-naïve-motivation">Some naïve motivation</a></li>
+    <li><a href="#derivation-using-aps-theorem">Derivation using APS theorem</a></li>
+    <li><a href="#we-have-done-nothing">We have done nothing</a></li>
+    <li><a href="#physically-what-did-we-do">Physically what did we do?</a></li>
   </ul>
 </nav>
   </div>
@@ -757,9 +749,10 @@
     class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#canonical-approaches-to-quantum-mechanics">&ldquo;Canonical&rdquo; approaches to quantum mechanics</a></li>
-    <li><a href="#my-opinions">My opinions</a></li>
-    <li><a href="#statistical-mechanics-and-thermodynamics">Statistical mechanics and thermodynamics</a></li>
+    <li><a href="#some-naïve-motivation">Some naïve motivation</a></li>
+    <li><a href="#derivation-using-aps-theorem">Derivation using APS theorem</a></li>
+    <li><a href="#we-have-done-nothing">We have done nothing</a></li>
+    <li><a href="#physically-what-did-we-do">Physically what did we do?</a></li>
   </ul>
 </nav>
   </div>
@@ -843,97 +836,80 @@
         <div class="article-content max-w-prose mb-20">
           
 
-<p>Recently, during another procrastination episode, me and some colleagues got into a discussion on the correct way to teach undergraduate quantum mechanics. There seems to be a &ldquo;canonical&rdquo; way to teach classical mechanics and electromagnetism, but there are multiple approaches to teaching quantum.</p>
-<p>For classical mechanics, it is very clear that one should start with Newton&rsquo;s laws, distill some intuition within the students, and then move on to Lagrangian and Hamiltonian mechanics. This seems to be the approach in both graduate and undergraduate courses (with the graduate course maybe having some more special topics like chaos).</p>
-<p>The books that follow this approach also usually follow this.</p>
-<p>Similarly for electromagnetism, the standard undergrad textbook, Griffiths E&amp;M, does a phenomenal job of ordering things in a way that makes sense. Start off with Coulombs law and electrostatics, talk about the electrics fields, potentials, and then the magnetic fields. There is usually ample time to draw analogues to classical mechanics (for example, Coulombs law with Newton&rsquo;s law of gravitation). Then unify them with Maxwell&rsquo;s equations to give a beautiful introduction to electrodynamics.</p>
-<p>These two approaches are standard, and you will be hard pressed to find courses that vary from this point of view. This is not the case for quantum mechanics.</p>
 
 
-<h2 class="relative group">&ldquo;Canonical&rdquo; approaches to quantum mechanics 
-    <div id="canonical-approaches-to-quantum-mechanics" class="anchor"></div>
+<h2 class="relative group">Some naïve motivation 
+    <div id="some-na%C3%AFve-motivation" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#canonical-approaches-to-quantum-mechanics" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#some-na%C3%AFve-motivation" aria-label="Anchor">#</a>
     </span>        
     
 </h2>
-<p>There are usually two (three) approaches to quantum mechanics:</p>
-<ol>
-<li>Wave function first (like Griffith&rsquo;s Quantum)
-<ul>
-<li>Take the PDE approach to QM. Immediately start with Schrodinger&rsquo;s equation and how to solve it. Discuss things like <a href="https://en.wikipedia.org/wiki/Particle_in_a_box" target="_blank">infinite potential wells</a> and the wavefunction \(\Psi(x)\) as a state.</li>
-</ul>
-</li>
-<li>Spin first (like Sakurai)
-<ul>
-<li>Talk about spin and <a href="https://en.wikipedia.org/wiki/Stern%E2%80%93Gerlach_experiment" target="_blank">Stern-Gerlach first</a> . Immediately start with Dirac notation \(\ket{\Psi}\) as a state and matrix representations.</li>
-</ul>
-</li>
-<li>The historical approach (like Weinberg)
-<ul>
-<li>Discuss the <a href="https://en.wikipedia.org/wiki/Ultraviolet_catastrophe" target="_blank">ultraviolet catastrophy</a>, electrons in an atom, the photoelectric effect, etc. I say there are <em>two approaches</em> because this one usually leads to the wave function interpretation first. Weinberg, (whos opinion I must care about only because his office is in front of mine) uses de Broglie to talk about wave packets first which gives a natural flow into the wave function.</li>
-</ul>
-</li>
-</ol>
-<p>Any good physicist should know all three. By the end of any good course, one should know the above and the other canonical topics (harmonic oscillator, hydrogen atom, perturbation theory, etc.). What I mean by &ldquo;approaches&rdquo; is how the course gives intuition and first impressions.</p>
-<p>
-    <figure>
-      <img class="my-0 rounded-md" loading="lazy" src="/posts/teaching/img/ISW.gif" alt="infinite square well particle" />
-      
-    </figure>
-</p>
-<p>Of the three, we all agreed that the wave function first approach a la Griffith&rsquo;s is the worst. The statement of Schrodinger&rsquo;s equation is abrupt and from a mid quantum course, a student can come away thinking that quantum mechanics is just solving PDEs. I think it is difficult to discuss entanglement in this scenario and one can&rsquo;t even discuss the humble qubit.</p>
-<p>Unfortunately, it seems like Griffith&rsquo;s QM is the standard undergraduate text in the US. It takes almost 100 pages to even introduce kets and I think this confuses students who have been instilled with the wavefunction first.</p>
-<hr>
-<p>Griffiths says a state is \(\Psi(x) = \braket{x|\psi}\) which &ldquo;lives in a Hilbert space&rdquo;, but this is misleading at best. \(\bra{x}\) is not part of any Hilbert space. Despite this, the wavefunction works as a state in the algebraic sense: It maps \(\Psi:x \to \mathbb C\). More confusion is introduced alongside density matrices (\(\rho\)) which Sakurai calls states in addition to \(\ket{\psi} \in \mathcal H\). Technically he is right for the density matrices, you can represent a state, pure or mixed, as an operator on the algebra. This still seems disingenuous to me. One jumps through several hoops to avoid the mathematical rigour and reuses the word &ldquo;state&rdquo; for several different things. At best this is confusing, at worst, actually wrong. My gripe with both approaches is conveyed by my colleague very nicely <a href="https://physicsconcerto.com/presentations_slides/Ainesh_Concerto.pdf" target="_blank">here</a>.</p>
-<p>This is not supposed to be a technical post so let me move on.</p>
-<hr>
+<p>Recently I have been studying the <a href="https://arxiv.org/abs/1803.07366" target="_blank">\(SL(2,\mathbb Z)\)-gravitational mixed anomaly</a> of 4d free Maxwell theory. It can be shown as arising from the \( 8 \in H^2(BSL(2,\mathbb Z),\mathbb Z) = \mathbb Z_{12}\). Through some investigation, the group also shows the invertible phase in 3d that is left over, after applying the operation \( (ST)^3 \) on a boundary theory coupled to Maxwell in the bulk, is also related to this <a href="https://arxiv.org/abs/2009.10099" target="_blank">\(8 \in \mathbb Z_{12}\)</a>.</p>
+<p>Ideally, I wanted to do a computation on the boundary to show that the invertible phase that was left over is order 3, just like the anomaly in 4d free Maxwell. Instead, I ended up using a lot of fancy language for no reason to derive 3d Chern-Simons requires a gravitational part.</p>
+<p>At some point I&rsquo;ll probably email Tachikawa or one of my more knowledgeable friends about this my original question.</p>
 
 
-<h2 class="relative group">My opinions 
-    <div id="my-opinions" class="anchor"></div>
+<h2 class="relative group">Derivation using APS theorem 
+    <div id="derivation-using-aps-theorem" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#my-opinions" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#derivation-using-aps-theorem" aria-label="Anchor">#</a>
     </span>        
     
 </h2>
-<p>In an ideal world, I would want to take the functional analysis and operator algebra approach to quantum mechanics. Here, one an rigorously defines states, observables, and measurement.</p>
-<p>I doubt this would be very popular among students. Maybe if they were motivated enough to learn the basics of quantum mechanics themselves, a course could start off with rigour. Graduate students are usually more motivated so it could happen there (next semester there is an &ldquo;advanced SUSY&rdquo; course being thought with the prerequisites as QFT I,II, almost all of Wess and Bagger, and some of Weinberg volume 3), but this would be unimaginable for an undergrad course.</p>
-<p>
-    <figure>
-      <img class="my-0 rounded-md" loading="lazy" src="/posts/teaching/img/sg.PNG" alt="Stern gerlach experiment dirgram from wiki" />
-      
-    </figure>
-</p>
-<p>Out of the two options, I am partial to the spin first approach. I think it clearly introduces the &ldquo;weirdness of quantum&rdquo; in a simple concrete way that does not rely on difficult math. Conceptually, Stern-Gerlach and superposition can be explained to anyone that has the intuition coin flips are 50/50. My first introduction to quantum mechanics (and what got me interested in physics) was this <a href="https://youtu.be/lZ3bPUKo5zc?si=ZNLrJFJDnp-Wz3Dp" target="_blank">MIT OCW lecture</a> where the physics was abstracted out of the experiment and the spins were described as a particle being &ldquo;black or white&rdquo; and &ldquo;hard or soft&rdquo;. I have been told this analogy stems from Feynman.</p>
-<p>Moreover, this is the best approach if one wants to discuss quantum information, qubits, entanglement, etc. Mathematically, all that is required is some basic linear algebra and focus can be given to learning standard notation. Indeed, this is the approach that is even approachable to <a href="https://www.scottaaronson.com/qclec.pdf" target="_blank">computer scientists and software engineers</a>.</p>
-<p>As for the historical approach, (good) physics undergrads should at least have been exposed to, or learned the historical aspects on their own or in a prior course. In many wave and optics courses (which contain thermodynamics as well), the ultraviolet and similar developments are covered. A short recap may be warranted but I think is unnecessary.</p>
+<p>Let us write the partition function of level 1 Chern-Simons following <a href="https://arxiv.org/abs/1905.08943" target="_blank">Hsieh, Tachikawa, and Yonekura</a>. We must first pick a spin structure. Then we can split the gauge field into a sum of flat but topologicaly non-trivial part and a non-flat topologically trivial part. Assuming the flat connections are isolated, we have</p>
+<p>$$Z_{U(1) CS}(M_3) = \left[\int DA_{top,trivial}e^{\pi i \int (A/2\pi) (F/2\pi) }\right] \times \left[\sum_{A;flat}e^{\pi i \int (A/2\pi) (F/2\pi) }\right]$$The first term can be written in terms of eta invariant of signature operator \(*d\)</p>
+<p>$$ \exp\left({-\frac{2\pi}{8} \eta_{sig}}\right)$$and the second term can be written</p>
+<p>$$\exp\left({2\pi \sum_{c\in H^2(M_3,\mathbb Z)} q(c) =: 2\pi Arf(q)}\right)$$ where \(c = c_1(F)\) is the first Chern class and \(q(c)\) is the exponentiaed level 1 classical action on a flat \(A\). One should take all the arguments of the expression above to be \(\mod \mathbb Z\).</p>
+<p>It is known that</p>
+<p>$$ -\frac18 \eta_{sig} + Arf(q) = \eta_{ferm}$$where the RHS is a invariant for the Dirac operator of a 2+1 d fermion with infinite mass.</p>
+<p>Now we use the APS theorem. In 3d, it says (see <a href="https://arxiv.org/abs/2003.11550" target="_blank">here</a>)
+$$ -\eta_{ferm} = \int_{Z_4} \left(\frac12 F_A \wedge F_A + \hat A_1(R)\right) \mod \mathbb Z.$$The RHS is the quadratic refinement and defined on a 4d manifold \(Z_4\) with boundary \(Y_3\) and the Eta invariant of the fermion is with respect to the Dirac operator in 3d \(Y_3\).</p>
+<p>Thus, our level one CS theory partition function is solved as
+$$Z_{U(1)CS}(M_3) = \exp{2\pi i \eta({D}_{Y_3})}$$
+so through APS:</p>
+<p>$$Z_{U(1)CS}(M_3) =\exp\left(-2\pi i\int_{Z_4} \frac{1}{2} F_A \wedge F_A + \hat A_1(R)\right).$$
+Concretely, the A-roof is just the 4-form part of the expansion in terms of Pontryagin classes</p>
+<p>$$ \hat A_1(R) = -\frac{1}{24}p_1=\frac{1}{24\cdot 8\pi^2} \text{tr} (R \wedge R). $$ So now, the integral over this \(R^2\) is essentially just the signature. Our theory basically splits up into a part that is \(F \wedge F\) and \(R \wedge R\). One should note that I have been loose with defining F as a form but in reality and in general it is an element of some cohomology class.</p>
+<p>Please don&rsquo;t take these expressions as concrete. I have absolutely also been loose with factors of \(2\pi,i\),  etc.</p>
 
 
-<h2 class="relative group">Statistical mechanics and thermodynamics 
-    <div id="statistical-mechanics-and-thermodynamics" class="anchor"></div>
+<h2 class="relative group">We have done nothing 
+    <div id="we-have-done-nothing" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#statistical-mechanics-and-thermodynamics" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#we-have-done-nothing" aria-label="Anchor">#</a>
     </span>        
     
 </h2>
-<p>The fourth of the core classes is statistical mechanics and thermodynamics. I have taken 2 courses in it and neither I, nor anyone I know, have been given a satisfactory presentation of the course.</p>
-<p>Despite being arguably the oldest and most successful branch of physics, it is (imo) the worst taught. Most classes and books seem to take the historical approach and explain thermodynamics first, then hard pivot into a microscopic description with statistical mechanics. The microscopic description is usually easier; give me a partition function and I know everything. The connection with thermodynamics (heat engines, chemical reactions, gas equations) is difficult and I think unintuitive.</p>
-<p>In the microscopic description, entropy has a clear state counting interpretation. In thermodynamics it is $$dS = \frac{\delta Q}{T} ~.$$
-What?</p>
-<p>What is that supposed to mean intuitively?</p>
-<p>Maybe it is my ignorance as a physicist (and even worse, a high energy theorist), but thermodynamics is weird an unintuitive to me. Maybe a mechanical engineer or chemist would have a better intuition than me.</p>
-<p>Somehow when a bunch of degrees of freedom come together, we have a remarkably useful was to describe them using thermodynamics, even in cases when I don&rsquo;t know the microscopic description. If a chemist asked me questions about chemical properties of ethanol and I told them to calculate a partition function, I would probably get smacked.</p>
-<p>In conclusion, I&rsquo;m not sure what a good approach to teach statistical mechanics would be. The above colleague suggested an information theory approach may be useful. Thermodynamics seems to be saying something about the ignorance we have about the system and this seems like an interesting approach.</p>
+<p>It is nontrivial to show (but not too difficult using Wu classes) that</p>
+<p>$$ \exp \left(\sim \int_{Y_3} A \wedge F \right)= \exp\left(\sim \int_{Z_4} F \wedge F\right)$$ when \(\partial Z_4 = Y_3\). Therefore, part of our partition function is just the \(CS(A)\) term that one would expect.</p>
+<p>One can similarly show</p>
+<p>$$ \exp \left(\sim \int_{Y_3} CS(\omega) \right)= \exp\left(\sim \int_{Z_4} \text{Tr} R \wedge R\right)$$ where \(\omega\) is the connection for the \(SO(n)\) tangent bundle of the manifold and</p>
+<p>$$CS(\omega) = \text{Tr}~ \omega \wedge d\omega + \frac{2}{3} \omega \wedge \omega \wedge \omega.$$ Note that \(R = d\omega + \omega \wedge \omega) \) and the reader is free to verify \(d CS(\omega) \sim R^2\) as one would expect.</p>
+<p>Note that at the very least we did the path integral and ended up with an invertible phase as expected.</p>
+
+
+<h2 class="relative group">Physically what did we do? 
+    <div id="physically-what-did-we-do" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#physically-what-did-we-do" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>We knew there was a duality between Chern-Simons theories and fermions on its boundary. We split the Chern-Simons partition function into Eta and Arf invariants and used the fact that it is equal to the Eta invariant of a fermion. Then we used the APS theorem to rewrite the Eta invariant in terms of <a href="https://yfralam.github.io/posts/anomalies/descent/#math-and-subtleties" target="_blank">characteristic classes </a> which we rewrote in terms of their boundary expressions.</p>
+<p>We just derived that in order for Chern-Simons to be well defined, we need a gravitational CS term. This is a simple fact that any condensed matter theorist or hight energy theorist could have told you without this machinery, but at least we can be assured the APS theorem and duality holds.</p>
 
         </div>
         
@@ -953,8 +929,8 @@ What?</p>
           
         
       <script>
-        var oid = "views_posts\\teaching\\canonical-teaching.md"
-        var oid_likes = "likes_posts\\teaching\\canonical-teaching.md"
+        var oid = "views_posts\\anomalies\\CSplusAPS.md"
+        var oid_likes = "likes_posts\\anomalies\\CSplusAPS.md"
       </script>
       
       
@@ -974,7 +950,7 @@ What?</p>
       <div class="flex justify-between pt-3">
         <span>
           
-            <a class="flex group mr-3" href="/posts/anomalies/descent/">
+            <a class="flex group mr-3" href="/posts/teaching/canonical-teaching/">
               <span
                 class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
                 >&larr;</span
@@ -986,11 +962,11 @@ What?</p>
               <span class="flex flex-col">
                 <span
                   class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >A useful thing from 6d</span
+                  >The canonical way to teach quantum mechanics</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
-                    <time datetime="2025-07-27 18:04:24 -0500 CDT">27 July 2025</time>
+                    <time datetime="2025-08-01 18:37:00 -0500 CDT">1 August 2025</time>
                   
                 </span>
               </span>
@@ -998,28 +974,6 @@ What?</p>
           
         </span>
         <span>
-          
-            <a class="flex text-right group ml-3" href="/posts/compsci/borsuk-ulam/">
-              <span class="flex flex-col">
-                <span
-                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Borsuk Ulam</span
-                >
-                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
-                  
-                    <time datetime="2025-08-26 20:24:26 -0500 CDT">26 August 2025</time>
-                  
-                </span>
-              </span>
-              <span
-                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
-                >&rarr;</span
-              >
-              <span
-                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
-                >&larr;</span
-              >
-            </a>
           
         </span>
       </div>

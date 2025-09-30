@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coding on Lightly Caffeinated</title>
+    <link>http://localhost:1313/tags/coding/</link>
+    <description>Recent content in Coding on Lightly Caffeinated</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Yasin</copyright>
+    <lastBuildDate>Tue, 26 Aug 2025 20:24:26 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Borsuk Ulam</title>
+      <link>http://localhost:1313/posts/compsci/borsuk-ulam/</link>
+      <pubDate>Tue, 26 Aug 2025 20:24:26 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/compsci/borsuk-ulam/</guid>
+      <description>This is a companion piece to my friend&amp;rsquo;s post where they talk more about the coding side of this project.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
