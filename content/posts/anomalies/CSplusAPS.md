@@ -19,7 +19,7 @@ Recently I have been studying the [\\(SL(2,\mathbb Z)\\)-gravitational mixed ano
 
 Ideally, I wanted to do a computation on the boundary to show that the invertible phase that was left over is order 3, just like the anomaly in 4d free Maxwell. Instead, I ended up using a lot of fancy language for no reason to derive 3d Chern-Simons requires a gravitational part.
 
-At some point I'll probably email Tachikawa or one of my more knowledgeable friends about this my original question.
+At some point I'll probably email Tachikawa or one of my more knowledgeable friends about my original question.
 
 ## Derivation using APS theorem 
 
@@ -67,5 +67,5 @@ Note that at the very least we did the path integral and ended up with an invert
 
 We knew there was a duality between Chern-Simons theories and fermions on its boundary. We split the Chern-Simons partition function into Eta and Arf invariants and used the fact that it is equal to the Eta invariant of a fermion. Then we used the APS theorem to rewrite the Eta invariant in terms of [characteristic classes ](https://yfralam.github.io/posts/anomalies/descent/#math-and-subtleties) which we rewrote in terms of their boundary expressions.
 
-We just derived that in order for Chern-Simons to be well defined, we need a gravitational CS term. This is a simple fact that any condensed matter theorist or hight energy theorist could have told you without this machinery, but at least we can be assured the APS theorem and duality holds.
+We just derived that in order for Chern-Simons to be well defined, we need a gravitational CS term. This is a simple fact that any condensed matter theorist or high energy theorist could have told you without this machinery, but at least we can be assured the APS theorem and duality holds.
 
