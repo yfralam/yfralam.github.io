@@ -7,24 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Yasin</copyright>
-    <lastBuildDate>Tue, 30 Sep 2025 17:41:39 -0500</lastBuildDate><atom:link href="http://localhost:1313/authors/yasin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Oct 2025 21:39:28 -0500</lastBuildDate><atom:link href="http://localhost:1313/authors/yasin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classically quantum systems</title>
+      <link>http://localhost:1313/posts/string-theory/classically-quantum/</link>
+      <pubDate>Thu, 16 Oct 2025 21:39:28 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/string-theory/classically-quantum/</guid>
+      <description>There are many systems in the quantum world which have no classical analogues.</description>
+      
+    </item>
+    
     <item>
       <title>A fancy way of deriving triviality</title>
       <link>http://localhost:1313/posts/anomalies/csplusaps/</link>
       <pubDate>Tue, 30 Sep 2025 17:41:39 -0500</pubDate>
       
       <guid>http://localhost:1313/posts/anomalies/csplusaps/</guid>
-      <description>Some naïve motivation #Recently I have been studying the \(SL(2,\mathbb Z)\)-gravitational mixed anomaly of free Maxwell theory.</description>
-      
-    </item>
-    
-    <item>
-      <title>Borsuk Ulam</title>
-      <link>http://localhost:1313/posts/compsci/borsuk-ulam/</link>
-      <pubDate>Tue, 26 Aug 2025 20:24:26 -0500</pubDate>
-      
-      <guid>http://localhost:1313/posts/compsci/borsuk-ulam/</guid>
-      <description>This is a companion piece to my friend&amp;rsquo;s post where they talk more about the coding side of this project.</description>
+      <description>Some naïve motivation #Recently I have been studying the \(SL(2,\mathbb Z)\)-gravitational mixed anomaly of 4d free Maxwell theory.</description>
       
     </item>
     
