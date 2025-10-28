@@ -21,6 +21,7 @@ Ideally, I wanted to do a computation on the boundary to show that the invertibl
 
 At some point I'll probably email Tachikawa or one of my more knowledgeable friends about my original question.
 
+Notes: It should be said that in the way I approach the problem, I drop a lot of the dynamical data and only care about the phase of the partition functions. Also, it was naïve of me to convert back to differential forms or elements of some cohomology class (which are values in the integers) and expect to get something that is torsion. Really I should've just stuck with the Eta invariant. As an example, on certain Lens spaces, the expression I derive for the partition function relating to the 3d fermion is honest to god order 3.
 ## Derivation using APS theorem 
 
 Let us write the partition function of level 1 Chern-Simons following [Hsieh, Tachikawa, and Yonekura](https://arxiv.org/abs/1905.08943). We must first pick a spin structure. Then we can split the gauge field into a sum of flat but topologicaly non-trivial part and a non-flat topologically trivial part. Assuming the flat connections are isolated, we have 

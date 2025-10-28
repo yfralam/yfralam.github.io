@@ -2,7 +2,7 @@
 title = 'Coffee in Austin'
 date = 2024-07-28T16:13:43-05:00
 draft = false
-description = "Coffee in Austin, Last updated 6 Oct 2024"
+description = "Coffee in Austin, Last updated 27 Oct 2025"
 slug = ""
 authors = ['yasin']
 tags = ['life']
@@ -53,7 +53,7 @@ In all, nothing beats drinking coffee while reading in a corner, or browsing boo
 \+ Excellent coffee
 \+ Good texture drinks
 \- Outside seating
-\- No baked goods
+\- ~~No baked goods~~
 
 > 5 for Coffee
 - 3 for Aesthetic
@@ -62,11 +62,31 @@ In all, nothing beats drinking coffee while reading in a corner, or browsing boo
 Absolutely excellent cortado. The notes come through clear as day. The milk has just the right texture to accompany the coffee. They also have very good tea. Besides these two items, they don't sell any baked goods, which I miss.
 
 **Vibe**
-It's a coffee cart next to a building and there is no indoor seating. Yet, it still seems to have a nice vibe. There are some tables to the side. When it's not too hot outside, it is a nice place to hang around.
-### [Barrett's Coffee](https://maps.app.goo.gl/CVWLszgWkxf2Yyek7)(3.5)
+It's a ~~coffee cart~~ next to a building and there is no indoor seating. Yet, it still seems to have a nice vibe. There are some tables to the side. When it's not too hot outside, it is a nice place to hang around.
+
+Update: They have moved into an actual building with a singular window wher you can order.
+
+### [Figure 8](https://maps.app.goo.gl/mgL8xxDhPqhDvKwW9)(4/5)
+
+\+ Excellent coffee
+\+ Good texture drinks
+\+ Excellent light roasts
+\- Limited seating
+
+> 5 for Coffee
+- 3 for Aesthetic
+
+**Orders**
+Another excellent cortado. The one I had was very light but not too acidic to where I wouldn't be surprised if they used natural processed (or at least honey).
+
+**Vibe**
+It is at a strip mall so the vibe is alright and they have a big window looking out into the parking lot. The interior furniture is quite industrial but the décor is not bad. The closer you sit to the counter the better imo.
+
+### [Barrett's Coffee](https://maps.app.goo.gl/CVWLszgWkxf2Yyek7)(3.5/5)
 
 \+ Above average coffee
 \+ Good roasters with great rotating selection
+\+ Also has great natural processed coffee
 
 > 4 for Coffee
 - 3 for Aesthetic
@@ -76,6 +96,23 @@ When in Austin and needing a bag of coffee, I will usually choose Barrett's. As 
 
 **Vibe** 
 Also a dark wooden Aesthetic, lots of seating and a good mix of people working and discussing. there are loads of coffee equipment lining the walls and you can sometimes see them pulling out bags of coffee to roast in the back. A bit industrial for me, but overall very nice. 
+
+### [épicerie]( https://maps.app.goo.gl/UfiXCaQiM6854fH89) (3.5/5) 
+\+ Very nice interior and design
+\+ Amazing pastries (particularly the Beignets )
+\- The most mid coffee I've ever had
+\- A restaurant, not just a coffee place
+
+> 3 for Coffee
+- 4 for Aesthetic
+- Excellent Beignets
+**Orders**
+For full transparency, this place is a restaurant, though you can go in and order coffee at the counter. The coffee itself is the very definition of average. I got a cortado which was what I think of exactly whenever some one mentions "cortado". 
+
+The pastries are excellent and this is the one place in Austin you can get good Beignets. I would come to this place just for the pastries.
+ 
+**Vibe** 
+The location is in a quite part of North Austin. There is a lot of natural light and some outside seating as well. It is a restaurant so you can go and get food if you want. The décor is very nice and the environment is nicely lit and cozy.
 ### [Civil Goat](https://maps.app.goo.gl/6srnbfPZ9qdvENj47)(2.75/5)
 
 \+ Good Lemon tart
@@ -151,6 +188,24 @@ I got a cappuccino and was asked the dreaded question, "what size?" I was quite 
 **Vibe** 
 The location is not bad and is very close to the UT campus. It seems the base is largely students. The inside is nice with a wooden aesthetic which I enjoy. Unfortunately the only seating inside is at the bar. It seems they also have a kitchen for food. The majority of the seating is outside shared with several other stores. It is nice, but not when it is 104 F outside. I was miserable and quickly left after my friends arrived.
 
+### [Flightpath Coffeehouse](https://maps.app.goo.gl/K3b4AnnnMmzPZzAe7) (1.75)
+
+\+ Inside aesthetic is nice
+\+ Has pretty good cake
+\+ Lot of seating inside
+\- Dark roast coffee primarily
+\- Not the best quality coffee
+
+> 1.5 for Coffee
+- 2 for Aesthetic
+-
+
+**Orders**
+I got a cortado which was rough, but the slice of chocolate cake was quite good.
+ 
+**Vibe** 
+Similar in vibe to Epoch or Sweet Eugenes which is in College Station. Its a darkly lit venue found in Hyde Park and there is some nice outside seating as well. Not my vibe but I can see other people really liking it.
+
 ### [Spokesman](https://maps.app.goo.gl/E5iTDi6N3ZUVYCYn9) (1.5/5)
 
 > 2 for Coffee
@@ -183,3 +238,6 @@ I went in knowing that the coffee wouldn't be the best. I also went in knowing l
 When I went, I sat outside with my coffee and watched the crowd. At some point (this was around 1 AM) sat at a table outside, pulled a whole computer setup out, and started playing video games. + points for the cat that came up to me and let me pet it for a while.
 
 Will definitely go back.
+
+
+
