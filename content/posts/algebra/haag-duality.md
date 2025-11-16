@@ -25,7 +25,7 @@ In some work on an upcoming paper, me and some collaborators found that when we 
 
 At first I thought I must have done a calculation wrong for our setup, but going back into the literature ([Witten](https://arxiv.org/abs/2112.12828), [JSS](https://arxiv.org/abs/2306.01837), and [KLS](https://arxiv.org/abs/2309.15897) ) this turns out to just be a general feature of this type of dressing. For some reason this hasn't been caught up until now and no one has made any comments about this (at least to my knowledge). 
 
-An easy place to see this is in KLS with the AdS-Schwarzschild geometry. They find the von Neumann algebra of the right region, \\(\mathfrak{A}(\mathcal R) \\) (Eq. 4.44) and its commutant \\(\mathfrak{A}(\mathcal R) \' \\) (Eq. 4.46).  It is easy to directly construct \\(\mathfrak{A}(\mathcal L)\\), the algebra of the left region. The issue is 
+An easy place to see this is in KLS with the AdS-Schwarzschild geometry. They find the von Neumann algebra of the right region, \\(\mathfrak{A}(\mathcal R) \\) (**Eq. 4.44**) and its commutant \\(\mathfrak{A}(\mathcal R) \' \\) (**Eq. 4.46**).  It is easy to directly construct \\(\mathfrak{A}(\mathcal L)\\), the algebra of the left region. The issue is 
 
 $$\mathfrak{A}(\mathcal L) \neq \mathfrak{A}(\mathcal R)\'.$$
 
