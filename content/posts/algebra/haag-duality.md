@@ -36,3 +36,10 @@ Maybe it makes sense that it broken? Dressing with the modular Hamiltonian seems
 Hopefully there is some resolution to this we are just missing. Maybe we missed something that happens with the double commutant to fix this, I am not sure. There is an IAS conference coming up on Algebras in about 2 weeks where we plan to bring this up and hopefully we'll get comments there.
 
 If Haag duality *is* actually broken, this seems like a problem.
+
+
+## Update (Nov 17th)
+
+When we specify a von Neumann algebra, we require the following data: \\(\mathcal A, \pi \mathcal H \\). Here these objects are the abstract algebra, a representation of that algebra, and a Hilbert space on which the algebra acts on respectively. At the level of the abstract algebras, \\( \mathcal A(\mathcal R') \neq \mathcal A(\mathcal R)' \\); however, we can get these algebras to match is we first do a unitary transformation with the modular Hamiltonian and the left sided timeshift operator, **and then a relabeling** of the \\( L^2(\mathbb R) \\) Hilbert space from the right to left. 
+
+The algebras at a von Neumann algebra level are isomorphic, but not unitarily equivalent. It's a bit weird, usually when Haag duality is talked about, one does not change the Hilbert space. The transformation above essentially takes \\( \mathcal F_{QFT} \otimes L^2(\mathbb R)_R \to \mathcal F_{QFT} \otimes L^2(\mathbb R)_L\\).
