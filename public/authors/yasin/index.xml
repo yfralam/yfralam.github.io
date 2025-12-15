@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Yasin</copyright>
-    <lastBuildDate>Fri, 12 Dec 2025 15:31:43 -0600</lastBuildDate><atom:link href="http://localhost:1313/authors/yasin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Dec 2025 17:57:37 -0600</lastBuildDate><atom:link href="http://localhost:1313/authors/yasin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What every physicist should know about (gauge) anomalies</title>
+      <link>http://localhost:1313/posts/anomalies/what-everyone-should-know-anomalies/</link>
+      <pubDate>Sun, 14 Dec 2025 17:57:37 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/anomalies/what-everyone-should-know-anomalies/</guid>
+      <description>Why care?</description>
+      
+    </item>
+    
     <item>
       <title>A retrospective on classes</title>
       <link>http://localhost:1313/posts/physics_life/classes/</link>

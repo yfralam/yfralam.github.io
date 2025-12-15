@@ -8,14 +8,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   
-  <title>A retrospective on classes &middot; Lightly Caffeinated</title>
-  <meta name="title" content="A retrospective on classes &middot; Lightly Caffeinated" />
+  <title>What every physicist should know about (gauge) anomalies &middot; Lightly Caffeinated</title>
+  <meta name="title" content="What every physicist should know about (gauge) anomalies &middot; Lightly Caffeinated" />
   
-  <meta name="description" content="I just finished the final class of my student career. Some thoughts and a retrospective on all the classes I&#39;ve taken." />
-  <meta name="keywords" content="physics-nt, " />
+  <meta name="description" content="Anomalies show up in almost every single area of physics, from high energy physics to condensed matter systems and have very observables consequences. I cover some basic things about anomalies as consistency checks of theories. The first part should be accessible to everyone but the second part is aimed at those interested in particles." />
+  <meta name="keywords" content="physics-t, " />
   
   
-  <link rel="canonical" href="http://localhost:1313/posts/physics_life/classes/" />
+  <link rel="canonical" href="http://localhost:1313/posts/anomalies/what-everyone-should-know-anomalies/" />
   
   
   
@@ -62,21 +62,21 @@
   
   
   
-  <meta property="og:url" content="http://localhost:1313/posts/physics_life/classes/">
+  <meta property="og:url" content="http://localhost:1313/posts/anomalies/what-everyone-should-know-anomalies/">
   <meta property="og:site_name" content="Lightly Caffeinated">
-  <meta property="og:title" content="A retrospective on classes">
-  <meta property="og:description" content="I just finished the final class of my student career. Some thoughts and a retrospective on all the classes I&#39;ve taken.">
+  <meta property="og:title" content="What every physicist should know about (gauge) anomalies">
+  <meta property="og:description" content="Anomalies show up in almost every single area of physics, from high energy physics to condensed matter systems and have very observables consequences. I cover some basic things about anomalies as consistency checks of theories. The first part should be accessible to everyone but the second part is aimed at those interested in particles.">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2025-12-12T15:31:43-06:00">
-    <meta property="article:modified_time" content="2025-12-12T15:31:43-06:00">
-    <meta property="article:tag" content="Physics-Nt">
+    <meta property="article:published_time" content="2025-12-14T17:57:37-06:00">
+    <meta property="article:modified_time" content="2025-12-14T17:57:37-06:00">
+    <meta property="article:tag" content="Physics-T">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="A retrospective on classes">
-  <meta name="twitter:description" content="I just finished the final class of my student career. Some thoughts and a retrospective on all the classes I&#39;ve taken.">
+  <meta name="twitter:title" content="What every physicist should know about (gauge) anomalies">
+  <meta name="twitter:description" content="Anomalies show up in almost every single area of physics, from high energy physics to condensed matter systems and have very observables consequences. I cover some basic things about anomalies as consistency checks of theories. The first part should be accessible to everyone but the second part is aimed at those interested in particles.">
 
   
   <script type="application/ld+json">
@@ -84,26 +84,26 @@
     "@context": "https://schema.org",
     "@type": "Article",
     "articleSection": "Posts",
-    "name": "A retrospective on classes",
-    "headline": "A retrospective on classes",
-    "description": "I just finished the final class of my student career. Some thoughts and a retrospective on all the classes I\u0027ve taken.",
-    "abstract": "End of classes #\rI have just crowned the list of classes I have taken in my academic career with supersymmetry and I won\u0026rsquo;t be taking any other class.",
+    "name": "What every physicist should know about (gauge) anomalies",
+    "headline": "What every physicist should know about (gauge) anomalies",
+    "description": "Anomalies show up in almost every single area of physics, from high energy physics to condensed matter systems and have very observables consequences. I cover some basic things about anomalies as consistency checks of theories. The first part should be accessible to everyone but the second part is aimed at those interested in particles.",
+    "abstract": "Why care?",
     "inLanguage": "en",
-    "url" : "http:\/\/localhost:1313\/posts\/physics_life\/classes\/",
+    "url" : "http:\/\/localhost:1313\/posts\/anomalies\/what-everyone-should-know-anomalies\/",
     "author" : {
       "@type": "Person",
       "name": "Yasin"
     },
     "copyrightYear": "2025",
-    "dateCreated": "2025-12-12T15:31:43-06:00",
-    "datePublished": "2025-12-12T15:31:43-06:00",
+    "dateCreated": "2025-12-14T17:57:37-06:00",
+    "datePublished": "2025-12-14T17:57:37-06:00",
     
-    "dateModified": "2025-12-12T15:31:43-06:00",
+    "dateModified": "2025-12-14T17:57:37-06:00",
     
-    "keywords": ["physics-nt"],
+    "keywords": ["physics-t"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "1121"
+    "wordCount": "1667"
   }]
   </script>
 
@@ -124,6 +124,139 @@
   
 
 <script src="/lib/jquery/jquery.slim.min.js" integrity=""></script>
+
+
+
+
+
+
+
+
+
+
+
+<link type="text/css" rel="stylesheet" href="/lib/katex/katex.min.b6af89fb858eebf3a2f76dc5e96fec34b1ea60df75a463322f39a5e8386328f85a735a1393786ff33160aa709a25cb5d697b8b2fa554cf082d274e94655e0732.css" integrity="sha512-tq&#43;J&#43;4WO6/Oi923F6W/sNLHqYN91pGMyLzml6DhjKPhac1oTk3hv8zFgqnCaJctdaXuLL6VUzwgtJ06UZV4HMg==" />
+
+
+<script defer src="/lib/katex/katex.min.50f14e69d6a8da7128ae3b63974c544ed377c36d096b5e3750f114e84c89d668b9301d9b0ed3248969aa183aa2e3bc4d2c1e73d5dcb7d462890c45a18d424589.js" integrity="sha512-UPFOadao2nEorjtjl0xUTtN3w20Ja143UPEU6EyJ1mi5MB2bDtMkiWmqGDqi47xNLB5z1dy31GKJDEWhjUJFiQ=="></script>
+
+
+<script defer src="/lib/katex/auto-render.min.6095714e3aadb63b14ddc4af69346ab12974c1b460654345f8d1860a0b68fcc51b22f68b757433193090bb80afc8965b65cb607e5541d0f5f0f4b2e64d69b9ff.js" integrity="sha512-YJVxTjqttjsU3cSvaTRqsSl0wbRgZUNF&#43;NGGCgto/MUbIvaLdXQzGTCQu4CvyJZbZctgflVB0PXw9LLmTWm5/w=="
+  onload="renderMathInElement(document.body);"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -403,7 +536,7 @@
   <header id="single_header" class="mt-5 max-w-prose">
     
     <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-      A retrospective on classes
+      What every physicist should know about (gauge) anomalies
     </h1>
     <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
       
@@ -448,7 +581,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2025-12-12 15:31:43 -0600 CST">12 December 2025</time><span class="px-2 text-primary-500">&middot;</span><span>1121 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">6 mins</span>
+  <time datetime="2025-12-14 17:57:37 -0600 CST">14 December 2025</time><span class="px-2 text-primary-500">&middot;</span><span>1667 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">8 mins</span>
   
 
   
@@ -472,10 +605,10 @@
   
   
   
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/physics-nt/&#34;,'_self');">
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/physics-t/&#34;,'_self');">
     <span class="flex" style="cursor: pointer;">
   <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Physics-Nt
+    Physics-T
   </span>
 </span>
   </span>
@@ -599,8 +732,15 @@
     class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#end-of-classes">End of classes</a></li>
-    <li><a href="#a-retrospective-on-classes">A retrospective on classes</a></li>
+    <li><a href="#why-care">Why care?</a></li>
+    <li><a href="#classical-and-quantum-symmetries">Classical and quantum symmetries</a>
+      <ul>
+        <li><a href="#classical-symmetries">Classical symmetries</a></li>
+        <li><a href="#quantum-symmetries">Quantum symmetries</a></li>
+        <li><a href="#anomaly-coefficients">Anomaly coefficients</a></li>
+      </ul>
+    </li>
+    <li><a href="#the-standard-model">The Standard Model</a></li>
   </ul>
 </nav>
   </div>
@@ -614,8 +754,15 @@
     class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#end-of-classes">End of classes</a></li>
-    <li><a href="#a-retrospective-on-classes">A retrospective on classes</a></li>
+    <li><a href="#why-care">Why care?</a></li>
+    <li><a href="#classical-and-quantum-symmetries">Classical and quantum symmetries</a>
+      <ul>
+        <li><a href="#classical-symmetries">Classical symmetries</a></li>
+        <li><a href="#quantum-symmetries">Quantum symmetries</a></li>
+        <li><a href="#anomaly-coefficients">Anomaly coefficients</a></li>
+      </ul>
+    </li>
+    <li><a href="#the-standard-model">The Standard Model</a></li>
   </ul>
 </nav>
   </div>
@@ -699,274 +846,230 @@
         <div class="article-content max-w-prose mb-20">
           
 
-<h2 class="relative group">End of classes 
-    <div id="end-of-classes" class="anchor"></div>
+
+
+<h2 class="relative group">Why care? 
+    <div id="why-care" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#end-of-classes" aria-label="Anchor">#</a>
+            style="text-decoration-line: none !important;" href="#why-care" aria-label="Anchor">#</a>
     </span>        
     
 </h2>
-<p>I have just crowned the list of classes I have taken in my academic career with supersymmetry and I won&rsquo;t be taking any other class. It feels weird to come to the end of this journey, especially when one has been taking college classes for the better part of 5 years, and in school for more than two decades.</p>
-<p>A physics degree consists of playing catch up to modern day physics. We start by learning classical mechanics (1700s) then moving on to electromagnetism (mid 1800s) and then quantum mechanics and statistical mechanics (early 1900s). Quantum field theory takes us to the 1950s and on to around the 1970s. If one takes a string theory class, they learn about topics from the 1980&rsquo;s onward (maybe to 1997 with AdS/CFT).</p>
-<p>Thus, it is a nice ending point for classes (for which the community should have widespread agreement on material) when the supersymmetry class ends with the <a href="">duality cascade</a> (2004). So with this class, we are finally taken into the current millennium.</p>
-<p>On the bright side, I will no longer have to worry about exams, homework, or grades. At the end of the day, the classes were starting to get in the way of research, and anything I need to learn I feel comfortable teaching myself at this point.</p>
-<p>While I don&rsquo;t plan to take any courses for credit (or any current physics classes), I do still plan on sitting in on interesting math classes relevant to my research. Luckily, UT makes this very easy to do.</p>
-
-
-<h2 class="relative group">A retrospective on classes 
-    <div id="a-retrospective-on-classes" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#a-retrospective-on-classes" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-<p>In these 5 years, I&rsquo;ve taken a lot of classes, Some of them were very useful, some of them were not (most of the computer science classes). I thought it may be fun to go through and make a table.</p>
-<p>Is this a flex that I have 2 degrees? Yes, because that is the only use for my CS degree now.</p>
-<p>This is roughly in chronological order.  When the class name is not enough, there is a description. Classes that are 2 semesters are only listed once and bolded (ex E&amp;M 1 and 2 are listed as just <em>E&amp;M</em>).</p>
-<p><strong>Undergraduate</strong></p>
+<p>Symmetries are a guiding principle in physics. They give us an extreme amount of control which we can use to make predictions. A particular class of symmetries called <strong>gauge symmetries</strong> are especially important. They are used to describe the physics of forces. This included electromagnetism, the strong and weak force, and even gravity.</p>
+<p>In certain cases, gauge symmetries can be <strong>anomalous</strong>. That is, symmetries at a classical level, may not be symmetries at a <em>quantum</em> level. This is a massive issue.</p>
+<p>Gauge symmetries are not &ldquo;real&rdquo; symmetries, they are redundancies in description. As an example, in electromagnetism, shifting the vector potential</p>
+<p>$$ \vec{A} \to \vec{A}&rsquo;=\vec{A} + \nabla \lambda$$ does not change the magnetic field $$\vec{B} = \nabla \times \vec{A}.$$
+If the gauge symmetry is broken, there is something seriously wrong with the theory and it cannot be consistent.</p>
 <ul>
-<li>✓ : Useful</li>
-<li>X : Why did I have to take this?</li>
-<li>: If the field is left blank, it is neutral</li>
-<li>* : Grad course</li>
-<li>Physics (P), computer science is (CS), both is (B)</li>
+<li><strong>In quantum field theory, anomalous gauge symmetries lead to probabilities bigger than one. This means the theory is sick and cannot be consistent as is.</strong></li>
 </ul>
+<ol>
+<li>In a nutshell, symmetries give us conserved currents (see Noether&rsquo;s theorem)</li>
+<li>This means the divergence of the current should be 0</li>
+<li>At a quantum level, these currents may not be conserved (divergence is non-zero)</li>
+<li>The divergence of the currents is proportional to the charges of the particles</li>
+</ol>
+<p>The standard model has gauge symmetries as well. For the standard model to be a &ldquo;good&rdquo; theory, all of its gauge symmetries must not be anomalous. Hopefully by the end of this you can see why the standard model has the charges it does.</p>
+
+
+<h2 class="relative group">Classical and quantum symmetries 
+    <div id="classical-and-quantum-symmetries" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#classical-and-quantum-symmetries" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>For the rest of this, we will pass to a description of quantum field theory. First let us talk about classical symmetries. A simple example is with quantum electrodynamics (where I will drop the \(F_{\mu\nu} F^{\mu\nu}\)  term. The Lagrangian is given by</p>
+<p>$$ \mathcal{L} = \bar \psi(i \gamma^\mu[\partial_\mu + ieA_\mu]-m)\psi .$$
+Here, \(\psi, \bar \psi\) are the fermions (electrons/positrons fields) and \(A_\mu\) is the electromagnetic four-potential (the photon), and \(e\) is the charge of the electron.</p>
+
+
+<h3 class="relative group">Classical symmetries 
+    <div id="classical-symmetries" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#classical-symmetries" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>This Lagrangian has a classical \(U(1) \) symmetry. This means it is invariant under the following transformation:</p>
+<p>$$\psi(x) \to \psi&rsquo;(x)=e^{ie\lambda(x)} \psi(x), \quad \bar \psi(x) \to \bar \psi&rsquo;(x)=e^{-ie\lambda(x)} \bar \psi(x), \quad A_\mu(x) \to A_\mu&rsquo;(x)=A_\mu(x)-\partial_\mu \lambda.$$
+Not the fermions transform with a phase proportional to their charge \(e\). In terms of the action,
+$$ S = \int d^4x \mathcal{L} \to S&rsquo; = S + \delta S = S.$$Let us check this. Doing the transformation,</p>
+<p>$$\mathcal{L}&rsquo;= e^{-ie\lambda} \bar \psi(i \gamma^\mu\partial_\mu + ie\gamma^\mu(A_\mu-\partial_\mu \lambda)-m)e^{ie\lambda} \psi$$
+Simplifying, we get</p>
+<p>$$=i(e^{-ie\lambda} \bar \psi \gamma^\mu \partial_\mu (e^{ie\lambda} \psi(x)) -e\bar \psi \gamma^\mu (A_\mu-\partial_\mu \lambda) \psi -m\bar \psi \psi$$
+$$=i \bar \psi \gamma^\mu \partial_\mu \psi -e\bar \psi\gamma^\mu\partial_\mu \lambda \psi - e \bar \psi \gamma^\mu A_\mu +e\bar \psi\gamma^\mu\partial_\mu \lambda \psi - m \bar \psi \psi$$
+$$=i \bar \psi \gamma^\mu \partial_\mu \psi - e \bar \psi \gamma^\mu A_\mu - m \bar \psi \psi=\mathcal {L}.$$
+We have returned to the same Lagrangian. Note that the charges of the electrons and positrons are chosen in such a way to cancel the \(e\) in front of the photon field \(A_\mu\). I could not have chosen \(0.5 e\) or \(2e\).</p>
+<p>One could ask, &ldquo;If I scale the charges together, shouldn&rsquo;t the Lagrangian be gauge inveriant?&rdquo; Indeed it would, scaling all the charges together is fine. But imagine if there were more gauge fields and matter fields, all interacting with each other with their own charges. If you scale one set of charges and not other, you may ruin the gauge invariance of another term. With many fields, choosing the correct charges is hard already at the classical level.</p>
+<p>To this symmetry, there is an associated current (you can think about it as the analog of electric current), given by Noether&rsquo;s theorem</p>
+<p>$$ j^\mu = \bar \psi \gamma^\mu \psi.$$ It&rsquo;s fine if you don&rsquo;t know where this comes from, the important part is it can be checked that on the equations of motion, the current is conserved, i.e.</p>
+<p>$$\boxed{\partial_\mu j^\mu = 0.}$$ We can take this to mean the symmetry is <em>fine</em>.</p>
+<ul>
+<li>If the current is not conserved (\(\partial_\mu j^\mu \neq 0\) ), then the symmetry is broken.</li>
+</ul>
+
+
+<h3 class="relative group">Quantum symmetries 
+    <div id="quantum-symmetries" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#quantum-symmetries" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>What would imply the gauge symmetry is broken at the quantum level? Well, all we would need to do is throw the divergence of the current into a correlator</p>
+<p>$$\boxed{\langle \partial_\mu j^\mu \rangle \neq 0 \implies \text{Broken symmetry}.}$$
+In quantum field theory, we can concretely compute these and see whether the symmetry is fine or not.</p>
+<ul>
+<li>They are given by triangle Feynman diagrams.</li>
+</ul>
+<p>An alternative way of viewing this is through the path integral (essentially just a partition function). For a symmetry to be non-anomalous, the partition function must be invariant under the gauge transformation</p>
+<p>$$ Z \to Z&rsquo; = Z.$$The path integral tells us to integrate over all configurations of the fields</p>
+<p>$$ Z = \int D\psi D\bar \psi D A_\mu e^{iS[\psi,\bar \psi, A]}.$$ Under the gauge transformation,</p>
+<p>$$Z \to Z&rsquo; = \int D\psi&rsquo; D\bar \psi&rsquo; D A_\mu&rsquo; e^{iS[\psi&rsquo;,\bar \psi&rsquo;, A&rsquo;]},$$
+but the action is invariant under the gauge transformations so
+$$ Z&rsquo; = \int D\psi&rsquo; D\bar \psi&rsquo; D A_\mu&rsquo; e^{iS[\psi,\bar \psi, A]}.$$
+From this perspective, we can chalk up anomalies to be due to the non-invariance of the <em>measure</em> under gauge transformations
+$$ \text{if } D\psi&rsquo; D\bar \psi&rsquo; D A_\mu&rsquo; \neq D\psi D\bar \psi D A_\mu \implies \text{Broken symmetry}.$$</p>
+
+
+<h3 class="relative group">Anomaly coefficients 
+    <div id="anomaly-coefficients" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#anomaly-coefficients" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Earlier we mentioned</p>
+<p>$$\langle \partial_\mu j^\mu \rangle \neq 0 \implies \text{Broken symmetry}.$$
+There is a general form of this quantity. The left-hand side is always proportional to the <em>anomaly coefficient</em>.</p>
+<p>$$\langle \partial_\mu j^\mu \rangle \simeq \sum_{LH}\text{gauge charge}-\sum_{RH}\text{gauge charge}$$
+Let us break this up:</p>
+<ul>
+<li>The gauge charges are essentially just the charges of the particles we are talking about under the specific gauge group.</li>
+<li>The sum over LH and RH mean to only sum over the charges of the left hand or right handed fermions.</li>
+<li>For the symmetry to be non-anomalous, the sums of the charges must cancel.</li>
+</ul>
+<p>For QED, we wrote the Lagrangian in terms of a Dirac spinor. This means that
+$$\psi = \psi_L + \psi_R$$ so every left handed fermion comes with a right handed fermion. We now have all the information we need to make sure the \(U(1)\) symmetry in QED is non-anomalous.</p>
+<p>First let us write the charges. We only have to worry about the fermions \(\psi\).</p>
 <table>
 <thead>
 <tr>
-<th>Class</th>
-<th>Description</th>
-<th>Worth</th>
-<th>Subject</th>
+<th>Field</th>
+<th>U(1) charge</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Discrete Math</td>
-<td>First exposure to formal proofs and real math..</td>
-<td>✓</td>
-<td>CS</td>
+<td>\(\psi_L\)</td>
+<td>e</td>
 </tr>
 <tr>
-<td>Diff EQ</td>
+<td>\(\psi_R\)</td>
+<td>e</td>
+</tr>
+<tr>
+<td>For a triangle diagram, we need to insert 3 charges. In terms of <em>anomaly coefficients</em>, this means we cube the charges</td>
 <td></td>
-<td>✓</td>
-<td>P</td>
-</tr>
-<tr>
-<td>Waves/Optics</td>
-<td>University Physics 3 essentially tuned for phycisists.</td>
-<td>✓</td>
-<td>P</td>
-</tr>
-<tr>
-<td>Engineering lab</td>
-<td>Just python 101.</td>
-<td>X</td>
-<td>CS</td>
-</tr>
-<tr>
-<td>TX government</td>
-<td>All I remember is the Railroad commission is in charge of oil, not railroads.</td>
-<td>X</td>
-<td>B</td>
-</tr>
-<tr>
-<td>C++ 1</td>
-<td>Basic C++ and OOP.</td>
-<td></td>
-<td>CS</td>
-</tr>
-<tr>
-<td>Mechanics lab</td>
-<td>The same lab as in highschool AP Physics C, I had to take it for my CS degree.</td>
-<td>X</td>
-<td>CS</td>
-</tr>
-<tr>
-<td>Linear Alg</td>
-<td></td>
-<td>✓</td>
-<td>B</td>
-</tr>
-<tr>
-<td>Modern Physics</td>
-<td>Covers physics from early 1900s, old QM, some SR, particle in a box, UV catastrophe, etc.</td>
-<td></td>
-<td>P</td>
-</tr>
-<tr>
-<td><strong>Math Methods</strong></td>
-<td></td>
-<td></td>
-<td>P</td>
-</tr>
-<tr>
-<td>Data structures/algorithms</td>
-<td>C++ but actually this time, with linked lists, stacks, etc. Actually taught programming skills.</td>
-<td>✓</td>
-<td>CS</td>
-</tr>
-<tr>
-<td>Programming Languages</td>
-<td>Java/Scheme (for some god forsaken reason).</td>
-<td>X</td>
-<td>CS</td>
-</tr>
-<tr>
-<td>Computer organization</td>
-<td>Not too useful but interesting to me. We started with nand gates and ended up building a CPU. We ended the class with a fully functioning virtual computer for which we built the parts 1 by 1, IO, etc.</td>
-<td>✓</td>
-<td>CS</td>
-</tr>
-<tr>
-<td><strong>Mechanics</strong></td>
-<td></td>
-<td>✓✓</td>
-<td>P</td>
-</tr>
-<tr>
-<td><strong>E&amp;M</strong></td>
-<td>Ergin told me to do a project on Born-Infeld Electrodynamics which was my first exposure to HET concepts through D-branes.</td>
-<td>✓✓</td>
-<td>P</td>
-</tr>
-<tr>
-<td><strong>Quantum mechanics</strong> *</td>
-<td></td>
-<td>✓✓</td>
-<td>P</td>
-</tr>
-<tr>
-<td>Computer systems</td>
-<td>Network stuff, basically how computers talk to each other.</td>
-<td>✓</td>
-<td>CS</td>
-</tr>
-<tr>
-<td>Programming studio</td>
-<td>This was atrocious. Basically how to github and make an app. I learned nothing here. I was the manager for the app we made and coded literally 2 lines in python. The only other thing I had to do was set up meetings and make sure people were on time. For some reason I got glowing reviews from my colleagues and instructor.</td>
-<td>XXX</td>
-<td>CS</td>
-</tr>
-<tr>
-<td>Circuits</td>
-<td>I learned what an Op amp was and played around with a raspberry pi.</td>
-<td>✓</td>
-<td>P</td>
-</tr>
-<tr>
-<td>Statistics</td>
-<td>This was just AP statistics. We had to pay to access the website to do homework. There was a 10 day free trial and all the assignments were already loaded so I finished the whole course in a week.</td>
-<td>X</td>
-<td>CS</td>
-</tr>
-<tr>
-<td>Analysis of algorithms</td>
-<td>Actual computer science, P=NP type things.</td>
-<td></td>
-<td>CS</td>
-</tr>
-<tr>
-<td>Artificial Intelligence</td>
-<td>Classic AIs starting from the mid 1900s to modern day. This was with my CS advisor and there was a good mix between practice and theory. A lot of first order calculus.</td>
-<td>✓</td>
-<td>CS</td>
-</tr>
-<tr>
-<td>Statistical mechanics</td>
-<td>AKA lunch and boba time (ft Diego and Ian).</td>
-<td>✓✓</td>
-<td>P</td>
-</tr>
-<tr>
-<td>Solid state *</td>
-<td>This class was taught by Valery Pokrovsky and convinced me to go into theory.</td>
-<td>✓</td>
-<td>P</td>
-</tr>
-<tr>
-<td>General Relativity *</td>
-<td>This class was taught by Chris Pope and convinced me to go into HET.</td>
-<td>✓✓</td>
-<td>P</td>
-</tr>
-<tr>
-<td>Deep learning *</td>
-<td>I thought this would be more theory. Instead it was just a class on how to use tensorflow.</td>
-<td>X</td>
-<td>CS</td>
-</tr>
-<tr>
-<td>Numerical methods</td>
-<td>I don&rsquo;t even remember what I did in this class besides Newton&rsquo;s method. For some reason, this is the class that gave me my math minor.</td>
-<td></td>
-<td>B</td>
-</tr>
-<tr>
-<td>Performance in world cultures</td>
-<td></td>
-<td>X</td>
-<td>B</td>
-</tr>
-<tr>
-<td>Experimental physics lab</td>
-<td>Classic physics experiments. Hydrogen lines, measuring speed of light, etc.</td>
-<td>✓</td>
-<td>P</td>
-</tr>
-<tr>
-<td><strong>QFT</strong> *</td>
-<td>To be honest, in my first pass of QFT, I did the calculations, but did not really understand what was going on.</td>
-<td>✓✓</td>
-<td>P</td>
-</tr>
-<tr>
-<td>Parallel computing</td>
-<td>Not too useful, but an interesting topic. I did some interesting projects and the class allowed for clever solutions if you knew some math.</td>
-<td>✓</td>
-<td>CS</td>
-</tr>
-<tr>
-<td>CS seminar</td>
-<td>I listened to 10 random companies tell me why I should work for them.</td>
-<td>XXX</td>
-<td>CS</td>
-</tr>
-<tr>
-<td>Ethics</td>
-<td>Intro to ethics. Kantianism vs Utilitarianism, etc.</td>
-<td>✓</td>
-<td>B</td>
-</tr>
-<tr>
-<td>String theory *</td>
-<td>I took string theory with Katrin Becker. It was genuinely a great course and I wish I had more mathematical development when I took it. Funnily enough, we followed Polchinski for most of the course before pivoting hard to flux compactifications towards then end.</td>
-<td>✓✓</td>
-<td>P</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Graduate</strong></p>
-<p>The graduate classes were all useful in some extent. They were either good refreshers or I chose to take them for my own curiosity. Therefore, I&rsquo;ll just list them.</p>
+<p>$$\boxed{\langle \partial_\mu j^\mu \rangle \simeq \sum_{LH}Q_l^3-\sum_{RH}Q_r^3 = e^3 - e^3 =0.}$$
+So now we have found that the \(U(1)\) gauge symmetry survives at the quantum level! A few notes</p>
 <ul>
-<li>E&amp;M</li>
-<li>QM</li>
-<li>QFT I, II</li>
-<li>String Theory I, II</li>
-<li>GR</li>
-<li>Quantum Info</li>
-<li>Standard Model/Particle Physics</li>
-<li>SUSY</li>
+<li>QED is &ldquo;non-chiral&rdquo;. This means there are the same number of left handed and right handed fermions and then have the same charges. Therefore, it is no surprise that the anomaly cancelled.</li>
+<li>We only get the relevant gauge anomalies we are talking about when the theory is &ldquo;chiral&rdquo;.</li>
 </ul>
-<p>I tested out of classical mechanics and stat mech.</p>
-<p>I may sit in on some graduate math courses. Maybe algebraic geometry or some special topics courses.</p>
+
+
+<h2 class="relative group">The Standard Model 
+    <div id="the-standard-model" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#the-standard-model" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>Above we just saw that chiral theories have the possibility of being anomalous. The Standard Model has gauge group</p>
+<p>$$SU(3)_c \times SU(2)_L \times U(1)_Y$$ and is may be <em>dangerously anomalous</em>. Only the left handed fermions transform under \(SU(2)\). We now write the charges.</p>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>SU(3)</th>
+<th>SU(2)</th>
+<th>U(1)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>\(Q_L^i\)</td>
+<td><strong>3</strong></td>
+<td><strong>2</strong></td>
+<td>1/6</td>
+</tr>
+<tr>
+<td>\(u_R^i\)</td>
+<td><strong>3̅</strong></td>
+<td><strong>1</strong></td>
+<td>2/3</td>
+</tr>
+<tr>
+<td>\(d_R^i\)</td>
+<td><strong>3̅</strong></td>
+<td><strong>1</strong></td>
+<td>-1/3</td>
+</tr>
+<tr>
+<td>\(L_L^i\)</td>
+<td><strong>1</strong></td>
+<td><strong>2</strong></td>
+<td>-1/2</td>
+</tr>
+<tr>
+<td>\(e_R^i\)</td>
+<td><strong>1</strong></td>
+<td><strong>1</strong></td>
+<td>-1</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Here, the first 3 rows are the left handed and right handed quarks.</li>
+<li>The last 2 rows are the left handed and right handed leptons.</li>
+<li>The bolded numbers are not charges in the same way as they were in the \(U(1)\) case, they denote how the fields transform under the non-abelian symmetries.</li>
+</ul>
+<p>Remember that anomalies are given by triangle diagrams and all of these diagrams must be non-anomalous. This means we have to check every combination of 3 currents and every single combination must be non-anomalous, else the standard model would be dead. This would look like checking [SU(3)SU(3)SU(3)], [SU(2)SU(2)SU(2)], [SU(2)SU(2)U(1)], [U(1)U(1)U(1)], etc.</p>
+<p>As a sample calculation, let us check that \(U(1)^3\) hypercharge is non-anomalous.</p>
+<p>$$\langle \partial_\mu j^\mu \rangle \simeq \sum_{LH} Y^3 - \sum_{RH} Y^3 .$$ Here \(Y\) are the charges.</p>
+<p>The difficulty is in the sum over fermions. For example, naively one would thing the contribution of the left handed quarks is just \((1/6)^3\). This is not that case. There are multiple quarks because there are charged under the other gauge groups. The contribution would instead be</p>
+<p>$$3 \text{ generations} \times 3 \text{ from SU(3)} \times 2 \text{ from SU(2)} \times \left(\frac16\right)^3 = \frac{3}{36}.$$ Hopefully it is clear that the counting can be complicated. Let us go back now.</p>
+<p>$$\sum_{ferm} Y^3 = 3\cdot(3\cdot2\cdot Y_Q^3 + 2 \cdot Y_L^3 -(Y_{e}^3 + 3\cdot Y_u^3 +3 \cdot Y_d^3)$$
+$$= 3(3\cdot2\cdot (1/6)^3 + 2 \cdot (-1/2)^3 -((-1)^3 + 3\cdot (2/3)^3 +3 \cdot (-1/3)^3)$$</p>
+<p>$$\boxed{=0}$$</p>
+<p>So the [U(1)U(1)U(1)] current is in fact non-anomalous. We still have to check all the other combinations too. The non-abelian calculations are a bit different but the spirit of the calculation is the same.</p>
+<p>It is a miracle that <strong>all the anomalies of the Standard Model cancel</strong>. Better yet, to describe the underlying physics we know and observe, there is nothing else we could right down in terms of the charges (up to rescaling everything).</p>
+<p>The left handed quarks don&rsquo;t have hypercharge 1/6 because we want them to, they have hypercharge 1/6 because if they didn&rsquo;t, the anomaly would not cancel. It is a very important note that the <em>electric charges</em> come from the \(SU(2) \times U(1) \) symmetry. Once we fix our units, this is of course something that we can observe.</p>
+<p>We can establish the fractional charges of quarks beyond reasonable doubt due to proton-electron collisions such as those at SLAC.</p>
+<p>Hopefully it is clear how non-trivial anomaly cancellation is and how they can lead to real predictions. There are most comments that one can find in my blog post <a href="https://yfralam.github.io/posts/anomalies/pheno/" target="_blank">here</a> as well as some non-abelian calculations.</p>
 
         </div>
         
@@ -986,8 +1089,8 @@
           
         
       <script>
-        var oid = "views_posts\\physics_life\\classes.md"
-        var oid_likes = "likes_posts\\physics_life\\classes.md"
+        var oid = "views_posts\\anomalies\\what-everyone-should-know-anomalies.md"
+        var oid_likes = "likes_posts\\anomalies\\what-everyone-should-know-anomalies.md"
       </script>
       
       
@@ -1007,7 +1110,7 @@
       <div class="flex justify-between pt-3">
         <span>
           
-            <a class="flex group mr-3" href="/posts/algebra/haag-duality/">
+            <a class="flex group mr-3" href="/posts/physics_life/classes/">
               <span
                 class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
                 >&larr;</span
@@ -1019,11 +1122,11 @@
               <span class="flex flex-col">
                 <span
                   class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Breaking Haag Duality</span
+                  >A retrospective on classes</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
-                    <time datetime="2025-11-16 15:12:30 -0600 CST">16 November 2025</time>
+                    <time datetime="2025-12-12 15:31:43 -0600 CST">12 December 2025</time>
                   
                 </span>
               </span>
@@ -1031,28 +1134,6 @@
           
         </span>
         <span>
-          
-            <a class="flex text-right group ml-3" href="/posts/anomalies/what-everyone-should-know-anomalies/">
-              <span class="flex flex-col">
-                <span
-                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >What every physicist should know about (gauge) anomalies</span
-                >
-                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
-                  
-                    <time datetime="2025-12-14 17:57:37 -0600 CST">14 December 2025</time>
-                  
-                </span>
-              </span>
-              <span
-                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
-                >&rarr;</span
-              >
-              <span
-                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
-                >&larr;</span
-              >
-            </a>
           
         </span>
       </div>
