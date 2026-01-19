@@ -1,7 +1,7 @@
 +++
-title = 'Borsuk Ulam'
-date = 2025-08-26T20:24:26-05:00
-draft = true
+title = 'Colombia and Borneo sometimes have the same temperature+pressure'
+date = 2026-01-19T12:24:26-05:00
+draft = false
 description = "A project with a friend on looking for points and their antipode on Earth with the same temperature and pressure as expected from Borsuk-Ulam. Plus some words about learning math in general."
 slug = ""
 authors = ['yasin']
@@ -13,7 +13,7 @@ enableComments = true
 +++
 {{< katex >}}
 
-This is a companion piece to my friend's post where they talk more about the coding side of this project.
+This is a companion piece to [my friend](https://vajralakushal.github.io/)'s post where they talk more about the coding side of this project. I've been learning algebraic topology recently for a variety of physics reasons and came upon this theorem. 
 
 ![A screenshot of the Borsuk-Ulam app](/posts/compsci/img/borneo.png)
 ## Colombia and Borneo sometimes have the same temperature
@@ -60,3 +60,4 @@ Because my motivation is algebraic topology, I'll give the punchline for the alg
 
 For instance, \\( \[0\] \in \mathbb{Z}\\) means no wrapping around the circle. \\( \[1\] \in \mathbb{Z}\\) means to wrap around once counterclockwise and \\(\[-1\]\\) clockwise. We can add these just like the integers, \\(\[1\] + \[1\] = \[2\]\\), or just that wrapping around once 2 times is equivalent to wrapping around twice once. In other words: $$ 1+1=2.$$
 If we assume that Borsuk-Ulam does **not** hold, it can be shown that you can only wrap around the circle an odd number of times, not an even number of times. This is obviously false, why would I only be able to go around the circle 1,3, or 5 times and not twice? Thus, Borsuk-Ulam must hold \\(\Box\\).
+
