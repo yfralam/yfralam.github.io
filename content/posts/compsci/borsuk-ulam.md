@@ -15,6 +15,8 @@ enableComments = true
 
 This is a companion piece to [my friend](https://vajralakushal.github.io/)'s post where they talk more about the coding side of this project. I've been learning algebraic topology recently for a variety of physics reasons and came upon this theorem. 
 
+The project can be found here: https://borsuk-ulam-tp.streamlit.app/
+
 ![A screenshot of the Borsuk-Ulam app](/posts/compsci/img/borneo.png)
 ## Colombia and Borneo sometimes have the same temperature
 
