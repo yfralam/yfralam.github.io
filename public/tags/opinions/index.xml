@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opinions on Lightly Caffeinated</title>
+    <link>http://localhost:1313/tags/opinions/</link>
+    <description>Recent content in Opinions on Lightly Caffeinated</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Yasin</copyright>
+    <lastBuildDate>Sat, 24 Jan 2026 13:37:16 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/opinions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is the point of a debate?</title>
+      <link>http://localhost:1313/posts/opinions/debates/</link>
+      <pubDate>Sat, 24 Jan 2026 13:37:16 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/opinions/debates/</guid>
+      <description>A categorization for debates #In recent times, both personally and in the public discourse, there has been a significant focus on debates regarding current events.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

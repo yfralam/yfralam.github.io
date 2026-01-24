@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Yasin</copyright>
-    <lastBuildDate>Fri, 12 Dec 2025 15:31:43 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/physics-nt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jan 2026 12:24:26 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/physics-nt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Colombia and Borneo sometimes have the same temperature&#43;pressure</title>
+      <link>http://localhost:1313/posts/compsci/borsuk-ulam/</link>
+      <pubDate>Mon, 19 Jan 2026 12:24:26 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/compsci/borsuk-ulam/</guid>
+      <description>This is a companion piece to my friend&amp;rsquo;s post where they talk more about the coding side of this project.</description>
+      
+    </item>
+    
     <item>
       <title>A retrospective on classes</title>
       <link>http://localhost:1313/posts/physics_life/classes/</link>

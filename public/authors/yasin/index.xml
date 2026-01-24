@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Yasin</copyright>
-    <lastBuildDate>Sun, 14 Dec 2025 17:57:37 -0600</lastBuildDate><atom:link href="http://localhost:1313/authors/yasin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jan 2026 13:37:16 -0600</lastBuildDate><atom:link href="http://localhost:1313/authors/yasin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is the point of a debate?</title>
+      <link>http://localhost:1313/posts/opinions/debates/</link>
+      <pubDate>Sat, 24 Jan 2026 13:37:16 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/opinions/debates/</guid>
+      <description>A categorization for debates #In recent times, both personally and in the public discourse, there has been a significant focus on debates regarding current events.</description>
+      
+    </item>
+    
+    <item>
+      <title>Colombia and Borneo sometimes have the same temperature&#43;pressure</title>
+      <link>http://localhost:1313/posts/compsci/borsuk-ulam/</link>
+      <pubDate>Mon, 19 Jan 2026 12:24:26 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/compsci/borsuk-ulam/</guid>
+      <description>This is a companion piece to my friend&amp;rsquo;s post where they talk more about the coding side of this project.</description>
+      
+    </item>
+    
     <item>
       <title>What every physicist should know about (gauge) anomalies</title>
       <link>http://localhost:1313/posts/anomalies/what-everyone-should-know-anomalies/</link>
