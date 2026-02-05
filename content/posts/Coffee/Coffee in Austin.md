@@ -34,19 +34,7 @@ Score are subject to change if I go back.
 
 ## SHOPS ##
 
-### [First Light Book Shop](https://g.co/kgs/Kw52nXh) (4.25/5)
 
-> 4 for Coffee
-- 4.5 for Aesthetic
-- Nice book selection
-
-**Orders**
-Generally, places with a very nice aesthetic don't have amazing coffee in my experience. Thus, I was pleasantly surprised when I got an excellent cortado rather late at night. I need to go back and try more things, but my one experience so far has been nothing but good.
-
-**Vibe**
-As the name suggests, this place is a coffee shop. They have a good amount of indoor seating among the book shelves and a lot of outdoor seating. The area is in Hyde park, so a bit of a quieter part of North Austin. The detailing and ambiance of the store is great and has a nice laid back vibe. I see some people there studying, some there just to read books. I know they have events some times but I have yet to go to one. It is also nice that they are open until 9 PM.
-
-In all, nothing beats drinking coffee while reading in a corner, or browsing books.
 
 ### [Terrible Love](https://maps.app.goo.gl/JfT7g5obpJTZdWHS9)(4/5)
 
@@ -64,8 +52,38 @@ Absolutely excellent cortado. The notes come through clear as day. The milk has 
 **Vibe**
 It's a ~~coffee cart~~ next to a building and there is no indoor seating. Yet, it still seems to have a nice vibe. There are some tables to the side. When it's not too hot outside, it is a nice place to hang around.
 
-Update: They have moved into an actual building with a singular window wher you can order.
+Update: They have moved into an actual building with a singular window where you can order.
 
+### [Desnudo East](https://maps.app.goo.gl/4z3TombeHGjFCS4o7)
+
+\+ Amazing Texture on milk drinks
+\+ Subtle and clean coffee
+\+ Great pastries
+\- Outside seating
+\- ~~No baked goods~~
+
+> 5 for Coffee
+- 3 for Aesthetic
+
+**Orders**
+I got a cortado and tried one of my friends croissant. The cortado had a nice clean taste, I would guess a light washed coffee but the texture was insane. Probably the best I've had. Next time I want to try their matcha drinks which seemed very good.
+
+**Vibe**
+It is a truck in east Austin with many more food trucks next to it. There is plenty of seating but I wouldn't want to go when it's raining. While New York is the city that never sleeps, Austin is the city that never works; on a random Thursday afternoon there were many seats that were taken in the middle of a residential area. Nice vibe though. If it's 70 degrees and cloudy on any given day I would go back.
+
+### [First Light Book Shop](https://g.co/kgs/Kw52nXh) (4/5)
+
+> 4 for Coffee
+- 4 for Aesthetic
+- Nice book selection
+
+**Orders**
+Generally, places with a very nice aesthetic don't have amazing coffee in my experience. Thus, I was pleasantly surprised when I got an excellent cortado rather late at night. I need to go back and try more things, but my one experience so far has been nothing but good.
+
+**Vibe**
+As the name suggests, this place is a coffee shop. They have a good amount of indoor seating among the book shelves and a lot of outdoor seating. The area is in Hyde park, so a bit of a quieter part of North Austin. The detailing and ambiance of the store is great and has a nice laid back vibe. I see some people there studying, some there just to read books. I know they have events some times but I have yet to go to one. It is also nice that they are open until 9 PM.
+
+In all, nothing beats drinking coffee while reading in a corner, or browsing books.
 ### [Figure 8](https://maps.app.goo.gl/mgL8xxDhPqhDvKwW9)(4/5)
 
 \+ Excellent coffee
