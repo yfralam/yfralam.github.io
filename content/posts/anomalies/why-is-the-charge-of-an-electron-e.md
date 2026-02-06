@@ -237,11 +237,20 @@ and obeys all of the above along with one more condition. The norm of \\(||z_1||
 
 Electric charge is combination of \\(SU(2)_W \times U(1)_Y\\): It is defined \\(Q:= \frac12 \sigma_3 + Y\\) where the sigma is the z Pauli matrix and Y is the hypercharge of the particle. 
 
-As an example, let us look at the LH leptons. They are a 2 dimensional vector that contains the neutrino and electron.[^4]
-![Charges for neutrino an electron](/posts/anomalies/img/electroweak.PNG)
+
+$$
+Q L_L^1
+= Q \begin{pmatrix} \nu_L \\\\ e_L \end{pmatrix} $$
+
+$$= \begin{pmatrix} \frac12 & 0 \\\\ 0 & -\frac12 \end{pmatrix}
+   \begin{pmatrix} \nu_L \\\\ e_L \end{pmatrix}
+   \- \frac12 \begin{pmatrix} \nu_L \\\\ e_L \end{pmatrix} $$
 
 
 
+   $$
+= \begin{pmatrix} 0 \nu_L \\\\ -1  e_L \end{pmatrix}
+$$
 So we see the neutrino has no electric charge and the electron has \\(-1\\) electric charge (in units of e).
 ### A QED example
 
@@ -295,4 +304,3 @@ $$\boxed{\partial_\mu j^\mu = 0.}$$ We can take this to mean the symmetry is *fi
 
 [^3]: I have not exactly been kosher with this derivation, really I should introduce a background gauge field and do the symmetry transformations but I think the spirit of the calculation carries over. For people curious Nakahara covers the above (known as Fujikawa's method). An alternate derivation can be done with the classic triangle diagrams which I've done [here](https://yfralam.github.io/posts/anomalies/pheno/).
 
-[^4]: Forgive the image, for some reason I haven't figured out how to do matrices yet on here.
