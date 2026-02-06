@@ -15,6 +15,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/posts/anomalies/why-is-the-charge-of-an-electron-e/</loc>
+    <lastmod>2026-02-05T21:08:37-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/opinions/debates/</loc>
     <lastmod>2026-01-24T13:37:16-06:00</lastmod>
     <changefreq>daily</changefreq>
