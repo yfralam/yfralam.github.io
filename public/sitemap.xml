@@ -4,13 +4,13 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-24T13:37:16-06:00</lastmod>
+    <lastmod>2026-02-05T21:08:37-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-01-24T13:37:16-06:00</lastmod>
+    <lastmod>2026-02-05T21:08:37-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -23,12 +23,6 @@
   <url>
     <loc>http://localhost:1313/posts/compsci/borsuk-ulam/</loc>
     <lastmod>2026-01-19T12:24:26-05:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/anomalies/what-everyone-should-know-anomalies/</loc>
-    <lastmod>2025-12-14T17:57:37-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
