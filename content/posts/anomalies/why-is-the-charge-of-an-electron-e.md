@@ -239,6 +239,9 @@ Electric charge is combination of \\(SU(2)_W \times U(1)_Y\\): It is defined \\(
 
 As an example, let us look at the LH leptons. They are a 2 dimensional vector that contains the neutrino and electron.[^4]
 ![Charges for neutrino an electron](/posts/anomalies/img/electroweak.PNG)
+
+
+
 So we see the neutrino has no electric charge and the electron has \\(-1\\) electric charge (in units of e).
 ### A QED example
 
