@@ -17,7 +17,7 @@ enableComments = true
 
 The electron has charge - 1 e while the up quark has charge 2/3 e. In fact most of the particles in the Standard Model have some type of electric charge.
 
-![The standard model](/posts/anomalies/img/sm.png)
+![The standard model](/posts/anomalies/img/sm.PNG)
 
 
 At first this seems to be haphazard and random. Why are these the charges for certain particles? The answer lies in symmetry and what we even mean by *electric* charge. 
@@ -32,7 +32,7 @@ The key takeaway is that when we say a particle has a charge, we mean it acts a 
 
 Lets say \\(\psi_q(x)\\) is a particle of charge q. The electron would have charge \\(q=-e\\). You can take this to be the field of the particle or the wavefunction of the particle, it doesn't really matter. Under a symmetry \\(G\\), the particle transforms in some way. You can think of the "action" as multiplying the particle by some matrix or operator. 
 
-![A symmetry acting on a particle](/posts/anomalies/img/sym.png)
+![A symmetry acting on a particle](/posts/anomalies/img/sym.PNG)
 
 In the case of \\(G = U(1) \\) group (refresher in appendix), the action would just be multiplication by a phase 
 
