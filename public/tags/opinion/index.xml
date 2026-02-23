@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opinion on Lightly Caffeinated</title>
+    <link>http://localhost:1313/tags/opinion/</link>
+    <description>Recent content in Opinion on Lightly Caffeinated</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Yasin</copyright>
+    <lastBuildDate>Sun, 22 Feb 2026 17:40:51 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On inviting Eric Weinstein</title>
+      <link>http://localhost:1313/posts/physics_life/eric-weinstein/</link>
+      <pubDate>Sun, 22 Feb 2026 17:40:51 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/physics_life/eric-weinstein/</guid>
+      <description>On invitations #A few months ago there was talk of Eric Weinstein coming to UT to give a &amp;ldquo;talk&amp;rdquo; on geometric unity.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
