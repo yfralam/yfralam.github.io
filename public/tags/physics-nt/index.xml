@@ -2,98 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Physics-Nt on Lightly Caffeinated</title>
-    <link>http://localhost:1313/tags/physics-nt/</link>
+    <link>https://example.org/tags/physics-nt/</link>
     <description>Recent content in Physics-Nt on Lightly Caffeinated</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Yasin</copyright>
-    <lastBuildDate>Sun, 22 Feb 2026 17:40:51 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/physics-nt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Feb 2026 17:40:51 -0600</lastBuildDate><atom:link href="https://example.org/tags/physics-nt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On inviting Eric Weinstein</title>
-      <link>http://localhost:1313/posts/physics_life/eric-weinstein/</link>
+      <link>https://example.org/posts/physics_life/eric-weinstein/</link>
       <pubDate>Sun, 22 Feb 2026 17:40:51 -0600</pubDate>
       
-      <guid>http://localhost:1313/posts/physics_life/eric-weinstein/</guid>
-      <description>On invitations #A few months ago there was talk of Eric Weinstein coming to UT to give a &amp;ldquo;talk&amp;rdquo; on geometric unity.</description>
+      <guid>https://example.org/posts/physics_life/eric-weinstein/</guid>
+      <description>On invitations #A few months ago, there was talk of Eric Weinstein coming to UT to give a &amp;ldquo;talk&amp;rdquo; on Geometric Unity.</description>
       
     </item>
     
     <item>
       <title>Colombia and Borneo sometimes have the same temperature&#43;pressure</title>
-      <link>http://localhost:1313/posts/compsci/borsuk-ulam/</link>
+      <link>https://example.org/posts/compsci/borsuk-ulam/</link>
       <pubDate>Mon, 19 Jan 2026 12:24:26 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/compsci/borsuk-ulam/</guid>
+      <guid>https://example.org/posts/compsci/borsuk-ulam/</guid>
       <description>This is a companion piece to my friend&amp;rsquo;s post where they talk more about the coding side of this project.</description>
       
     </item>
     
     <item>
       <title>A retrospective on classes</title>
-      <link>http://localhost:1313/posts/physics_life/classes/</link>
+      <link>https://example.org/posts/physics_life/classes/</link>
       <pubDate>Fri, 12 Dec 2025 15:31:43 -0600</pubDate>
       
-      <guid>http://localhost:1313/posts/physics_life/classes/</guid>
+      <guid>https://example.org/posts/physics_life/classes/</guid>
       <description>End of classes #I have just crowned the list of classes I have taken in my academic career with supersymmetry and I won&amp;rsquo;t be taking any other class.</description>
       
     </item>
     
     <item>
       <title>Classically quantum systems</title>
-      <link>http://localhost:1313/posts/string-theory/classically-quantum/</link>
+      <link>https://example.org/posts/string-theory/classically-quantum/</link>
       <pubDate>Thu, 16 Oct 2025 21:39:28 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/string-theory/classically-quantum/</guid>
+      <guid>https://example.org/posts/string-theory/classically-quantum/</guid>
       <description>There are many systems in the quantum world which have no classical analogues.</description>
       
     </item>
     
     <item>
       <title>The canonical way to teach quantum mechanics</title>
-      <link>http://localhost:1313/posts/teaching/canonical-teaching/</link>
+      <link>https://example.org/posts/teaching/canonical-teaching/</link>
       <pubDate>Fri, 01 Aug 2025 18:37:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/teaching/canonical-teaching/</guid>
+      <guid>https://example.org/posts/teaching/canonical-teaching/</guid>
       <description>Recently, during another procrastination episode, me and some colleagues got into a discussion on the correct way to teach undergraduate quantum mechanics.</description>
       
     </item>
     
     <item>
       <title>Homology is DEI?</title>
-      <link>http://localhost:1313/posts/physics_life/dei/</link>
+      <link>https://example.org/posts/physics_life/dei/</link>
       <pubDate>Sun, 16 Mar 2025 14:23:14 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/physics_life/dei/</guid>
+      <guid>https://example.org/posts/physics_life/dei/</guid>
       <description>Funding Uncertainty #Over the past few months, the current government has taken a hammer to scientific funding in the form of several proposals to cut federal grants.</description>
       
     </item>
     
     <item>
       <title>Aspen 2025: Observables in QG</title>
-      <link>http://localhost:1313/posts/conference/aspen2025/</link>
+      <link>https://example.org/posts/conference/aspen2025/</link>
       <pubDate>Fri, 17 Jan 2025 15:14:54 -0700</pubDate>
       
-      <guid>http://localhost:1313/posts/conference/aspen2025/</guid>
+      <guid>https://example.org/posts/conference/aspen2025/</guid>
       <description>I&amp;rsquo;ve just gotten back from Aspen&amp;rsquo;s workshop on observables in quantum gravity where the main goal was to have experimentalists and theorist come together to talk about what could be observed in quantum gravity and how the experimentalists could actually go into the lab and observe it.</description>
       
     </item>
     
     <item>
       <title>A sort of state of the department at UT</title>
-      <link>http://localhost:1313/posts/physics_life/sod/</link>
+      <link>https://example.org/posts/physics_life/sod/</link>
       <pubDate>Fri, 03 Jan 2025 17:21:54 -0600</pubDate>
       
-      <guid>http://localhost:1313/posts/physics_life/sod/</guid>
+      <guid>https://example.org/posts/physics_life/sod/</guid>
       <description>Recently an external review committee (ERC) has commented on the state of the department and proposed possible solutions, or at least places where the department should look into.</description>
       
     </item>
     
     <item>
       <title>AI, research, computer science pt. 1</title>
-      <link>http://localhost:1313/posts/compsci/ai-pt1/</link>
+      <link>https://example.org/posts/compsci/ai-pt1/</link>
       <pubDate>Sun, 29 Sep 2024 00:57:34 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/compsci/ai-pt1/</guid>
+      <guid>https://example.org/posts/compsci/ai-pt1/</guid>
       <description>Abstract #As some may know, I completed an undergraduate degree in computer science, primarily focusing on AI and reinforcement learning.</description>
       
     </item>
