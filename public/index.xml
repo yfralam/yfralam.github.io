@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Yasin</copyright>
-    <lastBuildDate>Sun, 22 Feb 2026 17:40:51 -0600</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Feb 2026 13:26:59 -0600</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The area operator is not a unitary</title>
+      <link>https://example.org/posts/algebra/area-operator/</link>
+      <pubDate>Thu, 26 Feb 2026 13:26:59 -0600</pubDate>
+      
+      <guid>https://example.org/posts/algebra/area-operator/</guid>
+      <description>The area operator #The area of a bifurcation surface is an important observable.</description>
+      
+    </item>
+    
     <item>
       <title>On inviting Eric Weinstein</title>
       <link>https://example.org/posts/physics_life/eric-weinstein/</link>

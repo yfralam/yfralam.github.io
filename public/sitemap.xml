@@ -4,18 +4,24 @@
 
   <url>
     <loc>https://example.org/</loc>
-    <lastmod>2026-02-22T17:40:51-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://example.org/posts/physics_life/eric-weinstein/</loc>
-    <lastmod>2026-02-22T17:40:51-06:00</lastmod>
+    <lastmod>2026-02-26T13:26:59-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://example.org/posts/</loc>
+    <lastmod>2026-02-26T13:26:59-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://example.org/posts/algebra/area-operator/</loc>
+    <lastmod>2026-02-26T13:26:59-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://example.org/posts/physics_life/eric-weinstein/</loc>
     <lastmod>2026-02-22T17:40:51-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
