@@ -22,10 +22,12 @@ In a quantum theory, the area should be an operator \\( \hat A\\). This operator
 $$U \to U' = \Theta(U) U + \Theta(-U) e^t U ~,\quad  V \to V' = \Theta(-V) V + \Theta(V) e^{-t} V,$$
 where the bifurcation surface is at \\(U=V=0\\). 
 
-In affine coordinates, it is easy to identify this as a half sided boost. If we look at the \\(V=0\\) hypersurface \\((U,\theta,\phi)\\), this boosts everything on one side of the bifurcation surface and leaves the other side alone.  One can use this canonical action to define an action of the area operator on the fields 
+In affine coordinates, it is easy to identify this as a half sided boost. If we look at the \\(V=0\\) hypersurface \\((U,\theta,\phi)\\), this boosts everything on one side of the bifurcation surface and leaves the other side alone.  One can use this canonical action to *define* an infinitesimal action of the area operator on the fields 
 
-$$ \phi(U) \to [\hat A, \phi(U)]=\phi(U')$$ where the area operator really affects the coordinates. 
+$$ \phi(U) \to [\hat A, \phi(U)]=\Theta(-U)\partial_U\phi(U).$$
+It is important to check that this is consistent as an action on phase space which is well defined under quantization. One can generate the full half sided boosts by exponentiating 
 
+$$ e^{-i t \hat A}. $$
 ## is not a good operator
 
 However, this is not a good operator on the Hilbert space. This is not a surprising fact. It has been known that half sided boosts have poor behavior near the bifurcation surface, there is a huge UV divergence due to the action of the operator turning on suddenly at the bifurcation surface (also noted in Witten's talk above). In other words, 
