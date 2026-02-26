@@ -44,7 +44,10 @@ This popped up in my work with Gautam and Sarah several times. We actually calcu
 
 For some reason, despite the fact that the above should be well knows, in several places in the literature (particularly gravitational algebras) people still try to write down a half sided boost unitary 
 
-$$ U =^? e^{-i t \hat A}.$$But as we saw before, this object makes no sense. I can't exponentiate infinity and magically hope to have it make sense. Notably this happens in in [Chandrasekaren's recent paper](https://arxiv.org/abs/2601.07915) where he tries to use a unitary that isn't actually a unitary [^2] very early on. 
+$$ U =^? e^{-i t \hat A}$$
+and *use* it as an operator on the Hilbert space.  But as we saw before, this object makes no sense. **The action makes sense on the C*-algebra of fields but not as an operator on the von Neumann algebra.** As a reminder, a von Neumann algebra is not just the C*-algebra, it also consists of a Hilbert space, and a representation of the algebra on the Hilbert space.
+
+I can't exponentiate infinity and magically hope to have it make sense. Notably this happens in in [Chandrasekaren's recent paper](https://arxiv.org/abs/2601.07915) where he tries to use a unitary on the Hilbert space that isn't actually a unitary [^2] very early on. 
 
 Another place where this happens is on a paper by Bousso and friends where they claim the area operator is holographically dual to Connes cocycle. This statement also makes absolutely no sense. As we saw before, the area operator is not a good operator, but Connes cocycle has *by definition* a good action on the Hilbert space. There is no way these two things can be dual.
 
