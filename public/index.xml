@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Yasin</copyright>
-    <lastBuildDate>Thu, 26 Feb 2026 13:26:59 -0600</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Mar 2026 04:11:40 -0500</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>九日三月</title>
+      <link>https://example.org/posts/nihongo/09mar2026/</link>
+      <pubDate>Tue, 10 Mar 2026 04:11:40 -0500</pubDate>
+      
+      <guid>https://example.org/posts/nihongo/09mar2026/</guid>
+      <description>今夜十時ぐらいに大学から出て、歩いてアパートへ向かった。俺のアパートはゆるやかで長い坂の上にあるけど、歩いて十分以内に着く。</description>
+      
+    </item>
+    
     <item>
       <title>The area operator is not a unitary</title>
       <link>https://example.org/posts/algebra/area-operator/</link>
@@ -275,6 +285,16 @@
       
       <guid>https://example.org/about/</guid>
       <description>About #Hi, I&amp;rsquo;m Yasin, a PhD student at UT Austin.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.org/posts/journal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/journal/</guid>
+      <description>1日三月令和8年 #今日から日本語でジャーナルのは始めたいです。あんまりよく書けないつもりです。数年前に日本語を勉強していて日本語の本を読んでいた。今、N2本や文法まで分かれます。漢字もG4まで読めると書けます。しかし、調べたり書いたり練習しなかった。だから、ここで毎日練習したいです。</description>
       
     </item>
     

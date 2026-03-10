@@ -103,7 +103,7 @@
     "keywords": ["physics-t"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "923"
+    "wordCount": "1016"
   }]
   </script>
 
@@ -581,7 +581,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2026-02-26 13:26:59 -0600 CST">26 February 2026</time><span class="px-2 text-primary-500">&middot;</span><span>923 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">5 mins</span>
+  <time datetime="2026-02-26 13:26:59 -0600 CST">26 February 2026</time><span class="px-2 text-primary-500">&middot;</span><span>1016 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">5 mins</span>
   
 
   
@@ -850,8 +850,10 @@
 <p>In a quantum theory, the area should be an operator \( \hat A\). This operator is not the same as other operators in QFT or QM, it acts geometrically on the spacetime itself by kinking an initial data surface, i.e. the extrinsic curvature has a delta function. A simple example is given by Witten <a href="https://groups.oist.jp/sites/default/files/imce/u139004/WittenLecture.pdf" target="_blank">here</a> <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> where he just considers a simple black hole or even flat space. If we just look at flat space in null coordinates \( (U,V,\theta,\phi)\), there is a simple action of the area operator:</p>
 <p>$$U \to U&rsquo; = \Theta(U) U + \Theta(-U) e^t U ~,\quad  V \to V&rsquo; = \Theta(-V) V + \Theta(V) e^{-t} V,$$
 where the bifurcation surface is at \(U=V=0\).</p>
-<p>In affine coordinates, it is easy to identify this as a half sided boost. If we look at the \(V=0\) hypersurface \((U,\theta,\phi)\), this boosts everything on one side of the bifurcation surface and leaves the other side alone.  One can use this canonical action to define an action of the area operator on the fields</p>
-<p>$$ \phi(U) \to [\hat A, \phi(U)]=\phi(U&rsquo;)$$ where the area operator really affects the coordinates.</p>
+<p>In affine coordinates, it is easy to identify this as a half sided boost. If we look at the \(V=0\) hypersurface \((U,\theta,\phi)\), this boosts everything on one side of the bifurcation surface and leaves the other side alone.  One can use this canonical action to <em>define</em> an infinitesimal action of the area operator on the fields</p>
+<p>$$ \phi(U) \to [\hat A, \phi(U)]=\Theta(-U)\partial_U\phi(U).$$
+It is important to check that this is consistent as an action on phase space which is well defined under quantization. One can generate the full half sided boosts by exponentiating</p>
+<p>$$ e^{-i t \hat A}. $$</p>
 
 
 <h2 class="relative group">is not a good operator 
@@ -882,7 +884,9 @@ where the bifurcation surface is at \(U=V=0\).</p>
     
 </h2>
 <p>For some reason, despite the fact that the above should be well knows, in several places in the literature (particularly gravitational algebras) people still try to write down a half sided boost unitary</p>
-<p>$$ U =^? e^{-i t \hat A}.$$But as we saw before, this object makes no sense. I can&rsquo;t exponentiate infinity and magically hope to have it make sense. Notably this happens in in <a href="https://arxiv.org/abs/2601.07915" target="_blank">Chandrasekaren&rsquo;s recent paper</a> where he tries to use a unitary that isn&rsquo;t actually a unitary <sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> very early on.</p>
+<p>$$ U =^? e^{-i t \hat A}$$
+and <em>use</em> it as an operator on the Hilbert space.  But as we saw before, this object makes no sense. <em><em>The action makes sense on the C</em>-algebra of fields but not as an operator on the von Neumann algebra.</em>* As a reminder, a von Neumann algebra is not just the C*-algebra, it also consists of a Hilbert space, and a representation of the algebra on the Hilbert space.</p>
+<p>I can&rsquo;t exponentiate infinity and magically hope to have it make sense. Notably this happens in in <a href="https://arxiv.org/abs/2601.07915" target="_blank">Chandrasekaren&rsquo;s recent paper</a> where he tries to use a unitary on the Hilbert space that isn&rsquo;t actually a unitary <sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> very early on.</p>
 <p>Another place where this happens is on a paper by Bousso and friends where they claim the area operator is holographically dual to Connes cocycle. This statement also makes absolutely no sense. As we saw before, the area operator is not a good operator, but Connes cocycle has <em>by definition</em> a good action on the Hilbert space. There is no way these two things can be dual.</p>
 <p>As Witten and some other have pointed out, a possible candidate is the operator</p>
 <p>$$ \hat A - h_R $$ where \(h_R\) is the formal half sided modular Hamiltonian. This thing has a chance to be well defined. In physical terms, the area boosts the geometric data (the coordinates/background) and the modular Hamiltonian compensates for the fields themselves. This is the operator that shows up in well defined gravitational algebras stories.</p>
@@ -963,6 +967,28 @@ where the bifurcation surface is at \(U=V=0\).</p>
           
         </span>
         <span>
+          
+            <a class="flex text-right group ml-3" href="/posts/nihongo/09mar2026/">
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >九日三月</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="2026-03-10 04:11:40 -0500 CDT">10 March 2026</time>
+                  
+                </span>
+              </span>
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+            </a>
           
         </span>
       </div>
