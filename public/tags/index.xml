@@ -2,118 +2,128 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Lightly Caffeinated</title>
-    <link>https://example.org/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Lightly Caffeinated</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Yasin</copyright>
-    <lastBuildDate>Tue, 10 Mar 2026 04:11:40 -0500</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Mar 2026 21:45:33 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Life</title>
-      <link>https://example.org/tags/life/</link>
-      <pubDate>Tue, 10 Mar 2026 04:11:40 -0500</pubDate>
+      <title>Data-Analysis</title>
+      <link>http://localhost:1313/tags/data-analysis/</link>
+      <pubDate>Tue, 24 Mar 2026 21:45:33 -0500</pubDate>
       
-      <guid>https://example.org/tags/life/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>日本語</title>
-      <link>https://example.org/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
-      <pubDate>Tue, 10 Mar 2026 04:11:40 -0500</pubDate>
-      
-      <guid>https://example.org/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Physics-T</title>
-      <link>https://example.org/tags/physics-t/</link>
-      <pubDate>Thu, 26 Feb 2026 13:26:59 -0600</pubDate>
-      
-      <guid>https://example.org/tags/physics-t/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Opinions</title>
-      <link>https://example.org/tags/opinions/</link>
-      <pubDate>Sun, 22 Feb 2026 17:40:51 -0600</pubDate>
-      
-      <guid>https://example.org/tags/opinions/</guid>
+      <guid>http://localhost:1313/tags/data-analysis/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Physics-Nt</title>
-      <link>https://example.org/tags/physics-nt/</link>
-      <pubDate>Sun, 22 Feb 2026 17:40:51 -0600</pubDate>
+      <link>http://localhost:1313/tags/physics-nt/</link>
+      <pubDate>Tue, 24 Mar 2026 21:45:33 -0500</pubDate>
       
-      <guid>https://example.org/tags/physics-nt/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://example.org/tags/test/</link>
-      <pubDate>Mon, 09 Feb 2026 21:17:28 -0600</pubDate>
-      
-      <guid>https://example.org/tags/test/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Coding</title>
-      <link>https://example.org/tags/coding/</link>
-      <pubDate>Mon, 19 Jan 2026 12:24:26 -0500</pubDate>
-      
-      <guid>https://example.org/tags/coding/</guid>
+      <guid>http://localhost:1313/tags/physics-nt/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://example.org/tags/teaching/</link>
-      <pubDate>Fri, 01 Aug 2025 18:37:00 -0500</pubDate>
+      <link>http://localhost:1313/tags/teaching/</link>
+      <pubDate>Tue, 24 Mar 2026 21:45:33 -0500</pubDate>
       
-      <guid>https://example.org/tags/teaching/</guid>
+      <guid>http://localhost:1313/tags/teaching/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>http://localhost:1313/tags/life/</link>
+      <pubDate>Tue, 10 Mar 2026 04:11:40 -0500</pubDate>
+      
+      <guid>http://localhost:1313/tags/life/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>日本語</title>
+      <link>http://localhost:1313/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
+      <pubDate>Tue, 10 Mar 2026 04:11:40 -0500</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Physics-T</title>
+      <link>http://localhost:1313/tags/physics-t/</link>
+      <pubDate>Thu, 26 Feb 2026 13:26:59 -0600</pubDate>
+      
+      <guid>http://localhost:1313/tags/physics-t/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Opinions</title>
+      <link>http://localhost:1313/tags/opinions/</link>
+      <pubDate>Sun, 22 Feb 2026 17:40:51 -0600</pubDate>
+      
+      <guid>http://localhost:1313/tags/opinions/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/tags/test/</link>
+      <pubDate>Mon, 09 Feb 2026 21:17:28 -0600</pubDate>
+      
+      <guid>http://localhost:1313/tags/test/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Coding</title>
+      <link>http://localhost:1313/tags/coding/</link>
+      <pubDate>Mon, 19 Jan 2026 12:24:26 -0500</pubDate>
+      
+      <guid>http://localhost:1313/tags/coding/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Artificial-Intelligence</title>
-      <link>https://example.org/tags/artificial-intelligence/</link>
+      <link>http://localhost:1313/tags/artificial-intelligence/</link>
       <pubDate>Sun, 29 Sep 2024 00:57:34 -0500</pubDate>
       
-      <guid>https://example.org/tags/artificial-intelligence/</guid>
+      <guid>http://localhost:1313/tags/artificial-intelligence/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Literature</title>
-      <link>https://example.org/tags/literature/</link>
+      <link>http://localhost:1313/tags/literature/</link>
       <pubDate>Fri, 27 Sep 2024 02:24:05 -0500</pubDate>
       
-      <guid>https://example.org/tags/literature/</guid>
+      <guid>http://localhost:1313/tags/literature/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Misc</title>
-      <link>https://example.org/tags/misc/</link>
+      <link>http://localhost:1313/tags/misc/</link>
       <pubDate>Thu, 18 Jul 2024 19:24:28 -0500</pubDate>
       
-      <guid>https://example.org/tags/misc/</guid>
+      <guid>http://localhost:1313/tags/misc/</guid>
       <description></description>
       
     </item>
