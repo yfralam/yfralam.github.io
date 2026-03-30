@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Yasin</copyright>
-    <lastBuildDate>Tue, 24 Mar 2026 21:45:33 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/physics-nt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Mar 2026 21:41:51 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/physics-nt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comments on UV uniqueness and IR testability</title>
+      <link>http://localhost:1313/posts/string-theory/uniqueness/</link>
+      <pubDate>Sun, 29 Mar 2026 21:41:51 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/string-theory/uniqueness/</guid>
+      <description>Uniqueness of amplitudes at high energies #This post was partially inspired by some discussions among friends and this nice Quanta article.</description>
+      
+    </item>
+    
     <item>
       <title>The lore of the &#34;Shortest Length&#34; myth</title>
       <link>http://localhost:1313/posts/analysis/shortest-length/</link>
