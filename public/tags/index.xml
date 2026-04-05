@@ -7,13 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Yasin</copyright>
-    <lastBuildDate>Sun, 29 Mar 2026 21:41:51 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Apr 2026 19:06:57 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Physics-Nt</title>
-      <link>http://localhost:1313/tags/physics-nt/</link>
+      <title>Artificial-Intelligence</title>
+      <link>http://localhost:1313/tags/artificial-intelligence/</link>
+      <pubDate>Sat, 04 Apr 2026 19:06:57 -0500</pubDate>
+      
+      <guid>http://localhost:1313/tags/artificial-intelligence/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Physics-T</title>
+      <link>http://localhost:1313/tags/physics-t/</link>
       <pubDate>Sun, 29 Mar 2026 21:41:51 -0500</pubDate>
       
-      <guid>http://localhost:1313/tags/physics-nt/</guid>
+      <guid>http://localhost:1313/tags/physics-t/</guid>
       <description></description>
       
     </item>
@@ -24,6 +34,16 @@
       <pubDate>Tue, 24 Mar 2026 21:45:33 -0500</pubDate>
       
       <guid>http://localhost:1313/tags/data-analysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Physics-Nt</title>
+      <link>http://localhost:1313/tags/physics-nt/</link>
+      <pubDate>Tue, 24 Mar 2026 21:45:33 -0500</pubDate>
+      
+      <guid>http://localhost:1313/tags/physics-nt/</guid>
       <description></description>
       
     </item>
@@ -59,16 +79,6 @@
     </item>
     
     <item>
-      <title>Physics-T</title>
-      <link>http://localhost:1313/tags/physics-t/</link>
-      <pubDate>Thu, 26 Feb 2026 13:26:59 -0600</pubDate>
-      
-      <guid>http://localhost:1313/tags/physics-t/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Opinions</title>
       <link>http://localhost:1313/tags/opinions/</link>
       <pubDate>Sun, 22 Feb 2026 17:40:51 -0600</pubDate>
@@ -94,16 +104,6 @@
       <pubDate>Mon, 19 Jan 2026 12:24:26 -0500</pubDate>
       
       <guid>http://localhost:1313/tags/coding/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Artificial-Intelligence</title>
-      <link>http://localhost:1313/tags/artificial-intelligence/</link>
-      <pubDate>Sun, 29 Sep 2024 00:57:34 -0500</pubDate>
-      
-      <guid>http://localhost:1313/tags/artificial-intelligence/</guid>
       <description></description>
       
     </item>
