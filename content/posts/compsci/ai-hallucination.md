@@ -18,6 +18,7 @@ A paper came out a few months ago, [*Why Language Models Hallucinate*](https://a
 - **Prompt:** How many D's are in DEEPSEEK? **Output:** 2
 - When LMs generate false references when you ask for sources. This one is particularly harmful to academics and a waste of time.
 - When LMs answer a question confidently (bluff) but are incorrect. For instance, guessing someone's birthday incorrectly. 
+
 It turns out the reason for the hallucinations are due to statistical factors contributing to errors in a simpler binary classification problem. The binary classification problem is whether a set of text or string of words is correct or incorrect. The main result is *Theorem 1* which we can roughly state as 
 
 $$ \text{generative error rate} \gtrsim 2\cdot \text{binary misclassification error}. $$

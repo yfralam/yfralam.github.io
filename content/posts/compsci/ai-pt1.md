@@ -1,5 +1,5 @@
 +++
-title = 'AI, research, computer science pt. 1'
+title = 'AI, research, computer science'
 date = 2024-09-29T00:57:34-05:00
 draft = false
 description = "My experience doing research on AI, some general thoughts on where AI is now, and why I decided to leave the field."
@@ -96,6 +96,4 @@ I chose rather small agents (In terms of size of NNs) to work with such that I c
 
 It was also one of the first forays I had into the difficulties of getting funding and how difficult it was to train AI models on expensive hardware.
 
-## Part 2
-In the next section, I have some more general thoughts on AI, criticisms, and CS in general.
 
