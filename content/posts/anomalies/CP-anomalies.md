@@ -1,5 +1,5 @@
 +++
-title = 'Global CP Anomalies and pins'
+title = 'Global CP Anomalies and Pin'
 date = 2026-04-30T16:13:02-05:00
 draft = false
 description = "Some discussion on addressing the strong CP problem and gauging CP. Also some discussion on ongoing work generalizing to more interesting setups. Also a short appendix on pin+ vs pin-."
