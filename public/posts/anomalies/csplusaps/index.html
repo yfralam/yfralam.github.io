@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr" class="scroll-smooth" data-default-appearance="light"
-  data-auto-appearance="false"><head>
+  data-auto-appearance="false"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   
   <meta http-equiv="content-language" content="en" />
@@ -15,7 +15,7 @@
   <meta name="keywords" content="physics-t, " />
   
   
-  <link rel="canonical" href="https://example.org/posts/anomalies/csplusaps/" />
+  <link rel="canonical" href="http://localhost:1313/posts/anomalies/csplusaps/" />
   
   
   
@@ -62,7 +62,7 @@
   
   
   
-  <meta property="og:url" content="https://example.org/posts/anomalies/csplusaps/">
+  <meta property="og:url" content="http://localhost:1313/posts/anomalies/csplusaps/">
   <meta property="og:site_name" content="Lightly Caffeinated">
   <meta property="og:title" content="A fancy way of deriving triviality">
   <meta property="og:description" content="An accidental derivation that the 3d Chern-Simons theory needs to carry a gravitational Chern-Simons term through the APS theorem.">
@@ -87,9 +87,9 @@
     "name": "A fancy way of deriving triviality",
     "headline": "A fancy way of deriving triviality",
     "description": "An accidental derivation that the 3d Chern-Simons theory needs to carry a gravitational Chern-Simons term through the APS theorem.",
-    "abstract": "Some naïve motivation #\rRecently I have been studying the \\(SL(2,\\mathbb Z)\\)-gravitational mixed anomaly of 4d free Maxwell theory.",
+    "abstract": "Update (4\/30\/2026) #\rThe solution was more straight forward than expected but it was also a nice result.",
     "inLanguage": "en",
-    "url" : "https:\/\/example.org\/posts\/anomalies\/csplusaps\/",
+    "url" : "http:\/\/localhost:1313\/posts\/anomalies\/csplusaps\/",
     "author" : {
       "@type": "Person",
       "name": "Yasin"
@@ -103,7 +103,7 @@
     "keywords": ["physics-t"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "867"
+    "wordCount": "1041"
   }]
   </script>
 
@@ -581,7 +581,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2025-09-30 17:41:39 -0500 CDT">30 September 2025</time><span class="px-2 text-primary-500">&middot;</span><span>867 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">5 mins</span>
+  <time datetime="2025-09-30 17:41:39 -0500 CDT">30 September 2025</time><span class="px-2 text-primary-500">&middot;</span><span>1041 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">5 mins</span>
   
 
   
@@ -732,6 +732,7 @@
     class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
+    <li><a href="#update-4302026">Update (4/30/2026)</a></li>
     <li><a href="#some-naïve-motivation">Some naïve motivation</a></li>
     <li><a href="#derivation-using-aps-theorem">Derivation using APS theorem</a></li>
     <li><a href="#we-have-done-nothing">We have done nothing</a></li>
@@ -749,6 +750,7 @@
     class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
+    <li><a href="#update-4302026">Update (4/30/2026)</a></li>
     <li><a href="#some-naïve-motivation">Some naïve motivation</a></li>
     <li><a href="#derivation-using-aps-theorem">Derivation using APS theorem</a></li>
     <li><a href="#we-have-done-nothing">We have done nothing</a></li>
@@ -836,6 +838,23 @@
         <div class="article-content max-w-prose mb-20">
           
 
+
+
+<h2 class="relative group">Update (4/30/2026) 
+    <div id="update-4302026" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#update-4302026" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>The solution was more straight forward than expected but it was also a nice result. Consider a closed manifold \(X\). Let us create domain walls to implement these duality transformations \(S,T\).</p>
+<p>When we stack \( (ST)^3 \), we get the level 1 Chern Simons term as expected <em>on the domain wall</em> \(Y\). But on a closed manifold, we can write</p>
+<p>$$ \int_Y a \wedge da = \int_X f \wedge f \sim \mathbb{Z}.$$ Thus we would not observe this phase and there is no anomaly as expected. Equivalently, 3 copies of Maxwell have no mixed SL(2,Z)-gravity anomalies.</p>
+<p>Now consider the case when \(X\) has a boundary. In this case, we can move the domain wall all the way over to the boundary and this is the invertible phase described below. That is why it disappears on closed manifolds but not on manifolds with boundary (generically).</p>
+<p>Some of what I said is probably dependent on the manifold being not too weird but it should work for all the nice manifolds (torii, spheres, etc.).</p>
 
 
 <h2 class="relative group">Some naïve motivation 
@@ -1109,7 +1128,7 @@ Concretely, the A-roof is just the 4-form part of the expansion in terms of Pont
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
-  data-url="https://example.org/"
+  data-url="http://localhost:1313/"
   style="z-index:500"
 >
   <div

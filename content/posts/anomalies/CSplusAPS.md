@@ -13,6 +13,18 @@ enableComments = true
 +++
 {{< katex >}}
 
+
+## Update (4/30/2026)
+
+The solution was more straight forward than expected but it was also a nice result. Consider a closed manifold \\(X\\). Let us create domain walls to implement these duality transformations \\(S,T\\). 
+
+When we stack \\( (ST)^3 \\), we get the level 1 Chern Simons term as expected *on the domain wall* \\(Y\\). But on a closed manifold, we can write
+
+$$ \int_Y a \wedge da = \int_X f \wedge f \sim \mathbb{Z}.$$ Thus we would not observe this phase and there is no anomaly as expected. Equivalently, 3 copies of Maxwell have no mixed SL(2,Z)-gravity anomalies. 
+
+Now consider the case when \\(X\\) has a boundary. In this case, we can move the domain wall all the way over to the boundary and this is the invertible phase described below. That is why it disappears on closed manifolds but not on manifolds with boundary (generically).
+
+Some of what I said is probably dependent on the manifold being not too weird but it should work for all the nice manifolds (torii, spheres, etc.).
 ## Some naïve motivation
 
 Recently I have been studying the [\\(SL(2,\mathbb Z)\\)-gravitational mixed anomaly](https://arxiv.org/abs/1803.07366) of 4d free Maxwell theory. It can be shown as arising from the \\( 8 \in H^2(BSL(2,\mathbb Z),\mathbb Z) = \mathbb Z_{12}\\). Through some investigation, the group also shows the invertible phase in 3d that is left over, after applying the operation \\( (ST)^3 \\) on a boundary theory coupled to Maxwell in the bulk, is also related to this [\\(8 \in \mathbb Z_{12}\\)](https://arxiv.org/abs/2009.10099).
