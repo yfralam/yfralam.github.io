@@ -18,7 +18,7 @@ enableComments = true
 
 The Standard Model's QCD sector has a CP problem in the sense that a \\(\theta\\) angle term,
 
-$$ \mathcal{L}_{QCD} \supset \frac{\theta g^2}{32 \pi^2} F \tilde F, $$ is allowed in the Lagrangian. This term breaks CP symmetry. Despite this, the effective \\(theta\\) angle (with contribution from the quarks) is experimentally determined to be almost 0:
+$$ \mathcal{L}_{QCD} \supset \frac{\theta g^2}{32 \pi^2} F \tilde F, $$ is allowed in the Lagrangian. This term breaks CP symmetry. Despite this, the effective \\(\theta\\) angle (with contribution from the quarks) is experimentally determined to be almost 0:
 
 $$ \theta_{eff} < 10^{-10}.$$
 
