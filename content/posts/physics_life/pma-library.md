@@ -23,7 +23,7 @@ The John M. Kuehne Physics Mathematics Astronomy library (AKA PMA library), was 
 ![PMA library pictures.](/posts/physics_life/img/pmac.jpg)
 ## What is this post about?
 
-Over the past few years, there have been a chain of library closures across not just UT, but across the United States as well. This is not disconnected from the broader anti-intellectualism movement in the United States and the axe to academia. There have been several libraries that have closed at UT over the year. One library closure was prevented due to the UT faculty senate. This was not possible for the PMA library as Texas Senate Bill 37 ended the faculty senate. Discussions on the above require more than anecdotes and warrant a separate post. 
+Over the past few years, there have been a chain of library closures across not just UT, but across the United States as well. This is not disconnected from the broader anti-intellectualism movement in the United States and the axe to academia. Out of the several UT closures, one library closure was prevented due to the UT faculty senate. This was not possible for the PMA library as Texas Senate Bill 37 ended the faculty senate. Discussions on the above require more than anecdotes and warrant a separate post. 
 
 The TLDR of events is the following:
 > It was suddenly announced that the library would be closing via a vague email.
@@ -75,7 +75,7 @@ He claimed that circulation was declining and the undergraduates needed places t
 
 We asked why graduate students were not consulted about a decision that could affect our work directly. It turns out, not only were graduate students not consulted, **the faculty themselves** were not consulted. the physics chair had made the decision himself, or with the approval of the other (math/astronomy) department heads. Whether the other department heads were involved in this decision will turn out to be controversial.
 
-We also asked whether the closure of the library is in any part due to the gravity group needing a new space. Indeed, the physics chair is the head of not just the department, but the gravity group as well. the physics chair claimed the closure of the library was in no way due to the gravity group needing a new home. Just that, he had asked the dean: If the library is going to be closed and renovated anyway, why not give the gravity group offices on a renovated 5th floor? In fact, when the math department head heard of this, we also asked if some money could be reserved for the math department to renovate some classrooms.
+We also asked whether the closure of the library is in any part due to the gravity group needing a new space. Indeed, the physics chair is the head of not just the department, but the gravity group as well. the physics chair claimed the closure of the library was in no way due to the gravity group needing a new home. Just that, he had asked the dean: If the library is going to be closed and renovated anyway, why not give the gravity group offices on a renovated 5th floor? In fact, when the math department head heard of this, he also asked if some money could be reserved for the math department to renovate some classrooms.
 
 So we asked what we could do to have our voices heard. the physics chair suggested gathering graduate student voices and drafting a letter saying how this closure would affect our abilities as a researcher. **We were explicitly told it would not be helpful to criticize the decision, ask for evidence on the claims made, or suggest compromises such as renovating the 5th floor but keeping the stacks on the 4th.**
 
@@ -93,13 +93,13 @@ It was immediately clear that UT admin were not happy with us. Despite other fly
 
 ![PMA petition in trash](/posts/physics_life/img/fly.jpg)
 
-Later on we tried to meet with the math chair. His response was negative. He said he was unsure how investigating the decision making process fit in with our role as a graduate student and that we were mischaracterizing the physics chair's words. He admitted the communication process has not been perfect but "anyone who is willing to look at this matter with a modicum of sense of reality (i.e., acknowledging the lack of spaces for students, the exorbitant costs of creating new ones, and the constantly declining usage of physics copies of books and journals) should conclude that, to very least, this is a very reasonable decision." It would have been nice to have any evidence of these claims. Surely if it is so obvious, the data would be glaringly obvious.
+Later on we tried to meet with the math chair. His response was negative. He said he was unsure how investigating the decision making process fit in with our role as a graduate student and that we were mischaracterizing the physics chair's words. He admitted the communication process has not been perfect but "anyone who is willing to look at this matter with a modicum of sense of reality (i.e., acknowledging the lack of spaces for students, the exorbitant costs of creating new ones, and the constantly declining usage of physics copies of books and journals) should conclude that, to very least, this is a very reasonable decision." It would have been nice to have any evidence of these claims. Surely if it is so obvious, the data would be easy to obtain and undisputable.
 
 The astronomy chair apparently mentioned that the claim more undergraduates needed space came from the librarians. We talked to the librarians themselves and were unable to confirm this claim. I suppose they could have talked to the library higher ups. More on this later. 
 
 Furthermore, we received an email from the physics chair saying in our initial meeting with him, he never said all 3 PMA chairs were consulted. Just that he was due to plans to renovate the 5th floor for the gravity group. This is in direct contradiction to our conversation with him, of which we had at least a dozen witnesses. 
 
-Now it is strange that he claimed the gravity group moving in had nothing to do with the renovations. For this to happen, the dean and libraries would have had to first decide to close the library without consulting *anyone*, then reach out to the physics chair because they knew his group needed a new home and the library already needed to close. Why else would they not have talked to anyone but the physics chair?
+With the new comments in mind, it is strange that he claimed the gravity group moving in had nothing to do with the renovations. For this to happen, the dean and libraries would have had to first decide to close the library without consulting *anyone*, then reach out to the physics chair because they knew his group needed a new home and the library already needed to close. Why else would they not have talked to anyone but the physics chair?
 
 After about 2 weeks of the petition, we got into contact with a former PMA librarian, though still working for UT. They gave us the following information:
 - The non-popular books will be kept at Pickle Research Campus.
@@ -116,6 +116,7 @@ Nick drafted an open letter to the department which I thought encapsulated all o
   Nick's open letter to the dean of CNS
 </a>
 
+To quote nice, from what little conversation we had with admin, it became abundantly clear that outcome was decided before any justification could be found.
 
 
 
@@ -136,20 +137,20 @@ Anyways, for the purposes of having potentially useful books in close proximity,
 ![books 2](/posts/physics_life/img/bookb.jpg)
 
 
-Andreas was nice enough to hand me a spare office in order to temporarily store some of these books. The reaction from a lot of the other faculty were very positive and more than one said that they were proud of what we were doing. 
+Andreas was nice enough to hand me keys to Arno Bohm's old office in order to temporarily store some of these books. The reaction from a lot of the other faculty were very positive and more than one said that they were proud of what we were doing. 
 
 Taking out this many books is of course a financial risk. Replacing a book costs on order of $100 so we are on the hook for roughly $200,000 worth of books. To keep track of these books, and who we allow to borrow, we established a catalogue of books. For now the catalogue is an excel sheet but it would be nice to eventually have an established database.
 
 ![catalog of books](/posts/physics_life/img/cat.png)
 
-When I was at Osaka U. (Now University of Osaka), there was a high energy theory reading room with thousands of books. It is nice to have something similar now, even if it is split among our offices.
+When I was at Osaka U. (Now University of Osaka), there was a high energy theory reading room with thousands of books. It is comforting to have something similar now, even if it is split among our offices.
 ## Denouement
 
 At the current moment, it seems like things are calming down. We were unsuccessful in preserving the PMA library. In hindsight, the admin was extremely smart in how they handled the situation. By informing us about the decision so late, there was almost nothing we could do. As graduate students, we always have the nuclear option of striking but the consensus was this is not the hill to die on. 
 
-The books stored on the 9th floor are quite helpful, but really only a band aid fix. Eventually people will graduate and these books will have to return to the shelves of a campus several miles away from the university. 
+The books stored on the 9th floor are quite helpful, but really only a band aid fix. Eventually people will graduate and these books will have to return to the shelves of a storage facility a dozen miles away from the university. 
 
-Admin was *very* annoyed with us checking out books. We have on record that the department chair was *looking* for any ways we were breaking the laws or code of conduct. It is telling that in addition to the poor communication, contradictions, and condescension, they were looking for ways to get us into trouble. The chair mentioned he looked on whether we were borrowing too many books; we were not. He also mentioned looking into whether letting others borrow our books broke any rules; they do not. At a recent meeting, he claimed that we tricked Andreas into giving us office space to store the books by not telling him what we needed it for; this is completely incorrect, *I* was the one who asked Andreas and I specifically mentioned the books.
+Admin was *very* annoyed with us checking out books. We have on record that the department chair was *looking* for any ways we were breaking the laws or code of conduct. It is telling that in addition to the poor communication, contradictions, and condescension, they were looking for ways to get us into trouble. The chair mentioned he looked on whether we were borrowing too many books; we were not. He also mentioned looking into whether letting others borrow our books broke any rules; they do not. At a recent meeting, he claimed that we tricked Andreas into giving us office space to store the books by not telling him what we needed it for as some kind of "gotcha moment" to distill into us the virtue of being specific with our words (how ironic); this is completely incorrect, *I* was the one who asked Andreas and I specifically mentioned the books.
 
 Furthermore, we received criticism for our petition; they claimed it came off more as a manifesto. The undergrads had put together compromises for what could be done to the library and this is what they were looking for. This was a surprise to us as we were explicitly told to just gather sentiments and not try and offer compromises.
 
