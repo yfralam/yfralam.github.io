@@ -17,7 +17,7 @@ enableComments = true
 
 It is often (incorrectly) said that string theory requires supersymmetry (SUSY) to work. Even during the earliest days of string theory, people knew of the type 0 strings which were not supersymmetric[^1], but had the misfortune of having a tachyon. 
 
-Even beyond the type 0 strings, there are actually a few theories that we know of that do not have SUSY *not a tachyon*. Among these are the [Sagnotti](https://arxiv.org/abs/hep-th/9509080) and [Sugimoto](https://arxiv.org/abs/hep-th/9905159) strings. They have gauge groups \\(\mathrm{U}(32)\\) and \\(\mathrm{USp}(32)\\) respectively[^2]. These strings are much less studied, yet very interesting. Only recently have rigorous anomaly (including global anomaly) cancellations been shown. 
+Even beyond the type 0 strings, there are actually a few theories that we know of that do not have SUSY *nor a tachyon*. Among these are the [Sagnotti](https://arxiv.org/abs/hep-th/9509080) and [Sugimoto](https://arxiv.org/abs/hep-th/9905159) strings. They have gauge groups \\(\mathrm{U}(32)\\) and \\(\mathrm{USp}(32)\\) respectively[^2] as well as fermions. These strings are much less studied, yet very interesting. Only recently have rigorous anomaly (including global anomaly) cancellations been shown. 
 
 ## D-brane and orientifold charges
 
