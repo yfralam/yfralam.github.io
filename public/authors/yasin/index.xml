@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Yasin</copyright>
-    <lastBuildDate>Wed, 13 May 2026 20:22:25 -0500</lastBuildDate><atom:link href="http://localhost:1313/authors/yasin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 May 2026 20:13:08 -0500</lastBuildDate><atom:link href="http://localhost:1313/authors/yasin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On non-supersymmetric strings</title>
+      <link>http://localhost:1313/posts/string-theory/non-susy-strings/</link>
+      <pubDate>Mon, 25 May 2026 20:13:08 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/string-theory/non-susy-strings/</guid>
+      <description>Non-supersymmetric strings #It is often (incorrectly) said that string theory requires supersymmetry (SUSY) to work.</description>
+      
+    </item>
+    
     <item>
       <title>A eulogy for the PMA library (1972-2026)</title>
       <link>http://localhost:1313/posts/physics_life/pma-library/</link>
