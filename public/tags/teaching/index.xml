@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching on Lightly Caffeinated</title>
-    <link>https://example.org/tags/teaching/</link>
+    <link>http://localhost:1313/tags/teaching/</link>
     <description>Recent content in Teaching on Lightly Caffeinated</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Yasin</copyright>
-    <lastBuildDate>Thu, 07 May 2026 21:46:28 -0500</lastBuildDate><atom:link href="https://example.org/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 May 2026 21:46:28 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A simple statics problem</title>
-      <link>https://example.org/posts/teaching/beam/</link>
+      <link>http://localhost:1313/posts/teaching/beam/</link>
       <pubDate>Thu, 07 May 2026 21:46:28 -0500</pubDate>
       
-      <guid>https://example.org/posts/teaching/beam/</guid>
+      <guid>http://localhost:1313/posts/teaching/beam/</guid>
       <description>The problem #The final problem covered in my undergraduate classical mechanics class by my professor, Artem Abanov, was as follows:</description>
       
     </item>
     
     <item>
       <title>The lore of the &#34;Shortest Length&#34; myth</title>
-      <link>https://example.org/posts/analysis/shortest-length/</link>
+      <link>http://localhost:1313/posts/analysis/shortest-length/</link>
       <pubDate>Tue, 24 Mar 2026 21:45:33 -0500</pubDate>
       
-      <guid>https://example.org/posts/analysis/shortest-length/</guid>
+      <guid>http://localhost:1313/posts/analysis/shortest-length/</guid>
       <description>&amp;ldquo;The Planck length is the shortest length&amp;rdquo; #For some reason, the myth that the Planck length (\( \ell_P\)) is the shortest possible length, that space is pixelized and discrete, continues to persist.</description>
       
     </item>
     
     <item>
       <title>The canonical way to teach quantum mechanics</title>
-      <link>https://example.org/posts/teaching/canonical-teaching/</link>
+      <link>http://localhost:1313/posts/teaching/canonical-teaching/</link>
       <pubDate>Fri, 01 Aug 2025 18:37:00 -0500</pubDate>
       
-      <guid>https://example.org/posts/teaching/canonical-teaching/</guid>
+      <guid>http://localhost:1313/posts/teaching/canonical-teaching/</guid>
       <description>Recently, during another procrastination episode, me and some colleagues got into a discussion on the correct way to teach undergraduate quantum mechanics.</description>
       
     </item>
