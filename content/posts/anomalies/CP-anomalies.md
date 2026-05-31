@@ -62,9 +62,9 @@ The standard model has 15, but when the right handed neutrinos are thrown in[^6]
 
 It turns out that by following Yonekura, we can indeed show that for theories with 
 
-$$Pin^-(d=4)\ltimes G$$ symmetry, there are no anomalies once we gauge CP (So far only with simple ones like \\(SU(N)\\), not as general as Yonekura yet). Therefore, if we throw the right handed neutrinos into the standard model we can gauge CP no problem, no matter the Pin structure we choose[^7]. 
+$$Pin^-(d=4)\ltimes G$$ symmetry, there are no anomalies once we gauge CP. Therefore (representation permitting), if we throw the right handed neutrinos into the standard model we can gauge CP no problem, no matter the Pin structure we choose[^7]. 
 
-The choice of pin structure is global data, it won't directly change the content of the theory or how particles behave; it will change model building (from string theory, compactifications, etc.) and inflow arguments (Bordisms would need to have a \\(Pin^-\\)) structure. Taking a look at top down models is an interesting next step, as is looking for any mixed anomalies with the discrete subgroup of B-L found in [here](https://arxiv.org/abs/1808.00009).  
+While the choice of pin structure is global data, it will change model building (from string theory, compactifications, etc.) and inflow arguments (Bordisms would need to have a \\(Pin^-\\)) structure; it also has [experimentally observable implications](https://arxiv.org/abs/math-ph/0012006). Taking a look at top down models is an interesting next step, as is looking for any mixed anomalies with the discrete subgroup of B-L found in [here](https://arxiv.org/abs/1808.00009) for the Pin+ case.  
 
 We're in the middle of having conversations with Yonekura and I'm quite excited to see where this goes.
 
@@ -112,4 +112,4 @@ $$
 
 [^6]: There is very good motivation for the right handed neutrinos. Among them, neutrinos have a mass. Additionally, it has been shown that there is an anomaly in a discrete subgroup of B-L which can be removed by the inclusion of the right handed fermions. 
 
-[^7]: One needs to be a bit careful about these statements. The pin- structure and the necessity that there must be an even number of fermions makes selecting the representations of the gauge group subtle. Nevertheless, for the standard model which can be embedded in Spin(10), there should be no anomaly. SU(5) is more subtle.  
+[^7]: One needs to be a bit careful about these statements. The pin- structure and the necessity that there must be an even number of fermions makes selecting the representations of the gauge group subtle. Getting *just* the standard model out is a bit subtle but can be done. 
