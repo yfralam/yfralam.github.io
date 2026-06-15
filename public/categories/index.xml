@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Yasin</copyright>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Feb 2026 21:08:37 -0600</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anomalies</title>
+      <link>http://localhost:1313/categories/anomalies/</link>
+      <pubDate>Thu, 05 Feb 2026 21:08:37 -0600</pubDate>
+      
+      <guid>http://localhost:1313/categories/anomalies/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

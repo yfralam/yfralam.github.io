@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anomalies on Lightly Caffeinated</title>
+    <link>http://localhost:1313/categories/anomalies/</link>
+    <description>Recent content in Anomalies on Lightly Caffeinated</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Yasin</copyright>
+    <lastBuildDate>Thu, 05 Feb 2026 21:08:37 -0600</lastBuildDate><atom:link href="http://localhost:1313/categories/anomalies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why does the electron have charge -e?</title>
+      <link>http://localhost:1313/posts/anomalies/why-is-the-charge-of-an-electron-e/</link>
+      <pubDate>Thu, 05 Feb 2026 21:08:37 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/anomalies/why-is-the-charge-of-an-electron-e/</guid>
+      <description>Why care?</description>
+      
+    </item>
+    
+    <item>
+      <title>A useful thing from 6d</title>
+      <link>http://localhost:1313/posts/anomalies/descent/</link>
+      <pubDate>Sun, 27 Jul 2025 18:04:24 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/anomalies/descent/</guid>
+      <description>This is a continuation of Some phenomenology of anomalies.</description>
+      
+    </item>
+    
+    <item>
+      <title>Some phenomenology of anomalies</title>
+      <link>http://localhost:1313/posts/anomalies/pheno/</link>
+      <pubDate>Sun, 20 Jul 2025 13:26:38 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/anomalies/pheno/</guid>
+      <description>I&amp;rsquo;ve recently gotten interested in anomalies for a variety of reasons and more specifically anomaly inflow, mostly due to an offshoot of a current project.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
