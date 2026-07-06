@@ -4,18 +4,24 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-04T21:30:03-05:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/scft/c2u1/</loc>
-    <lastmod>2026-06-04T21:30:03-05:00</lastmod>
+    <lastmod>2026-07-05T19:09:09-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-07-05T19:09:09-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/physics_life/wc/</loc>
+    <lastmod>2026-07-05T19:09:09-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/scft/c2u1/</loc>
     <lastmod>2026-06-04T21:30:03-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -232,6 +238,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/posts/journal/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/posts/physics_life/img/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Yasin</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 21:30:03 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Jul 2026 19:09:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The progress of theoretical physics-</title>
+      <link>http://localhost:1313/posts/physics_life/wc/</link>
+      <pubDate>Sun, 05 Jul 2026 19:09:09 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/physics_life/wc/</guid>
+      <description>-has been delayed by more than a month due to the ongoing FIFA worldcup.</description>
+      
+    </item>
+    
     <item>
       <title>On coincidences or interesting physics</title>
       <link>http://localhost:1313/posts/scft/c2u1/</link>
@@ -365,6 +375,16 @@
       
       <guid>http://localhost:1313/posts/journal/</guid>
       <description>1日三月令和8年 #今日から日本語でジャーナルのは始めたいです。あんまりよく書けないつもりです。数年前に日本語を勉強していて日本語の本を読んでいた。今、N2本や文法まで分かれます。漢字もG4まで読めると書けます。しかし、調べたり書いたり練習しなかった。だから、ここで毎日練習したいです。</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/posts/physics_life/img/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/posts/physics_life/img/</guid>
+      <description></description>
       
     </item>
     
