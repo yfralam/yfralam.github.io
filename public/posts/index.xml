@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Yasin</copyright>
-    <lastBuildDate>Sun, 05 Jul 2026 19:09:09 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jul 2026 20:33:03 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On the (un)reasonable effectiveness of self consistency in physics</title>
+      <link>http://localhost:1313/posts/vibes/mathematical-consistency/</link>
+      <pubDate>Thu, 16 Jul 2026 20:33:03 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/vibes/mathematical-consistency/</guid>
+      <description>Back in 1960, Wigner wrote a famous article, The Unreasonable Effectiveness of Mathematics in the Natural Sciences to point out the amazing fact that mathematical concepts very often find applications in the natural sciences and in particular, physics.</description>
+      
+    </item>
+    
     <item>
       <title>The progress of theoretical physics-</title>
       <link>http://localhost:1313/posts/physics_life/wc/</link>

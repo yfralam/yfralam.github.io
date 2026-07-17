@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>History on Lightly Caffeinated</title>
+    <link>http://localhost:1313/tags/history/</link>
+    <description>Recent content in History on Lightly Caffeinated</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Yasin</copyright>
+    <lastBuildDate>Thu, 16 Jul 2026 20:33:03 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/history/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On the (un)reasonable effectiveness of self consistency in physics</title>
+      <link>http://localhost:1313/posts/vibes/mathematical-consistency/</link>
+      <pubDate>Thu, 16 Jul 2026 20:33:03 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/vibes/mathematical-consistency/</guid>
+      <description>Back in 1960, Wigner wrote a famous article, The Unreasonable Effectiveness of Mathematics in the Natural Sciences to point out the amazing fact that mathematical concepts very often find applications in the natural sciences and in particular, physics.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
