@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Yasin</copyright>
-    <lastBuildDate>Thu, 16 Jul 2026 20:33:03 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jul 2026 18:05:35 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retrospectives on Papers</title>
+      <link>http://localhost:1313/paper-comments/</link>
+      <pubDate>Thu, 30 Jul 2026 18:05:35 -0500</pubDate>
+      
+      <guid>http://localhost:1313/paper-comments/</guid>
+      <description>\(\mathrm{Sp}(4,\mathbb Z)\) actions on 3d \(\mathrm{U}(1)^2\) symmetric theories #I was initially brought on by Ryan and Andreas to help figure out a duality web for \(\mathrm{U}(1)^2\) theories in 3d.</description>
+      
+    </item>
+    
     <item>
       <title>On the (un)reasonable effectiveness of self-consistency in physics</title>
       <link>http://localhost:1313/posts/vibes/mathematical-consistency/</link>
