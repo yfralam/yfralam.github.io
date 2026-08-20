@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tqft on Lightly Caffeinated</title>
+    <link>http://localhost:1313/categories/tqft/</link>
+    <description>Recent content in Tqft on Lightly Caffeinated</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Yasin</copyright>
+    <lastBuildDate>Thu, 20 Aug 2026 00:03:23 -0500</lastBuildDate><atom:link href="http://localhost:1313/categories/tqft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SO(3) Instantons</title>
+      <link>http://localhost:1313/posts/topology/so-instantons/</link>
+      <pubDate>Thu, 20 Aug 2026 00:03:23 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/topology/so-instantons/</guid>
+      <description>Recently I&amp;rsquo;ve been going through the Reading between the lines paper where they mention that \(\mathrm{SO}(3)\) instantons take values in the half integers (on oriented spin manifolds) instead of the integers like for \(\mathrm{SU}(2)\).</description>
+      
+    </item>
+    
+  </channel>
+</rss>

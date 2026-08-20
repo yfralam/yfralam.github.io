@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr" class="scroll-smooth" data-default-appearance="light"
-  data-auto-appearance="false"><head>
-	<meta name="generator" content="Hugo 0.128.2"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  data-auto-appearance="false"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   
   <meta http-equiv="content-language" content="en" />
@@ -9,18 +8,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   
-  <title>Lightly Caffeinated</title>
-  <meta name="title" content="Lightly Caffeinated" />
+  <title>SO(3) Instantons &middot; Lightly Caffeinated</title>
+  <meta name="title" content="SO(3) Instantons &middot; Lightly Caffeinated" />
+  
+  <meta name="description" content="SO(3) instantons can take values in half integers on spin 4 manifolds and quarter-integers on oriented 4 manifolds. This is not too difficult to show." />
+  <meta name="keywords" content="physics-t, " />
   
   
-  
-  
-  
-  <link rel="canonical" href="http://localhost:1313/" />
-  
-  <link rel="alternate" type="application/rss+xml" href="/index.xml" title="Lightly Caffeinated" />
-  
-  <link rel="alternate" type="application/json" href="/index.json" title="Lightly Caffeinated" />
+  <link rel="canonical" href="http://localhost:1313/posts/topology/so-instantons/" />
   
   
   
@@ -67,32 +62,49 @@
   
   
   
-  <meta property="og:url" content="http://localhost:1313/">
+  <meta property="og:url" content="http://localhost:1313/posts/topology/so-instantons/">
   <meta property="og:site_name" content="Lightly Caffeinated">
-  <meta property="og:title" content="Lightly Caffeinated">
+  <meta property="og:title" content="SO(3) Instantons">
+  <meta property="og:description" content="SO(3) instantons can take values in half integers on spin 4 manifolds and quarter-integers on oriented 4 manifolds. This is not too difficult to show.">
   <meta property="og:locale" content="en">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2026-08-20T00:03:23-05:00">
+    <meta property="article:modified_time" content="2026-08-20T00:03:23-05:00">
+    <meta property="article:tag" content="Physics-T">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Lightly Caffeinated">
+  <meta name="twitter:title" content="SO(3) Instantons">
+  <meta name="twitter:description" content="SO(3) instantons can take values in half integers on spin 4 manifolds and quarter-integers on oriented 4 manifolds. This is not too difficult to show.">
 
   
   <script type="application/ld+json">
-  {
+  [{
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "@id": "http:\/\/localhost:1313\/",
-    "name": "Lightly Caffeinated",
-    
+    "@type": "Article",
+    "articleSection": "Posts",
+    "name": "SO(3) Instantons",
+    "headline": "SO(3) Instantons",
+    "description": "SO(3) instantons can take values in half integers on spin 4 manifolds and quarter-integers on oriented 4 manifolds. This is not too difficult to show.",
+    "abstract": "Recently I\u0026rsquo;ve been going through the Reading between the lines paper where they mention that \\(\\mathrm{SO}(3)\\) instantons take values in the half integers (on oriented spin manifolds) instead of the integers like for \\(\\mathrm{SU}(2)\\).",
     "inLanguage": "en",
-    "url": "http:\/\/localhost:1313\/",
-    
-    "publisher" : {
+    "url" : "http:\/\/localhost:1313\/posts\/topology\/so-instantons\/",
+    "author" : {
       "@type": "Person",
       "name": "Yasin"
-    }
-  }
+    },
+    "copyrightYear": "2026",
+    "dateCreated": "2026-08-20T00:03:23-05:00",
+    "datePublished": "2026-08-20T00:03:23-05:00",
+    
+    "dateModified": "2026-08-20T00:03:23-05:00",
+    
+    "keywords": ["physics-t"],
+    
+    "mainEntityOfPage": "true",
+    "wordCount": "578"
+  }]
   </script>
 
 
@@ -112,6 +124,139 @@
   
 
 <script src="/lib/jquery/jquery.slim.min.js" integrity=""></script>
+
+
+
+
+
+
+
+
+
+
+
+<link type="text/css" rel="stylesheet" href="/lib/katex/katex.min.b6af89fb858eebf3a2f76dc5e96fec34b1ea60df75a463322f39a5e8386328f85a735a1393786ff33160aa709a25cb5d697b8b2fa554cf082d274e94655e0732.css" integrity="sha512-tq&#43;J&#43;4WO6/Oi923F6W/sNLHqYN91pGMyLzml6DhjKPhac1oTk3hv8zFgqnCaJctdaXuLL6VUzwgtJ06UZV4HMg==" />
+
+
+<script defer src="/lib/katex/katex.min.50f14e69d6a8da7128ae3b63974c544ed377c36d096b5e3750f114e84c89d668b9301d9b0ed3248969aa183aa2e3bc4d2c1e73d5dcb7d462890c45a18d424589.js" integrity="sha512-UPFOadao2nEorjtjl0xUTtN3w20Ja143UPEU6EyJ1mi5MB2bDtMkiWmqGDqi47xNLB5z1dy31GKJDEWhjUJFiQ=="></script>
+
+
+<script defer src="/lib/katex/auto-render.min.6095714e3aadb63b14ddc4af69346ab12974c1b460654345f8d1860a0b68fcc51b22f68b757433193090bb80afc8965b65cb607e5541d0f5f0f4b2e64d69b9ff.js" integrity="sha512-YJVxTjqttjsU3cSvaTRqsSl0wbRgZUNF&#43;NGGCgto/MUbIvaLdXQzGTCQu4CvyJZbZctgflVB0PXw9LLmTWm5/w=="
+  onload="renderMathInElement(document.body);"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -409,123 +554,25 @@
   <div class="relative flex flex-col grow">
     <main id="main-content" class="grow">
       
+
+
+<article>
   
-  
+
+  <header id="single_header" class="mt-5 max-w-prose">
     
-<article class="max-w-full prose dark:prose-invert">
-    <div class="relative">
-        <div class="absolute inset-x-0 bottom-0 h-1/2 bg-gray-100"></div>
-        <div class="mx-auto max-w-7xl p-0">
-            <div class="relative shadow-xl sm:overflow-hidden rounded-2xl">
-                <div class="absolute inset-0">
-                    
-                    
-                    
-                    
-                </div>
-                <div class="relative px-4 py-16 sm:px-6 sm:py-24 lg:py-32 lg:px-8 flex flex-col items-center justify-center text-center">
-                    
-                        
-                        
-                            
-                        
-                        
-                            
-                                
-                            
-                            <img class="mb-2 rounded-full h-36 w-36" width="144" height="144"
-                                alt="Yasin" src="/img/yare-yare_hu051cf355812d6b417708e0b7c6f6ac13_4628350_288x288_fill_box_center_1.gif" />
-                        
-                    
-                    <h1 class="mb-2 text-4xl font-extrabold text-neutral-200">
-                        Yasin
-                    </h1>
-                    
-                    <h2 class="mt-0 mb-0 text-xl text-neutral-300">
-                        研究が終わらない
-                    </h2>
-                    
-                    <div class="mt-3 mb-10 text-2xl">
-                        
-                        <div class="flex flex-wrap">
-                            
-                            
-                            <a class="px-1 hover:text-primary-400 text-primary-300" href="https://inspirehep.net/authors/2698694?ui-citation-summary=true&amp;ui-exclude-self-citations=true" target="_blank"
-                                aria-label="Orcid" rel="me noopener noreferrer">
-
-  <span class="relative block icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M294.75 188.19h-45.92V342h47.47c67.62 0 83.12-51.34 83.12-76.91 0-41.64-26.54-76.9-84.67-76.9zM256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm-80.79 360.76h-29.84v-207.5h29.84zm-14.92-231.14a19.57 19.57 0 1 1 19.57-19.57 19.64 19.64 0 0 1-19.57 19.57zM300 369h-81V161.26h80.6c76.73 0 110.44 54.83 110.44 103.85C410 318.39 368.38 369 300 369z"/></svg>
-
-  </span>
-
-</a>
-                            
-                            
-                            
-                            <a class="px-1 hover:text-primary-400 text-primary-300" href="https://yfralam.github.io/index.xml" target="_blank"
-                                aria-label="Rss" rel="me noopener noreferrer">
-
-  <span class="relative block icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM128 416c0 35.3-28.7 64-64 64s-64-28.7-64-64s28.7-64 64-64s64 28.7 64 64zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/></svg>
-  </span>
-
-</a>
-                            
-                            
-                        </div>
-                        
-                    </div>
-					<div class="w-[90%] sm:w-[80%] md:w-1/2 lg:w-1/3 min-w-0">
-						<iframe 
-							class="w-full max-w-full block"
-							style="border-radius:12px"
-							src="https://open.spotify.com/embed/track/57QPJQsTFoH3IeMIlGRioA?utm_source=generator"
-							height="100%"
-							frameborder="0"
-							allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-							loading="lazy">
-						</iframe>
-					</div>
-                    <section class="prose prose-invert"></section>
-                </div>
-            </div>
-        </div>
-    </div>
-</article>
-<section>
-    
+    <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
+      SO(3) Instantons
+    </h1>
+    <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
+      
 
 
 
-
-
-<h2 class="mt-8 text-2xl font-extrabold mb-10">Recent</h2>
 
 
   
-
-
-<section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
   
-  
-
-  <a href="/posts/topology/so-instantons/" class="min-w-full">
-    
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
-
-      <div class="px-6 py-4">
-
-        
-        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
-          href="/posts/topology/so-instantons/">SO(3) Instantons</div>
-        
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
-
-
-
-
 
 
 
@@ -609,280 +656,411 @@
 
 
 
-        </div>
-
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
-
-      </div>
     </div>
-  </a>
 
-  
-  
-
-  <a href="/posts/physics_life/pressure/" class="min-w-full">
     
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
-
-      <div class="px-6 py-4">
-
-        
-        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
-          href="/posts/physics_life/pressure/">Druck</div>
-        
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-  <time datetime="2026-08-02 14:43:49 -0500 CDT">2 August 2026</time><span class="px-2 text-primary-500">&middot;</span><span>2077 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">10 mins</span>
-  
-
-  
-  
-</div>
-
-
-
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/physics-nt/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Physics-Nt
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/life/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Life
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/opinion/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Opinion
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/history/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    History
-  </span>
-</span>
-  </span>
-  
-  
-  
-  
-</div>
-
-
-
-        </div>
-
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
-
-      </div>
-    </div>
-  </a>
-
-  
-  
-
-  <a href="/posts/vibes/mathematical-consistency/" class="min-w-full">
     
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
+    
+    
+    
 
-      <div class="px-6 py-4">
+    
 
+    
+      
+      
         
-        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
-          href="/posts/vibes/mathematical-consistency/">On the (un)reasonable effectiveness of self-consistency in physics</div>
         
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
-
-
-
-
-
-
-
-
-
-
-
+<div class="flex author">
   
-
-
-
-
-
-  
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-  <time datetime="2026-07-16 20:33:03 -0500 CDT">16 July 2026</time><span class="px-2 text-primary-500">&middot;</span><span>2236 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">11 mins</span>
-  
-
-  
-  
-</div>
-
-
-
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/physics-nt/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Physics-Nt
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/history/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    History
-  </span>
-</span>
-  </span>
-  
-  
-  
-  
-</div>
-
-
-
-        </div>
-
+    
+    
+      
+    
+    
+      
         
-      </div>
-      <div class="px-6 pt-4 pb-2">
-
-      </div>
+      
+      <img class="!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4" width="96" height="96"
+      alt="Yasin" src="/img/yare-yare_hu051cf355812d6b417708e0b7c6f6ac13_4628350_192x192_fill_box_center_1.gif" />
+    
+  
+  <div class="place-self-center">
+    
+    <div class="text-[0.6rem] uppercase leading-3 text-neutral-500 dark:text-neutral-400">
+      Author
     </div>
-  </a>
+    <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
+      Yasin
+    </div>
+    
+    
+    <div class="text-2xl sm:text-lg">
+  <div class="flex flex-wrap text-neutral-400 dark:text-neutral-500">
+    
+      
+        <a
+          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+          href="https://inspirehep.net/authors/2698694?ui-citation-summary=true&amp;ui-exclude-self-citations=true"
+          target="_blank"
+          aria-label="Orcid"
+          rel="me noopener noreferrer"
+          ><span class="inline-block align-text-bottom">
 
-  
-</section>
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M294.75 188.19h-45.92V342h47.47c67.62 0 83.12-51.34 83.12-76.91 0-41.64-26.54-76.9-84.67-76.9zM256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm-80.79 360.76h-29.84v-207.5h29.84zm-14.92-231.14a19.57 19.57 0 1 1 19.57-19.57 19.64 19.64 0 0 1-19.57 19.57zM300 369h-81V161.26h80.6c76.73 0 110.44 54.83 110.44 103.85C410 318.39 368.38 369 300 369z"/></svg>
 
+  </span>
 
+</span></a
+        >
+      
+    
+      
+        <a
+          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+          href="https://yfralam.github.io/index.xml"
+          target="_blank"
+          aria-label="Rss"
+          rel="me noopener noreferrer"
+          ><span class="inline-block align-text-bottom">
 
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM128 416c0 35.3-28.7 64-64 64s-64-28.7-64-64s28.7-64 64-64s64 28.7 64 64zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/></svg>
+  </span>
 
+</span></a
+        >
+      
+    
+  </div>
 
-
-<div class="mt-10 flex justify-center">
-  <a href="/posts">
-    <button
-      class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded">
-      Show More
-    </button>
-  </a>
 </div>
-
-
-
-</section>
-
-
-
-  
+  </div>
+</div>
 
       
+
+      
+        
+
+      
+      <div class="mb-5"></div>
+      
+
+    
+
+  </header>
+  
+  <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
+    
+     <div
+      class="order-first lg:ml-auto px-0 lg:order-last ltr:lg:pl-8 rtl:lg:pr-8">
+      <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-[140px]">
+
+         <details open id="TOCView"
+  class="toc-right mt-0 overflow-y-scroll overscroll-contain scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600 rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
+  <summary
+    class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Table of Contents
+  </summary>
+  <div
+    class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#on-a-spin-4-manifold">On a spin 4 manifold</a></li>
+    <li><a href="#on-a-non-spin-4-manifold">On a non-spin 4 manifold</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+<details class="toc-inside mt-0 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 lg:hidden">
+  <summary
+    class="py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Table of Contents
+  </summary>
+  <div
+    class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#on-a-spin-4-manifold">On a spin 4 manifold</a></li>
+    <li><a href="#on-a-non-spin-4-manifold">On a non-spin 4 manifold</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+
+<script>
+
+  var margin = 200;
+  var marginError = 50;
+
+  (function () {
+    var $window = $(window);
+    var $toc = $('#TOCView');
+    var tocHeight = $toc.height();
+
+    function onResize() {
+      var windowAndMarginHeight = $window.height() - margin;
+      if(tocHeight >= windowAndMarginHeight) {
+        $toc.css("overflow-y", "scroll")
+        $toc.css("max-height", (windowAndMarginHeight + marginError) + "px")
+      } else {
+        $toc.css("overflow-y", "hidden")
+        $toc.css("max-height", "9999999px")
+      }
+    }
+
+    $window.on('resize', onResize);
+    $(document).ready(onResize);
+  })();
+
+
+
+  (function () {
+    var $toc = $('#TableOfContents');
+    if ($toc.length > 0) {
+      var $window = $(window);
+
+      function onScroll() {
+        var currentScroll = $window.scrollTop();
+        var h = $('.anchor');
+        var id = "";
+        h.each(function (i, e) {
+          e = $(e);
+          if (e.offset().top - $(window).height()/3 <= currentScroll) {
+            id = decodeURIComponent(e.attr('id'));
+          }
+        });
+        var active = $toc.find('a.active');      
+        if (active.length == 1 && active.eq(0).attr('href') == '#' + id) return true;
+
+        active.each(function (i, e) {
+          
+            $(e).removeClass('active');
+          
+        });
+        $toc.find('a[href="#' + id + '"]').addClass('active')
+        $toc.find('a[href="#' + id + '"]').parentsUntil('#TableOfContents').each(function (i, e) {
+          $(e).children('a').parents('ul').show();          
+        });
+      }
+
+      $window.on('scroll', onScroll);
+      $(document).ready(function () {
+        
+        onScroll();
+      });
+    }
+  })();
+
+
+</script>
+   </div>
+      </div>
+      
+
+      <div class="min-w-0 min-h-0 max-w-fit">
+        
+        
+
+
+        <div class="article-content max-w-prose mb-20">
+          
+
+<p>Recently I&rsquo;ve been going through the <a href="https://arxiv.org/abs/1305.0318" target="_blank"><em>Reading between the lines paper</em></a> where they mention that \(\mathrm{SO}(3)\) instantons take values in the half integers (on oriented spin manifolds) instead of the integers like for \(\mathrm{SU}(2)\). This is actually not too difficult to show.</p>
+
+
+<h2 class="relative group">On a spin 4 manifold 
+    <div id="on-a-spin-4-manifold" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#on-a-spin-4-manifold" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>The instanton number is defined as</p>
+<p>$$k(P) = -\frac14 \langle p_1(P),[X] \rangle, $$
+where \(P\) is some principal G-bundle (for now take \(\mathrm{SO}(3)\)) and \(X\) is a spin 4-manifold.</p>
+<p>The first Pontryagin classes is related to the Pontryagin square operation as</p>
+<p>$$p_1(P) = \mathcal{P}(w_2 (P)) \mod 4,$$
+where \(\mathcal{P}: H^2(X;\mathbb{Z}_2) \to H^4(X;\mathbb{Z}_4)\) and \(w_2\) is the 2nd Stiefel-Whitney class.</p>
+<p>Take an element \(x \in H^2(X;\mathbb{Z}_2)\). The Wu formula gives</p>
+<p>$$\langle x \smile x, [X]\rangle = \langle x \smile w_2(TX),[X]\rangle .$$
+However, because \(X\) is a spin manifold, \(w_2(TX)=0\). Thus</p>
+<p>$$ \langle x \smile x, [X]\rangle = 0.$$
+Now we can use \(\mathcal{P}(x) \mod 2 = x^2\). We need to mod by 2 as the Pontryagin square on a manifold lands us in \(\mathbb{Z}_4\)<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>. We now have</p>
+<p>$$\langle \mathcal{P}(x),[X]\rangle \mod 2 = \langle x^2,[X]\rangle=0. $$</p>
+<p>This means that</p>
+<p>$$ \langle\mathcal{P}(x),[X]\rangle=\{0,2\} \subset \mathbb{Z}_4.$$</p>
+<p>Now we can go back to the instanton number. Let \(x = w_2(P)\) so that</p>
+<p>$$\frac14 \langle p_1(P),[X] \rangle = \frac14 \langle \mathcal{P}(w_2(P)),[X] \rangle \mod 4 .$$
+So the instanton (dropping the minus) can take two classes:
+$$ k(P) = \frac14 \times (\{0,2\} \mod 4).$$
+If on the RHS we have \(0 \mod 4\), then (\(n \in \mathbb{Z}\))</p>
+<p>$$k(P) = \frac14 \times 4n \in \mathbb{Z}$$and the instanton number is actually an integer.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
+<p>The other case is more interesting. If the RHS has \(2 \mod 4\) then</p>
+<p>$$k(P) = \frac14 \times (4n+2)\in \mathbb{Z}+\frac12.$$</p>
+<p>In all, for an arbitrary \(\mathrm{SO}(3)\)) bundle,</p>
+<p>$$k(P) \in \frac{1}{2}\mathbb{Z} .$$
+In other words, the instanton angle is not \(2 \pi \) periodic<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>, but \(4 \pi \) periodic (\(\theta \sim \theta + 4 \pi \) ).</p>
+
+
+<h2 class="relative group">On a non-spin 4 manifold 
+    <div id="on-a-non-spin-4-manifold" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#on-a-non-spin-4-manifold" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>What happens on a non-spin manifold? Well, then \(w_2(TX) \neq 0\) and</p>
+<p>$$\langle \mathcal{P}(x),[X]\rangle \mod 2 = \langle x^2,[X]\rangle $$
+is not necessarily zero. Let us consider the case where it is not. Then the RHS of the above equation is \(1\) and
+$$ \langle\mathcal{P}(x),[X]\rangle=\{1,3\} \subset \mathbb{Z}_4.$$</p>
+<p>Following the same arguments as above,</p>
+<p>$$ k(P) = \frac14 \times (\{1,3\} \mod 4)$$
+so that</p>
+<p>$$k(P) = \frac14(4k+1) \quad \text{or} \quad \frac14 (4k+3) $$
+respectively. This means that the instanton number doesn&rsquo;t have to take half integer values, but</p>
+<p>$$ k(P) \in \frac14 \mathbb{Z} $$
+or in other words,</p>
+<p>$$ \theta \sim \theta + 8\pi .$$</p>
+<p>Of course, because \( p_1(P) \in H^4(X;\mathbb{Z})\), naively the instanton number is already a quarter-integer, but where&rsquo;s the fun in just saying that?</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>In fancier words, the Pontryagin square is a \(\mathbb{Z}_4\) valued quadratic refinement of the ordinary mod-2 cup product pairing. One can check on their own time that it satifies the properties of a quadratic refinement: \(Q(x+y) = Q(x) + Q(y) + 2(xy)\).&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>In the case that \(w_2(P)=0\),  there exists an honest to god uplift of the \(\mathrm{SO}(3)\)) bundle to the \(\mathrm{SU}(2)\)) bundle. Another way to say this is that the instanton angle is genuinely \(2 \pi\) periodic \(\theta \sim \theta + 2\pi \).&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>Normally in the path integral, the instanton number enters as $$e^{i \theta k}$$ so to preserve the single valuedness, if k is an integer we can just have 2 pi periodicity. If k is a half integer then we need 4 pi in theta periodicity.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+        </div>
+        
+        
+
+        
+        
+
+          
+      </div>
+     
+      
+      
+        
+        
+          
+          
+        
+      <script>
+        var oid = "views_posts\\topology\\so-instantons.md"
+        var oid_likes = "likes_posts\\topology\\so-instantons.md"
+      </script>
+      
+      
+      
+      <script type="text/javascript" src="/js/page.min.0860cf4e04fa2d72cc33ddba263083464d48f67de06114529043cb4623319efed4f484fd7f1730df5abea0e2da6f3538855634081d02f2d6e920b956f063e823.js" integrity="sha512-CGDPTgT6LXLMM926JjCDRk1I9n3gYRRSkEPLRiMxnv7U9IT9fxcw31q&#43;oOLabzU4hVY0CB0C8tbpILlW8GPoIw=="></script>
+  
+    </section>
+  <footer class="pt-8 max-w-prose print:hidden">
+
+    
+  
+    
+    
+    
+    <div class="pt-8">
+      <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
+      <div class="flex justify-between pt-3">
+        <span>
+          
+            <a class="flex group mr-3" href="/posts/physics_life/pressure/">
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >Druck</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="2026-08-02 14:43:49 -0500 CDT">2 August 2026</time>
+                  
+                </span>
+              </span>
+            </a>
+          
+        </span>
+        <span>
+          
+        </span>
+      </div>
+    </div>
+  
+
+
+    
+    
+    <div class="pt-3">
+      <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
+      <div class="pt-3">
+        
+
+
+
+<div class="comments-hint">
+  💡 You can write LaTeX in comments, e.g. <code>\n $$1+2=3$$ \n </code> (display must be seperated by two empty lines) or just a single $ for inline.
+</div>
+
+<script src="https://giscus.app/client.js"
+        data-repo="yfralam/yfralam.github.io"
+        data-repo-id="R_kgDOMX5CGw"
+        data-category-id="DIC_kwDOMX5CG84C2Hwq"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="catppuccin_latte"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+
+      </div>
+    </div>
+    
+    
+  </footer>
+</article>
+
+      <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0">
+  <a href="#the-top"
+    class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 mb-16 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
+    aria-label="Scroll to top" title="Scroll to top">
+    &uarr;
+  </a>
+</div>
     </main><footer id="site-footer" class="py-10 print:hidden">
   
   

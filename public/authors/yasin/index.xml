@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Yasin</copyright>
-    <lastBuildDate>Sun, 02 Aug 2026 14:43:49 -0500</lastBuildDate><atom:link href="http://localhost:1313/authors/yasin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Aug 2026 00:03:23 -0500</lastBuildDate><atom:link href="http://localhost:1313/authors/yasin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SO(3) Instantons</title>
+      <link>http://localhost:1313/posts/topology/so-instantons/</link>
+      <pubDate>Thu, 20 Aug 2026 00:03:23 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/topology/so-instantons/</guid>
+      <description>Recently I&amp;rsquo;ve been going through the Reading between the lines paper where they mention that \(\mathrm{SO}(3)\) instantons take values in the half integers (on oriented spin manifolds) instead of the integers like for \(\mathrm{SU}(2)\).</description>
+      
+    </item>
+    
     <item>
       <title>Druck</title>
       <link>http://localhost:1313/posts/physics_life/pressure/</link>
