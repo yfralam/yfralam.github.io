@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Yasin</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 00:03:23 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Sep 2026 22:48:07 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Navier-Stokes Blowup</title>
+      <link>http://localhost:1313/posts/opinions/navier-stokes/</link>
+      <pubDate>Tue, 08 Sep 2026 22:48:07 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/opinions/navier-stokes/</guid>
+      <description>The physical stɒkes #This morning I woke up to several messages in my group chat saying Navier-Stokes (NS) has been solved, in large part due to AI.</description>
+      
+    </item>
+    
     <item>
       <title>SO(3) Instantons</title>
       <link>http://localhost:1313/posts/topology/so-instantons/</link>
